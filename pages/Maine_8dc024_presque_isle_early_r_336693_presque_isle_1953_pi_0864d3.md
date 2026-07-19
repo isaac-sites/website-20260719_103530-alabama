@@ -1,0 +1,874 @@
+---
+level: 3
+basename: Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3
+parent_basename: Maine_8dc024_presque_isle_early_r_336693
+child_basenames: []
+sibling_basenames:
+- Maine_8dc024_presque_isle_early_r_336693_presque_isle_jupiter_7f6e88
+tags:
+- maine
+- presque-isle
+- pilot-case
+keywords:
+- maine
+- presque-isle
+- pilot-case
+affiliate_category: maine
+show_ads: true
+description: The reported grey oval seen by fighter pilots sounds impressive, but missing files and doubtful radar details prevent a firm conclusion.
+hero_summary: The reported grey oval seen by fighter pilots sounds impressive, but missing files and doubtful radar details prevent a firm conclusion.
+layout: default
+permalink: /pilot-case/
+sidebar_expanded_urls:
+- /what-really-happened-in-maines-ufo-cases/
+- /presque-isle/
+nav_short_title: Pilot Case
+title: Did Fighter Pilots See More Than a UFO?
+title_full: Did Fighter Pilots See More Than a UFO? | Presque Isle
+display_title_short: Pilot Case
+display_title: Pilot Case
+heading_title: Did Fighter Pilots See More Than a UFO?
+page_heading_title: Did Fighter Pilots See More Than a UFO?
+source_count: 25
+infographic_count: 3
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: constellation
+site_typography_tone: balanced
+planned_sections:
+- What later catalogues claim happened
+- Which pilot, radar and location details remain unverified
+- Why unresolved does not mean strongly unexplained
+focal_unit_type: dataset_evidence
+topic_lens: critique_risk
+topic_granularity: single_case
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
+  topics: Topics
+  explore_another_branch: Explore another branch
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-16 18:22:41'
+parent_title: What Do the Presque Isle Records Prove? | Maine UFOs
+parent_permalink: /presque-isle/
+parent_nav_short_title: Presque Isle
+parent_heading_title: What Do the Presque Isle Records Prove?
+ancestor_links:
+- basename: Maine_8dc024
+  title: Maine UFOs
+  permalink: /what-really-happened-in-maines-ufo-cases/
+  short_title: Maine UFOs
+- basename: Maine_8dc024_presque_isle_early_r_336693
+  title: Presque Isle | What Really Happened in Maine's UFO Cases?
+  permalink: /presque-isle/
+  short_title: Presque Isle
+  heading_title: What Do the Presque Isle Records Prove?
+breadcrumb_links:
+- basename: Maine_8dc024
+  title: Maine UFOs
+  permalink: /what-really-happened-in-maines-ufo-cases/
+  short_title: Maine UFOs
+- basename: Maine_8dc024_presque_isle_early_r_336693
+  title: Presque Isle | What Really Happened in Maine's UFO Cases?
+  permalink: /presque-isle/
+  short_title: Presque Isle
+  heading_title: What Do the Presque Isle Records Prove?
+sibling_links:
+- basename: Maine_8dc024_presque_isle_early_r_336693_presque_isle_jupiter_7f6e88
+  title: Jupiter Case | Presque Isle
+  permalink: /jupiter-case/
+  short_title: Jupiter Case
+  heading_title: How Jupiter Became a Military UFO Case
+up_link:
+  basename: Maine_8dc024_presque_isle_early_r_336693
+  title: Presque Isle | What Really Happened in Maine's UFO Cases?
+  permalink: /presque-isle/
+  short_title: Presque Isle
+  heading_title: What Do the Presque Isle Records Prove?
+has_inline_related_reports_panel: true
+prev_link:
+  basename: Maine_8dc024_presque_isle_early_r_336693_presque_isle_jupiter_7f6e88
+  title: Jupiter Case | Presque Isle
+  permalink: /jupiter-case/
+  short_title: Jupiter Case
+  heading_title: How Jupiter Became a Military UFO Case
+header:
+  og_image: /assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-1-social.jpg
+  preview_image: /assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-1.webp
+image: /assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The reported [Presque Isle]({{ 'presque-isle/' | relative_url }}) pilot case of January 1953 is often presented as one of [Maine]({{ 'what-really-happened-in-maines-ufo-cases/' | relative_url }})’s more intriguing early military UFO incidents. According to later catalogues, fighter aircrew saw a grey oval or disc-like object while flying over northern Maine, and some versions of the story suggest that radar personnel were also involved. On the surface, that combination—trained military witnesses, high-performance aircraft and possible radar support—sounds impressive. Yet the case remains uncertain because the surviving evidence is surprisingly thin. The original documentation is incomplete, key details vary between retellings, and researchers have not been able to verify many of the elements that make the story seem especially significant. Rather than being a strong unexplained case, it is better understood as a poorly documented one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Case illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+Within the wider history of Presque Isle military sightings, the 1953 report stands in sharp contrast to the better-known October 1952 observation that generated detailed measurements and later analysis. The pilot case survives largely as a brief entry in UFO catalogues and secondary summaries rather than as a fully documented investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+
+
+
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/presque-isle/' | relative_url }}"><span class="article-branch-link-short">Presque Isle</span><span class="article-branch-link-heading">What Do the Presque Isle Records Prove?</span></a></li>
+<li><a href="{{ '/jupiter-case/' | relative_url }}"><span class="article-branch-link-short">Jupiter Case</span><span class="article-branch-link-heading">How Jupiter Became a Military UFO Case</span></a></li>
+<li><a href="{{ '/alert-timeline/' | relative_url }}"><span class="article-branch-link-short">Alert Timeline</span><span class="article-branch-link-heading">What Happened During Loring&#x27;s October 1975 Alerts?</span></a></li>
+<li><a href="{{ '/allagash-claim/' | relative_url }}"><span class="article-branch-link-short">Allagash Claim</span><span class="article-branch-link-heading">Did the Allagash Abduction Story Hold Up?</span></a></li>
+<li><a href="{{ '/lake-lights/' | relative_url }}"><span class="article-branch-link-short">Lake Lights</span><span class="article-branch-link-heading">Why Lights Hover Over Maine Lakes</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+## What Later Catalogues Claim Happened
+
+Most later descriptions trace back to a short Project Blue Book-era case summary dated 29 January 1953. According to those accounts, two aircrew members and a radar observer aboard fighter aircraft reported seeing a grey, saucer-shaped or oval object near Houlton in northern Maine, not far from the Presque Isle air-defence area. The object was described as stationary or nearly stationary relative to the aircraft and was reportedly observed under daylight conditions while the fighters were operating at high altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+
+The case attracted later attention because the witnesses were military personnel rather than casual observers. Northern Maine was also an important Cold War air-defence region at the time. Presque Isle Air Force Base hosted interceptor units tasked with monitoring approaches to the northeastern United States, making any unidentified aerial report operationally relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/4711th_Air_Defense_Wing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">4711th Air Defense Wing</span><span class="citation-popover-snippet">4711th Air Defense Wing</span></span></span>
+
+However, nearly all modern retellings depend on condensed catalogue entries rather than a complete investigative record. That limitation becomes important when assessing how much confidence should be placed in the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZTYhwwq4tc" title="The Creepy Missing F-89 Pilot - The Kinross UFO Incident" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 11:08">11:08</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer">The Creepy Missing F-89 Pilot - The Kinross UFO Incident</a></p><p class="youtube-embed-meta">Channel: Dark Docs &middot; Views: 1.3M &middot; Uploaded: February 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZTYhwwq4tc">Open on YouTube</a></p></div></div></div>
+
+## Which Pilot, Radar and Location Details Remain Unverified
+
+The biggest problem is that many of the details repeated in UFO literature cannot easily be checked against surviving primary records.
+
+Several uncertainties stand out:
+
+* **Witness identities are unclear.** Publicly available summaries often omit names, ranks or unit assignments, making independent verification difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+* **The aircraft type is inconsistently reported.** Some summaries describe F-84 fighters, while Presque Isle interceptor units in early 1953 were undergoing organisational changes involving several different aircraft types and squadrons. Establishing exactly which aircraft were involved is not straightforward from the surviving public material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+* **Radar involvement is vague.** Some retellings mention radar personnel or imply radar confirmation, but publicly available descriptions rarely provide radar logs, tracking data, range estimates or controller reports. Without those records, it is impossible to determine whether radar actually detected an unusual target or whether radar personnel merely participated as witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+* **The exact location is uncertain.** Modern accounts alternately associate the event with Houlton, Presque Isle, or the wider northern Maine air-defence sector. Those locations are related but not identical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+
+These gaps matter because the strength of military UFO cases often depends on corroboration. A sighting supported by named witnesses, flight records, radar data and investigative files can be evaluated. A sighting lacking those elements is much harder to assess.
+
+
+
+<img src="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Case illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## The Missing File Problem
+
+Another reason the case remains uncertain is the apparent absence of a complete publicly available case file.
+
+Project Blue Book collected thousands of reports, but not all records survived in equally complete form. Some cases are represented by extensive witness statements, sketches, radar information and correspondence. Others survive only as brief catalogue entries or summaries. The Presque Isle pilot case falls much closer to the latter category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+
+Researchers discussing historical UFO reports often distinguish between an unexplained event and an undocumented event. The Presque Isle case largely belongs in the second category. The lack of documentation prevents modern investigators from checking weather conditions, astronomical possibilities, aircraft positions, radar performance, or witness consistency. Without those materials, even basic questions remain unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/usaf_f1.pdf?ver=2017-05-22-113513-730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">usaf f1</span><span class="citation-popover-snippet">Defense Logistics Agency· United States Air ForceThe Air Force investigation of UFO&#x27;s began in 1948 ・ in 1953, it became Project Blue Boo...</span></span></span>
+
+This is especially significant because northern Maine was part of a busy air-defence network during the early Cold War. Radar systems, interceptor aircraft and command centres were all operating in an environment where misidentifications and incomplete information could occur. Detailed records would be needed to separate an unusual target from a routine operational misunderstanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0152_Degering_Radar_Contact.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airuniversity.af.edu">[Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airuniversity.af.edu</span><span class="citation-popover-title">Air University Radar Contact</span><span class="citation-popover-snippet">Air UniversityRadar Contact - Air UniversityFebruary 20, 2019 — by R DeGering · Cited by 1 — “Radar Contact!” The Beginnings of Army Air...</span><span class="citation-popover-meta">Published: February 20, 2019</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpu7gZnKfK4" title="The Allagash Encounter: A TERRIFYING UFO Abduction Story" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 24:58">24:58</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer">The Allagash Encounter: A TERRIFYING UFO Abduction Story</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 256.6K &middot; Uploaded: March 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpu7gZnKfK4">Open on YouTube</a></p></div></div></div>
+
+## Why Unresolved Does Not Mean Strongly Unexplained
+
+A common misunderstanding in UFO history is that a case with no final explanation automatically becomes stronger evidence for something extraordinary. The Presque Isle pilot report demonstrates why that assumption can be misleading.
+
+There are at least three different possibilities:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. **An unusual aerial event genuinely occurred.**
+2. **A conventional object was misidentified.**
+3. **The available records are simply too incomplete to determine what happened.**
+
+</div>
+
+The surviving evidence does not allow investigators to choose confidently among those possibilities. The case therefore remains unresolved, but unresolved is not the same as compellingly unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+
+Many of the features that would make the incident especially persuasive—confirmed radar tracking, detailed pilot testimony, precise manoeuvre descriptions, or a documented investigative conclusion—are either missing or uncertain. As a result, later writers have often had to rely on increasingly distant retellings rather than original documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">houlton me january 1953</span><span class="citation-popover-snippet">Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</span><span class="citation-popover-meta">Published: january 1953</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Case illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_presque_isle_early_r_336693_presque_isle_1953_pi_0864d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## What the Case Contributes to Maine UFO History
+
+The importance of the January 1953 incident is not that it proves the presence of an unknown craft over Maine. Instead, it illustrates a recurring problem in early UFO history: significant claims can outlive the records needed to evaluate them.
+
+In the Presque Isle area, the contrast between the October 1952 observation and the January 1953 pilot report is revealing. The 1952 case generated enough information for later investigators to reconstruct what happened and argue for an astronomical explanation. The 1953 case lacks that level of documentation, leaving modern researchers with little more than a brief description and a series of unanswered questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">U.S. Department of WarCIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-...Flying Objects, Radar Coverage•• Presque Isle, Mdne (10 O...</span></span></span>(https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf)
+
+For that reason, the Presque Isle pilot case occupies an unusual place in Maine UFO history. It remains noteworthy because military personnel were involved and because the report emerged from an important Cold War air-defence region. Yet its enduring mystery stems less from extraordinary evidence than from the absence of evidence needed to reach a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/4711th_Air_Defense_Wing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">4711th Air Defense Wing</span><span class="citation-popover-snippet">4711th Air Defense Wing</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7c6LMgr_N0" title="An Unknown Aircraft Penetrated U.S. Nuclear Facilities in 1975 | Close Encounters" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:40">3:40</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7c6LMgr_N0" target="_blank" rel="noopener noreferrer">An Unknown Aircraft Penetrated U.S. Nuclear Facilities in 1975 | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 272.9K &middot; Uploaded: April 2014 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7c6LMgr_N0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7c6LMgr_N0">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Fighter Pilots See More Than a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+<p class="fr-book-desc">Helps evaluate poorly documented pilot sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
+        
+<p class="fr-book-desc">Includes aviation and military witness cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government: A Historical Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government: A Historical Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government: A Historical Inquiry">UFOs and Government: A Historical Inquiry</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
+        
+<p class="fr-book-desc">Closely matches the military-record and catalog focus of the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
+        
+<p class="fr-book-desc">Useful when evidence is incomplete and claims are uncertain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government: A Historical Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO encounter poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/127669599965?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item1db9b37edd%3Ag%3A53cAAeSwz6xphil3&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/127669599965?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item1db9b37edd%3Ag%3A53cAAeSwz6xphil3&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.99 | Shipping GBP 4.99</span><span>New</span><span>Seller: mirrashop2018 (99.8% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/127669599965?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item1db9b37edd%3Ag%3A53cAAeSwz6xphil3&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/800047836075?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=itemba46912bab%3Ag%3A5gAAAeSwI6lqDrKO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/800047836075?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=itemba46912bab%3Ag%3A5gAAAeSwI6lqDrKO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 26.97 | Shipping GBP 9.89</span><span>New</span><span>Seller: h72035 (99.9% positive)</span><span>Ships from: US</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/800047836075?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=itemba46912bab%3Ag%3A5gAAAeSwI6lqDrKO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/358276644535?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item536af3beb7%3Ag%3AlUAAAeSwiqlppWMU&amp;amdata=enc%3AAQALAAABQACCtXRWQnOEpyOqnQQ8KGa334EXHHlO%2BentpCs7u99wnNLBmwU8ICCLUNI6l2nm6gPKZoyk3yFkUSW3EhqKgOx11m8mTFicBO45ooRjKaolcw6V7VNZnJnvbnem%2Fo%2FSvC5QAHf%2FXs9jnqNKkQthjnvtW7i0PTMOkUhiuzgKZuZ8gBeSLKmHqmkoopQ6P%2FICZhaesafyUEA2Grrb5vdfCu%2BcvwzlkUWaQIQVG%2B9rlf47yzgrTw0oR4UwDtpKkDam0OWktVsQdsWPgANw2eq72VVYVGOURAXldWC%2B1LY8nhz4ABh2cOC9h8SxxMEDH8eoGxkwfPZdTdsnqMYH2TlsmF1V4S4ZmPpQ%2BVthmxWdgBzmR2U45W4kSCLw2tcjlufsMVMpw4is9yH6LrrathWN0tiPT9WdHXrq%2BcIYEUM80tJY&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor"><img src="{{ '/assets/images/marketplace-covers/73c8f8ee2051961ee714.jpg' | relative_url }}" alt="Listing image for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/358276644535?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item536af3beb7%3Ag%3AlUAAAeSwiqlppWMU&amp;amdata=enc%3AAQALAAABQACCtXRWQnOEpyOqnQQ8KGa334EXHHlO%2BentpCs7u99wnNLBmwU8ICCLUNI6l2nm6gPKZoyk3yFkUSW3EhqKgOx11m8mTFicBO45ooRjKaolcw6V7VNZnJnvbnem%2Fo%2FSvC5QAHf%2FXs9jnqNKkQthjnvtW7i0PTMOkUhiuzgKZuZ8gBeSLKmHqmkoopQ6P%2FICZhaesafyUEA2Grrb5vdfCu%2BcvwzlkUWaQIQVG%2B9rlf47yzgrTw0oR4UwDtpKkDam0OWktVsQdsWPgANw2eq72VVYVGOURAXldWC%2B1LY8nhz4ABh2cOC9h8SxxMEDH8eoGxkwfPZdTdsnqMYH2TlsmF1V4S4ZmPpQ%2BVthmxWdgBzmR2U45W4kSCLw2tcjlufsMVMpw4is9yH6LrrathWN0tiPT9WdHXrq%2BcIYEUM80tJY&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 27.66 | Shipping GBP 12.58</span><span>New</span><span>Seller: veilwalkershop (100.0% positive)</span><span>Ships from: US</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/358276644535?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item536af3beb7%3Ag%3AlUAAAeSwiqlppWMU&amp;amdata=enc%3AAQALAAABQACCtXRWQnOEpyOqnQQ8KGa334EXHHlO%2BentpCs7u99wnNLBmwU8ICCLUNI6l2nm6gPKZoyk3yFkUSW3EhqKgOx11m8mTFicBO45ooRjKaolcw6V7VNZnJnvbnem%2Fo%2FSvC5QAHf%2FXs9jnqNKkQthjnvtW7i0PTMOkUhiuzgKZuZ8gBeSLKmHqmkoopQ6P%2FICZhaesafyUEA2Grrb5vdfCu%2BcvwzlkUWaQIQVG%2B9rlf47yzgrTw0oR4UwDtpKkDam0OWktVsQdsWPgANw2eq72VVYVGOURAXldWC%2B1LY8nhz4ABh2cOC9h8SxxMEDH8eoGxkwfPZdTdsnqMYH2TlsmF1V4S4ZmPpQ%2BVthmxWdgBzmR2U45W4kSCLw2tcjlufsMVMpw4is9yH6LrrathWN0tiPT9WdHXrq%2BcIYEUM80tJY&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/327160669783?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item4c2c4ba657%3Ag%3Ai5EAAeSw8ohqB6d-&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/327160669783?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item4c2c4ba657%3Ag%3Ai5EAAeSw8ohqB6d-&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 8.79 | Free shipping</span><span>New</span><span>Seller: morethisway (99.9% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/327160669783?_skw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;hash=item4c2c4ba657%3Ag%3Ai5EAAeSw8ohqB6d-&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pilot-case-did-fighter-pilots-see-more-than-a-ufo-maine-ufo-encounter-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: govweird.com  
+   Title: houlton me january 1953  
+   Link:<a href="https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953" target="_blank" rel="noopener noreferrer nofollow">https://www.govweird.com/topics/ufo/project-blue-book/houlton-me-january-1953</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Houlton, Maine, January 1953 - govweirdJanuary 1, 1953 — On January 29, 1953, two pilots and a radar observer...</p></details>
+   Published: january 1953  
+
+2.<a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+
+3.<a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: 4711th Air Defense Wing  
+   Link:<a href="https://en.wikipedia.org/wiki/4711th_Air_Defense_Wing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/4711th_Air_Defense_Wing</a>  
+
+4.<a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Presque Isle Air Force Base  
+   Link:<a href="https://en.wikipedia.org/wiki/Presque_Isle_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presque_Isle_Air_Force_Base</a>  
+
+5.<a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: 528th Air Defense Group  
+   Link:<a href="https://en.wikipedia.org/wiki/528th_Air_Defense_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/528th_Air_Defense_Group</a>  
+
+6.<a id="endnote-6"></a>
+   Source: war.gov  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarCIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-...Flying Objects, Radar Coverage•• Presque Isle, Mdne (10 O...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: war.gov  
+   Link:<a href="https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D092_DAF-Committee-to-Review-Project-Bluebook_1966-1967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/071026/release_04/documents/DOW-UAP-D092_DAF-Committee-to-Review-Project-Bluebook_1966-1967.pdf</a>  
+
+8.<a id="endnote-8"></a>
+   Source: esd.whs.mil  
+   Title: usaf f1  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/usaf_f1.pdf?ver=2017-05-22-113513-730" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/usaf_f1.pdf?ver=2017-05-22-113513-730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics Agency· United States Air ForceThe Air Force investigation of UFO&#x27;s began in 1948 ・ in 1953, it became Project Blue Boo...</p></details>
+
+9.<a id="endnote-9"></a>
+   Source: airuniversity.af.edu  
+   Title: Air University Radar Contact  
+   Link:<a href="https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0152_Degering_Radar_Contact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0152_Degering_Radar_Contact.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityRadar Contact - Air UniversityFebruary 20, 2019 — by R DeGering · Cited by 1 — “Radar Contact!” The Beginnings of Army Air...</p></details>
+   Published: February 20, 2019  
+
+### Additional References
+
+10.<a id="endnote-10"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=X7c6LMgr_N0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7c6LMgr_N0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Spotted Over Nuclear Plant: Unexplained | Close Encounters 108...</p></details>
+
+11.<a id="endnote-11"></a>
+   Source: youtube.com  
+   Title: Mysterious UFO Spotted Over Nuclear Plant: Unexplained | Close Encounters 108  
+   Link:<a href="https://www.youtube.com/watch?v=_cGwuvzCY3I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_cGwuvzCY3I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Encounter: A TERRIFYING UFO Abduction Story...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: youtube.com  
+   Title: Charles Foltz  
+   Link:<a href="https://www.youtube.com/watch?v=uya-uBbG7qo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uya-uBbG7qo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast 244 - The Allagash UFO Abduction Incident...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: The Allagash Encounter: A TERRIFYING UFO Abduction Story  
+   Link:<a href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpu7gZnKfK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Foltz - The Allagash Abductions || The 2025 Exeter UFO Fest...</p></details>
+
+14.<a id="endnote-14"></a>
+   Source: academia.edu  
+   Link:<a href="https://www.academia.edu/143227050/The_Selfridge_AFB_Radar_UFO_Encounter_of_9_March_1950_A_Narrative_Reconstruction_and_Its_Implications_for_Cold_War_Air_Defense" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143227050/The_Selfridge_AFB_Radar_UFO_Encounter_of_9_March_1950_A_Narrative_Reconstruction_and_Its_Implications_for_Cold_War_Air_Defense</a>  
+   Published: March 1950  
+
+15.<a id="endnote-15"></a>
+   Source: en.wikisource.org  
+   Title: Chapter 17  
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_17" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_17</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is still the best UFO report in the Air Force files. Airline pilots saw them, radar picked them up, and military...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: facebook.com  
+   Title: during the cold war as project blue book investigated potential ufo threats a sh  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+
+17.<a id="endnote-17"></a>
+   Source: wesodonnell.medium.com  
+   Title: i saw a ufo while serving in the us military eec3122b2a55  
+   Link:<a href="https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55" target="_blank" rel="noopener noreferrer nofollow">https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55</a>  
+
+18.<a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: New England Legends Podcast 244  
+   Link:<a href="https://www.youtube.com/watch?v=5xl3-yHqAK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xl3-yHqAK4</a>  
+
+19.<a id="endnote-19"></a>
+   Source: kirkmcd.princeton.edu  
+   Title: mcdonald arizona archives ms412  
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_arizona_archives_ms412.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_arizona_archives_ms412.pdf</a>  

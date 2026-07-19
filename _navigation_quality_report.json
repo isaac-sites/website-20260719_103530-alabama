@@ -1,0 +1,2557 @@
+{
+  "generated_at_utc": "2026-07-19T09:19:19.430508Z",
+  "summary": {
+    "total_pages_with_permalink": 900,
+    "visible_pages": 650,
+    "hidden_pages": 250,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 2291,
+    "inline_internal_target_page_count": 650,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 637,
+    "visible_pages_without_inline_outbound_links": 13,
+    "average_inline_inbound_links_per_visible_page": 3.52,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 650,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Hawaii_a1be95",
+        "title": "What Really Happened in Hawaii's UFO Skies?",
+        "permalink": "/what-really-happened-in-hawaiis-ufo/"
+      },
+      {
+        "basename": "Hawaii_a1be95_blue_oahu_object_202_4d4cfd_oahu_blue_object_kit_4412f9",
+        "title": "Kite Theory",
+        "permalink": "/kite-theory/"
+      },
+      {
+        "basename": "Indiana_5d00be",
+        "title": "What Really Happened in Indiana's UFO Cases?",
+        "permalink": "/what-really-happened-in-indianas-ufo/"
+      },
+      {
+        "basename": "Iowa_08a48b_council_bluffs_metal_f1bb68",
+        "title": "Council Bluffs",
+        "permalink": "/council-bluffs/"
+      },
+      {
+        "basename": "Iowa_08a48b_des_moines_airport_l_404721",
+        "title": "Des Moines",
+        "permalink": "/des-moines/"
+      },
+      {
+        "basename": "Iowa_08a48b_iowa_sighting_waves_c968f2_iowa_1947_saucer_wav_6674f9",
+        "title": "1947 Wave",
+        "permalink": "/1947-wave-d3aa88/"
+      },
+      {
+        "basename": "Kansas_48303f",
+        "title": "What Really Happened in Kansas UFO History?",
+        "permalink": "/what-really-happened-in-kansas-ufo/"
+      },
+      {
+        "basename": "Ohio_d318c1_mansfield_helicopter_3d45cd",
+        "title": "Helicopter Case",
+        "permalink": "/helicopter-case/"
+      },
+      {
+        "basename": "Ohio_d318c1_wright_patterson_blu_1facaf",
+        "title": "Blue Book",
+        "permalink": "/blue-book-cd8718/"
+      },
+      {
+        "basename": "Rhode_Island_b30a18",
+        "title": "What Really Defines Rhode Island's UFO Story?",
+        "permalink": "/what-really-defines-rhode-islands-ufo/"
+      },
+      {
+        "basename": "Utah_2ff606_tremonton_film_236992",
+        "title": "Tremonton Film",
+        "permalink": "/tremonton-film/"
+      },
+      {
+        "basename": "Utah_2ff606_utah_sighting_patter_929930_utah_military_airspa_87087a",
+        "title": "Military Airspace",
+        "permalink": "/military-airspace/"
+      },
+      {
+        "basename": "Utah_2ff606_utah_sighting_patter_929930_utah_satellite_rocke_d85896",
+        "title": "Satellites",
+        "permalink": "/satellites/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Alabama_d1f92d",
+        "title": "What Really Happened in Alabama's UFO Cases?",
+        "permalink": "/what-really-happened-in-alabamas-ufo/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_1973_ufo_wav_e3bc9a",
+        "title": "1973 Wave",
+        "permalink": "/1973-wave-c68bda/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_1973_ufo_wav_e3bc9a_evergreen_police_sig_4a3b50",
+        "title": "Evergreen",
+        "permalink": "/evergreen/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_1973_ufo_wav_e3bc9a_falkville_metal_man_d70e49",
+        "title": "Metal Man",
+        "permalink": "/metal-man/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_military_ufo_7250f2",
+        "title": "Military Skies",
+        "permalink": "/military-skies-886e12/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_military_ufo_7250f2_helicopter_ufo_false_86144e",
+        "title": "Helicopter lights",
+        "permalink": "/helicopter-lights/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_military_ufo_7250f2_huntsville_rocket_uf_177995",
+        "title": "Huntsville skies",
+        "permalink": "/huntsville-skies/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_project_blue_6ee80f",
+        "title": "Official Files",
+        "permalink": "/official-files-d96d59/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_project_blue_6ee80f_chickasaw_military_l_f5e16d",
+        "title": "Chickasaw Lights",
+        "permalink": "/chickasaw-lights/"
+      },
+      {
+        "basename": "Alabama_d1f92d_alabama_project_blue_6ee80f_gaylesville_triangle_22fa4e",
+        "title": "Gaylesville Case",
+        "permalink": "/gaylesville-case/"
+      },
+      {
+        "basename": "Alabama_d1f92d_chiles_whitted_meteo_a6979d",
+        "title": "Chiles Whitted",
+        "permalink": "/chiles-whitted/"
+      },
+      {
+        "basename": "Alabama_d1f92d_chiles_whitted_meteo_a6979d_meteor_near_collisio_2b4720",
+        "title": "Meteor Geometry",
+        "permalink": "/meteor-geometry/"
+      },
+      {
+        "basename": "Alabama_d1f92d_chiles_whitted_meteo_a6979d_pilot_structured_cra_fd3160",
+        "title": "Pilot Testimony",
+        "permalink": "/pilot-testimony/"
+      },
+      {
+        "basename": "Alaska_7288f7",
+        "title": "What Really Happened in Alaska's Skies?",
+        "permalink": "/what-really-happened-in-alaskas-skies/"
+      },
+      {
+        "basename": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "title": "Unidentified Files",
+        "permalink": "/unidentified-files/"
+      },
+      {
+        "basename": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "title": "Murphy Dome",
+        "permalink": "/murphy-dome/"
+      },
+      {
+        "basename": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "title": "False Alarms",
+        "permalink": "/false-alarms/"
+      },
+      {
+        "basename": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "title": "Moving Lights",
+        "permalink": "/moving-lights/"
+      },
+      {
+        "basename": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "title": "Flight 53",
+        "permalink": "/flight-53/"
+      },
+      {
+        "basename": "Alaska_7288f7_jal_1628_evidence_968422",
+        "title": "JAL 1628",
+        "permalink": "/jal-1628/"
+      },
+      {
+        "basename": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "title": "Crew Accounts",
+        "permalink": "/crew-accounts/"
+      },
+      {
+        "basename": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "title": "Radar Claims",
+        "permalink": "/radar-claims/"
+      },
+      {
+        "basename": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "title": "Nenana Radar",
+        "permalink": "/nenana-radar/"
+      },
+      {
+        "basename": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "title": "Two Radars",
+        "permalink": "/two-radars/"
+      },
+      {
+        "basename": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "title": "Weather Theory",
+        "permalink": "/weather-theory/"
+      },
+      {
+        "basename": "Arizona_104fd3",
+        "title": "What Really Happened in Arizona's UFO Skies?",
+        "permalink": "/what-really-happened-in-arizonas-ufo/"
+      },
+      {
+        "basename": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "title": "Report Data",
+        "permalink": "/report-data/"
+      },
+      {
+        "basename": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_delayed_arizona_ufo_7c49c5",
+        "title": "Delayed Reports",
+        "permalink": "/delayed-reports/"
+      },
+      {
+        "basename": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_one_event_many_ufo_r_305009",
+        "title": "Report Clusters",
+        "permalink": "/report-clusters/"
+      },
+      {
+        "basename": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "title": "Military Skies",
+        "permalink": "/military-skies/"
+      },
+      {
+        "basename": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "title": "Goldwater Range",
+        "permalink": "/goldwater-range/"
+      },
+      {
+        "basename": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "title": "Snowbird Flights",
+        "permalink": "/snowbird-flights/"
+      },
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "title": "Phoenix Lights",
+        "permalink": "/phoenix-lights/"
+      },
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "title": "Moving Formation",
+        "permalink": "/moving-formation/"
+      },
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "title": "Flare Display",
+        "permalink": "/flare-display/"
+      },
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "title": "Legend Making",
+        "permalink": "/legend-making/"
+      },
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_phoenix_lights_media_0d2c6c",
+        "title": "Media Merge",
+        "permalink": "/media-merge/"
+      },
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_stanley_telescope_te_b6296d",
+        "title": "Stanley Sighting",
+        "permalink": "/stanley-sighting/"
+      },
+      {
+        "basename": "Arkansas_2f717f",
+        "title": "What Really Happened in Arkansas UFO History?",
+        "permalink": "/what-really-happened-in-arkansas-ufo/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_1897_airshi_058b64",
+        "title": "1897 Airships",
+        "permalink": "/1897-airships/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "title": "Hot Springs",
+        "permalink": "/hot-springs/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_1897_airshi_058b64_jim_hooton_airship_c_be83ae",
+        "title": "Hooton Claim",
+        "permalink": "/hooton-claim/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c",
+        "title": "1965 Flap",
+        "permalink": "/1965-flap/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_fort_smith_date_conf_8bbd9c",
+        "title": "Fort Smith Dates",
+        "permalink": "/fort-smith-dates/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "title": "Viney Grove",
+        "permalink": "/viney-grove/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579",
+        "title": "Evidence Test",
+        "permalink": "/evidence-test/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_airship_new_fe2d82",
+        "title": "Airship Hype",
+        "permalink": "/airship-hype/"
+      },
+      {
+        "basename": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_ufo_size_sp_62e622",
+        "title": "Size and Speed",
+        "permalink": "/size-and-speed/"
+      },
+      {
+        "basename": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "title": "Fort Smith",
+        "permalink": "/fort-smith/"
+      },
+      {
+        "basename": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95_fort_smith_1500_witn_e67436",
+        "title": "1 500 Witnesses",
+        "permalink": "/1-500-witnesses/"
+      },
+      {
+        "basename": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95_fort_smith_aircraft_e7bddd",
+        "title": "Aircraft Theory",
+        "permalink": "/aircraft-theory/"
+      },
+      {
+        "basename": "California_cf386e",
+        "title": "What Really Happened in California's UFO Skies?",
+        "permalink": "/what-really-happened-in-californias-ufo/"
+      },
+      {
+        "basename": "California_cf386e_adamski_contactee_cu_16317e",
+        "title": "Adamski",
+        "permalink": "/adamski/"
+      },
+      {
+        "basename": "California_cf386e_adamski_contactee_cu_16317e_desert_center_witnes_9298f8",
+        "title": "Desert Encounter",
+        "permalink": "/desert-encounter/"
+      },
+      {
+        "basename": "California_cf386e_adamski_contactee_cu_16317e_palomar_borrowed_aut_40df3b",
+        "title": "Palomar Gardens",
+        "permalink": "/palomar-gardens/"
+      },
+      {
+        "basename": "California_cf386e_battle_of_los_angele_dbfc1b",
+        "title": "Battle of LA",
+        "permalink": "/battle-of-la/"
+      },
+      {
+        "basename": "California_cf386e_battle_of_los_angele_dbfc1b_phantom_aircraft_cha_526db5",
+        "title": "Phantom Aircraft",
+        "permalink": "/phantom-aircraft/"
+      },
+      {
+        "basename": "California_cf386e_battle_of_los_angele_dbfc1b_retouched_battle_pho_961cbf",
+        "title": "Retouched Photo",
+        "permalink": "/retouched-photo/"
+      },
+      {
+        "basename": "California_cf386e_blue_book_california_f20c65",
+        "title": "Blue Book",
+        "permalink": "/blue-book/"
+      },
+      {
+        "basename": "California_cf386e_blue_book_california_f20c65_california_unidentif_224bd8",
+        "title": "Unidentified Cases",
+        "permalink": "/unidentified-cases/"
+      },
+      {
+        "basename": "California_cf386e_blue_book_california_f20c65_long_beach_muroc_int_02f48e",
+        "title": "1951 Interception",
+        "permalink": "/1951-interception/"
+      },
+      {
+        "basename": "California_cf386e_military_ufo_cases_85e97f",
+        "title": "Military Cases",
+        "permalink": "/military-cases/"
+      },
+      {
+        "basename": "California_cf386e_military_ufo_cases_85e97f_big_sur_missile_film_adfd03",
+        "title": "Big Sur Film",
+        "permalink": "/big-sur-film/"
+      },
+      {
+        "basename": "California_cf386e_military_ufo_cases_85e97f_nimitz_tic_tac_senso_e194ca",
+        "title": "Nimitz Evidence",
+        "permalink": "/nimitz-evidence/"
+      },
+      {
+        "basename": "Colorado_d28817",
+        "title": "What Colorado's UFO History Really Reveals",
+        "permalink": "/what-colorados-ufo-history-really/"
+      },
+      {
+        "basename": "Colorado_d28817_condon_report_blue_b_6fd3c5",
+        "title": "Condon Report",
+        "permalink": "/condon-report/"
+      },
+      {
+        "basename": "Colorado_d28817_condon_report_blue_b_6fd3c5_condon_cases_vs_conc_29d9a4",
+        "title": "Cases vs Conclusion",
+        "permalink": "/cases-vs-conclusion/"
+      },
+      {
+        "basename": "Colorado_d28817_condon_report_blue_b_6fd3c5_why_blue_book_ended_c94f73",
+        "title": "Blue Book Closure",
+        "permalink": "/blue-book-closure/"
+      },
+      {
+        "basename": "Colorado_d28817_military_aviation_re_d61f55",
+        "title": "Military Skies",
+        "permalink": "/military-skies-15607e/"
+      },
+      {
+        "basename": "Colorado_d28817_military_aviation_re_d61f55_eastern_colorado_mys_8861fc",
+        "title": "Mystery Drones",
+        "permalink": "/mystery-drones/"
+      },
+      {
+        "basename": "Colorado_d28817_military_aviation_re_d61f55_norad_tracking_limit_382603",
+        "title": "NORAD Limits",
+        "permalink": "/norad-limits/"
+      },
+      {
+        "basename": "Colorado_d28817_san_luis_valley_sigh_d8954c",
+        "title": "San Luis Valley",
+        "permalink": "/san-luis-valley/"
+      },
+      {
+        "basename": "Colorado_d28817_san_luis_valley_sigh_d8954c_snippy_horse_ufo_cla_858500",
+        "title": "Snippy Case",
+        "permalink": "/snippy-case/"
+      },
+      {
+        "basename": "Colorado_d28817_san_luis_valley_sigh_d8954c_ufo_watchtower_sight_bfb17c",
+        "title": "UFO Watchtower",
+        "permalink": "/ufo-watchtower/"
+      },
+      {
+        "basename": "Colorado_d28817_snippy_horse_legend_b91cab",
+        "title": "Snippy",
+        "permalink": "/snippy/"
+      },
+      {
+        "basename": "Colorado_d28817_snippy_horse_legend_b91cab_snippy_ufo_legend_re_3ffa2a",
+        "title": "Legend Making",
+        "permalink": "/legend-making-8ff00c/"
+      },
+      {
+        "basename": "Colorado_d28817_snippy_horse_legend_b91cab_snippy_veterinary_ev_94c7f5",
+        "title": "Veterinary Evidence",
+        "permalink": "/veterinary-evidence/"
+      },
+      {
+        "basename": "Connecticut_ec4da3",
+        "title": "What Really Happened in Connecticut's UFO Cases?",
+        "permalink": "/what-really-happened-in-connecticuts-ufo/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_connecticut_blue_boo_360c55",
+        "title": "Blue Book",
+        "permalink": "/blue-book-05dc53/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_connecticut_blue_boo_360c55_connecticut_blue_boo_52ed25",
+        "title": "Case labels",
+        "permalink": "/case-labels/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_connecticut_blue_boo_360c55_hartford_furnace_sla_ff22ca",
+        "title": "Hartford debris",
+        "permalink": "/hartford-debris/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_early_airships_aviat_989ac9",
+        "title": "Airships",
+        "permalink": "/airships/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_early_airships_aviat_989ac9_vought_pancake_sauce_efba95",
+        "title": "Flying Pancake",
+        "permalink": "/flying-pancake/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_early_airships_aviat_989ac9_willimantic_airship_28a4c8",
+        "title": "Willimantic",
+        "permalink": "/willimantic/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_modern_connecticut_s_9c0cbc",
+        "title": "Modern Sightings",
+        "permalink": "/modern-sightings/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_modern_connecticut_s_9c0cbc_bantam_lake_meteor_c_d337c1",
+        "title": "Bantam Lake",
+        "permalink": "/bantam-lake/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_modern_connecticut_s_9c0cbc_connecticut_drone_fl_d10f96",
+        "title": "Drone Alarm",
+        "permalink": "/drone-alarm/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_westchester_boomeran_311cbc",
+        "title": "Boomerang Wave",
+        "permalink": "/boomerang-wave/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_westchester_boomeran_311cbc_formation_lights_gia_fd8507",
+        "title": "Giant Craft Illusion",
+        "permalink": "/giant-craft-illusion/"
+      },
+      {
+        "basename": "Connecticut_ec4da3_westchester_boomeran_311cbc_stormville_airport_e_249898",
+        "title": "Stormville Trail",
+        "permalink": "/stormville-trail/"
+      },
+      {
+        "basename": "Delaware_5861e4",
+        "title": "What Really Lies Behind Delaware's UFO Stories?",
+        "permalink": "/what-really-lies-behind-delawares-ufo/"
+      },
+      {
+        "basename": "Delaware_5861e4_delaware_sighting_ho_d07746",
+        "title": "Sighting Hotspots",
+        "permalink": "/sighting-hotspots/"
+      },
+      {
+        "basename": "Delaware_5861e4_delaware_sighting_ho_d07746_coastal_delaware_lig_5415a0",
+        "title": "Coastal Lights",
+        "permalink": "/coastal-lights/"
+      },
+      {
+        "basename": "Delaware_5861e4_delaware_sighting_ho_d07746_wilmington_newark_li_caa430",
+        "title": "Northern Lights",
+        "permalink": "/northern-lights/"
+      },
+      {
+        "basename": "Delaware_5861e4_dover_triangle_sight_155931",
+        "title": "Dover Triangles",
+        "permalink": "/dover-triangles/"
+      },
+      {
+        "basename": "Delaware_5861e4_dover_triangle_sight_155931_dover_2007_triangle_e6705f",
+        "title": "2007 Claim",
+        "permalink": "/2007-claim/"
+      },
+      {
+        "basename": "Delaware_5861e4_dover_triangle_sight_155931_dover_aircraft_light_0c1a96",
+        "title": "Aircraft Lights",
+        "permalink": "/aircraft-lights/"
+      },
+      {
+        "basename": "Delaware_5861e4_historic_claims_arch_ad3ba7",
+        "title": "Historic Claims",
+        "permalink": "/historic-claims/"
+      },
+      {
+        "basename": "Delaware_5861e4_historic_claims_arch_ad3ba7_claymont_disc_appare_1cf3c4",
+        "title": "Claymont Disc",
+        "permalink": "/claymont-disc/"
+      },
+      {
+        "basename": "Delaware_5861e4_historic_claims_arch_ad3ba7_concord_mall_missing_974073",
+        "title": "Concord Mall",
+        "permalink": "/concord-mall/"
+      },
+      {
+        "basename": "Delaware_5861e4_ordinary_ufo_explana_25e14f",
+        "title": "Likely Explanations",
+        "permalink": "/likely-explanations/"
+      },
+      {
+        "basename": "Delaware_5861e4_ordinary_ufo_explana_25e14f_delaware_cloud_searc_e62cb1",
+        "title": "Cloud Beams",
+        "permalink": "/cloud-beams/"
+      },
+      {
+        "basename": "Delaware_5861e4_ordinary_ufo_explana_25e14f_delaware_planet_star_79e9b1",
+        "title": "Sky Illusions",
+        "permalink": "/sky-illusions/"
+      },
+      {
+        "basename": "Florida_30c2d0",
+        "title": "Which Florida UFO Cases Still Defy Explanation?",
+        "permalink": "/which-florida-ufo-cases-still-defy/"
+      },
+      {
+        "basename": "Florida_30c2d0_eglin_balloon_resolu_71b04c",
+        "title": "Eglin Case",
+        "permalink": "/eglin-case/"
+      },
+      {
+        "basename": "Florida_30c2d0_eglin_balloon_resolu_71b04c_eglin_balloon_identi_fb0cac",
+        "title": "Balloon Match",
+        "permalink": "/balloon-match/"
+      },
+      {
+        "basename": "Florida_30c2d0_eglin_balloon_resolu_71b04c_eglin_radar_failure_67619f",
+        "title": "Radar Failure",
+        "permalink": "/radar-failure/"
+      },
+      {
+        "basename": "Florida_30c2d0_florida_sky_false_al_8d0b06",
+        "title": "False Alarms",
+        "permalink": "/false-alarms-0aca7a/"
+      },
+      {
+        "basename": "Florida_30c2d0_florida_sky_false_al_8d0b06_florida_twilight_roc_85a7e5",
+        "title": "Rocket Plumes",
+        "permalink": "/rocket-plumes/"
+      },
+      {
+        "basename": "Florida_30c2d0_florida_sky_false_al_8d0b06_satellite_trains_fla_28e939",
+        "title": "Satellite Lights",
+        "permalink": "/satellite-lights/"
+      },
+      {
+        "basename": "Florida_30c2d0_gimbal_competing_exp_8a2eb7",
+        "title": "Gimbal",
+        "permalink": "/gimbal/"
+      },
+      {
+        "basename": "Florida_30c2d0_gimbal_competing_exp_8a2eb7_gimbal_glare_rotatio_33a766",
+        "title": "Glare Rotation",
+        "permalink": "/glare-rotation/"
+      },
+      {
+        "basename": "Florida_30c2d0_gimbal_competing_exp_8a2eb7_gimbal_missing_range_8adaa6",
+        "title": "Missing Range",
+        "permalink": "/missing-range/"
+      },
+      {
+        "basename": "Florida_30c2d0_gulf_breeze_hoax_evi_0b5f64",
+        "title": "Gulf Breeze",
+        "permalink": "/gulf-breeze/"
+      },
+      {
+        "basename": "Florida_30c2d0_gulf_breeze_hoax_evi_0b5f64_gulf_breeze_attic_mo_548d53",
+        "title": "Attic Model",
+        "permalink": "/attic-model/"
+      },
+      {
+        "basename": "Florida_30c2d0_gulf_breeze_hoax_evi_0b5f64_gulf_breeze_photo_di_d47bfe",
+        "title": "Photo Limits",
+        "permalink": "/photo-limits/"
+      },
+      {
+        "basename": "Georgia_9113c6",
+        "title": "What Really Happened in Georgia's UFO Cases?",
+        "permalink": "/what-really-happened-in-georgias-ufo/"
+      },
+      {
+        "basename": "Georgia_9113c6_georgia_official_ufo_842948",
+        "title": "Official Records",
+        "permalink": "/official-records/"
+      },
+      {
+        "basename": "Georgia_9113c6_georgia_official_ufo_842948_albany_radar_case_aa3726",
+        "title": "Albany Radar",
+        "permalink": "/albany-radar/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "title": "Phoenix Lights",
+        "permalink": "/phoenix-lights/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Mississippi_cba267_pascagoula_case_evid_36afb2",
+        "title": "Pascagoula",
+        "permalink": "/pascagoula/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Mississippi_cba267_witness_memory_credi_4600d8",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "South_Dakota_ad4a41_blue_book_records_bab75d",
+        "title": "Blue Book",
+        "permalink": "/blue-book-eb3f6b/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Alabama_d1f92d",
+        "title": "What Really Happened in Alabama's UFO Cases?",
+        "permalink": "/what-really-happened-in-alabamas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Alaska_7288f7",
+        "title": "What Really Happened in Alaska's Skies?",
+        "permalink": "/what-really-happened-in-alaskas-skies/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Arizona_104fd3",
+        "title": "What Really Happened in Arizona's UFO Skies?",
+        "permalink": "/what-really-happened-in-arizonas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Arkansas_2f717f",
+        "title": "What Really Happened in Arkansas UFO History?",
+        "permalink": "/what-really-happened-in-arkansas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "California_cf386e",
+        "title": "What Really Happened in California's UFO Skies?",
+        "permalink": "/what-really-happened-in-californias-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Colorado_d28817",
+        "title": "What Colorado's UFO History Really Reveals",
+        "permalink": "/what-colorados-ufo-history-really/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Connecticut_ec4da3",
+        "title": "What Really Happened in Connecticut's UFO Cases?",
+        "permalink": "/what-really-happened-in-connecticuts-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Delaware_5861e4",
+        "title": "What Really Lies Behind Delaware's UFO Stories?",
+        "permalink": "/what-really-lies-behind-delawares-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Florida_30c2d0",
+        "title": "Which Florida UFO Cases Still Defy Explanation?",
+        "permalink": "/which-florida-ufo-cases-still-defy/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Georgia_9113c6",
+        "title": "What Really Happened in Georgia's UFO Cases?",
+        "permalink": "/what-really-happened-in-georgias-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Idaho_18334c",
+        "title": "What Really Happened in Idaho's UFO History?",
+        "permalink": "/what-really-happened-in-idahos-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Illinois_31b9d2",
+        "title": "Why Illinois Became a UFO Hotspot",
+        "permalink": "/why-illinois-became-a-ufo-hotspot/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Indiana_5d00be",
+        "title": "What Really Happened in Indiana's UFO Cases?",
+        "permalink": "/what-really-happened-in-indianas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Kansas_48303f",
+        "title": "What Really Happened in Kansas UFO History?",
+        "permalink": "/what-really-happened-in-kansas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Kentucky_e3b665",
+        "title": "What Really Happened in Kentucky's UFO Cases?",
+        "permalink": "/what-really-happened-in-kentuckys-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Maine_8dc024",
+        "title": "What Really Happened in Maine's UFO Cases?",
+        "permalink": "/what-really-happened-in-maines-ufo-cases/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Maryland_1ac107",
+        "title": "What Really Happened in Maryland's UFO Skies?",
+        "permalink": "/what-really-happened-in-marylands-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Michigan_5110b3",
+        "title": "Why Michigan Became a UFO Battleground",
+        "permalink": "/why-michigan-became-a-ufo-battleground/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Minnesota_60590f",
+        "title": "What Really Happened in Minnesota's UFO Cases?",
+        "permalink": "/what-really-happened-in-minnesotas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Mississippi_cba267",
+        "title": "What Really Happened in Mississippi's UFO History?",
+        "permalink": "/what-really-happened-in-mississippis-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Missouri_d961c4",
+        "title": "What Really Happened in Missouri's UFO History?",
+        "permalink": "/what-really-happened-in-missouris-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Montana_8d274f",
+        "title": "Why Montana Became a UFO Landmark",
+        "permalink": "/why-montana-became-a-ufo-landmark/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Nebraska_e9c60b",
+        "title": "What Really Happened in Nebraska's UFO History?",
+        "permalink": "/what-really-happened-in-nebraskas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Nevada_b93191",
+        "title": "Why Nevada Became America's UFO State",
+        "permalink": "/why-nevada-became-americas-ufo-state/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "New_Hampshire_824569",
+        "title": "Why New Hampshire Became a UFO Landmark",
+        "permalink": "/why-new-hampshire-became-a-ufo-landmark/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "New_Jersey_18255a",
+        "title": "What Really Happened in New Jersey's Skies?",
+        "permalink": "/what-really-happened-in-new-jerseys/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "New_Mexico_45551f",
+        "title": "Why New Mexico Became America's UFO Crossroads",
+        "permalink": "/why-new-mexico-became-americas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "New_York_c7ef6c",
+        "title": "What Really Happened in New York's UFO Cases?",
+        "permalink": "/what-really-happened-in-new-yorks-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "North_Carolina_cd988f",
+        "title": "What Really Happened in North Carolina's Skies?",
+        "permalink": "/what-really-happened-in-north-carolinas/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "North_Dakota_0b6838",
+        "title": "What Really Happened in North Dakota's UFO Cases?",
+        "permalink": "/what-really-happened-in-north-dakotas/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "North_Dakota_0b6838_blue_book_north_dako_9fa1d1",
+        "title": "Blue Book",
+        "permalink": "/blue-book-29296c/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Oklahoma_86daa4",
+        "title": "What Really Happened in Oklahoma's UFO Skies?",
+        "permalink": "/what-really-happened-in-oklahomas-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Oregon_07719a",
+        "title": "Which Oregon UFO Cases Still Resist Explanation?",
+        "permalink": "/which-oregon-ufo-cases-still-resist/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Pennsylvania_dff756",
+        "title": "Which Pennsylvania UFO Stories Still Hold Up?",
+        "permalink": "/which-pennsylvania-ufo-stories-still/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Rhode_Island_b30a18",
+        "title": "What Really Defines Rhode Island's UFO Story?",
+        "permalink": "/what-really-defines-rhode-islands-ufo/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "South_Carolina_11d001",
+        "title": "South Carolina",
+        "permalink": "/south-carolina/",
+        "inline_inbound_count": 13
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alabama_d1f92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Arizona_104fd3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "type": "ancestor"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Alabama_d1f92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Alaska_7288f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_index",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3",
+        "type": "parent"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_delayed_arizona_ufo_7c49c5",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_index",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_one_event_many_ufo_r_305009",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3",
+        "type": "parent"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_index",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3",
+        "type": "parent"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_index",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "type": "child"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3",
+        "type": "parent"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "type": "sibling"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743",
+        "to": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_crew_account_f07b54",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_evidence_968422_jal1628_radar_confir_db9499",
+        "to": "Alaska_7288f7_jal_1628_evidence_968422",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_two_radar_que_6a1f16",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7_nenana_radar_case_d742cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_nenana_radar_case_d742cd_nenana_weather_expla_339c8c",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_alaska_unidentified_091397",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_official_ufo_8a47d8_murphy_dome_radar_ca_b05c92",
+        "to": "Alaska_7288f7_alaska_official_ufo_8a47d8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_alaska_apparent_movi_1b799e",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_ufo_misidenti_85a743_flight_53_radar_targ_11f742",
+        "to": "Alaska_7288f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_delayed_arizona_ufo_7c49c5",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_delayed_arizona_ufo_7c49c5",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_one_event_many_ufo_r_305009",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_one_event_many_ufo_r_305009",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_one_event_many_ufo_r_305009",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5_one_event_many_ufo_r_305009",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_evide_c82f3b_phoenix_lights_flare_64bee0",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_phoenix_lights_media_0d2c6c",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_phoenix_lights_media_0d2c6c",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_phoenix_lights_media_0d2c6c",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_phoenix_lights_media_0d2c6c",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_goldwater_range_stra_9d4836",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_stanley_telescope_te_b6296d",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_stanley_telescope_te_b6296d",
+        "to": "Arizona_104fd3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_stanley_telescope_te_b6296d",
+        "to": "Arizona_104fd3_phoenix_lights_evide_c82f3b_moving_lights_aircra_ed4e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_stanley_telescope_te_b6296d",
+        "to": "Arizona_104fd3_military_airspace_uf_5a76e2_operation_snowbird_u_8cdc0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arizona_104fd3_phoenix_lights_legen_5a3a8c_stanley_telescope_te_b6296d",
+        "to": "Arizona_104fd3_arizona_ufo_report_d_c9b6f5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f",
+        "to": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f",
+        "to": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1897_airshi_058b64",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1897_airshi_058b64",
+        "to": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c",
+        "to": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579",
+        "to": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579",
+        "to": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_ufo_size_sp_62e622",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579",
+        "to": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95_fort_smith_aircraft_e7bddd",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95_fort_smith_aircraft_e7bddd",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1897_airshi_058b64_jim_hooton_airship_c_be83ae",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_fort_smith_date_conf_8bbd9c",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_fort_smith_date_conf_8bbd9c",
+        "to": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_fort_smith_date_conf_8bbd9c",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_fort_smith_date_conf_8bbd9c",
+        "to": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_1965_ufo_fl_51406c_viney_grove_evidence_9b7e63",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_airship_new_fe2d82",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_airship_new_fe2d82",
+        "to": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_ufo_size_sp_62e622",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_ufo_size_sp_62e622",
+        "to": "Arkansas_2f717f_arkansas_1897_airshi_058b64_hot_springs_airship_0a1f66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_arkansas_ufo_evidenc_50d579_arkansas_ufo_size_sp_62e622",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95_fort_smith_1500_witn_e67436",
+        "to": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Arkansas_2f717f_fort_smith_mass_sigh_74ec95_fort_smith_1500_witn_e67436",
+        "to": "Arkansas_2f717f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e",
+        "to": "California_cf386e_battle_of_los_angele_dbfc1b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e",
+        "to": "California_cf386e_adamski_contactee_cu_16317e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e",
+        "to": "California_cf386e_adamski_contactee_cu_16317e_palomar_borrowed_aut_40df3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e",
+        "to": "California_cf386e_blue_book_california_f20c65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e",
+        "to": "California_cf386e_military_ufo_cases_85e97f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e_military_ufo_cases_85e97f",
+        "to": "California_cf386e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e_military_ufo_cases_85e97f",
+        "to": "California_cf386e_military_ufo_cases_85e97f_big_sur_missile_film_adfd03",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e_adamski_contactee_cu_16317e",
+        "to": "California_cf386e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e_adamski_contactee_cu_16317e",
+        "to": "California_cf386e_adamski_contactee_cu_16317e_desert_center_witnes_9298f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "California_cf386e_adamski_contactee_cu_16317e",
+        "to": "California_cf386e_adamski_contactee_cu_16317e_palomar_borrowed_aut_40df3b",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

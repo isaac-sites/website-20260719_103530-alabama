@@ -1,0 +1,902 @@
+---
+level: 3
+basename: Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b
+parent_basename: Georgia_9113c6_georgia_official_ufo_842948
+child_basenames: []
+sibling_basenames:
+- Georgia_9113c6_georgia_official_ufo_842948_albany_radar_case_aa3726
+tags:
+- georgia
+- official-records
+- robins-sighting
+keywords:
+- georgia
+- official-records
+- robins-sighting
+affiliate_category: georgia
+show_ads: true
+description: Eight witnesses at Robins Air Force Base reported a silver cigar-shaped object in 1957, but the surviving record lacks decisive sensor evidence.
+hero_summary: Eight witnesses at Robins Air Force Base reported a silver cigar-shaped object in 1957, but the surviving record lacks decisive sensor evidence.
+layout: default
+permalink: /robins-sighting/
+sidebar_expanded_urls:
+- /what-really-happened-in-georgias-ufo/
+- /official-records/
+nav_short_title: Robins Sighting
+title: What Did Eight Witnesses See Over Robins?
+title_full: What Did Eight Witnesses See Over Robins? | Official Records
+display_title_short: Robins Sighting
+display_title: Robins Sighting
+heading_title: What Did Eight Witnesses See Over Robins?
+page_heading_title: What Did Eight Witnesses See Over Robins?
+source_count: 20
+infographic_count: 3
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: constellation
+site_typography_tone: balanced
+planned_sections:
+- The 26 November 1957 witness accounts
+- What the official record confirms and omits
+- Aircraft, balloons and other plausible explanations
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: single_case
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
+  topics: Topics
+  explore_another_branch: Explore another branch
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-16 07:29:02'
+parent_title: What Do Georgia's Official UFO Files Prove? | What Really Happened in Georgia's UFO Cases?
+parent_permalink: /official-records/
+parent_nav_short_title: Official Records
+parent_heading_title: What Do Georgia's Official UFO Files Prove?
+ancestor_links:
+- basename: Georgia_9113c6
+  title: Georgia
+  permalink: /what-really-happened-in-georgias-ufo/
+  short_title: Georgia
+- basename: Georgia_9113c6_georgia_official_ufo_842948
+  title: Official Records | What Really Happened in Georgia's UFO Cases?
+  permalink: /official-records/
+  short_title: Official Records
+  heading_title: What Do Georgia's Official UFO Files Prove?
+breadcrumb_links:
+- basename: Georgia_9113c6
+  title: Georgia
+  permalink: /what-really-happened-in-georgias-ufo/
+  short_title: Georgia
+- basename: Georgia_9113c6_georgia_official_ufo_842948
+  title: Official Records | What Really Happened in Georgia's UFO Cases?
+  permalink: /official-records/
+  short_title: Official Records
+  heading_title: What Do Georgia's Official UFO Files Prove?
+sibling_links:
+- basename: Georgia_9113c6_georgia_official_ufo_842948_albany_radar_case_aa3726
+  title: Albany Radar | Official Records
+  permalink: /albany-radar/
+  short_title: Albany Radar
+  heading_title: Did Albany Radar Track a Real Object?
+up_link:
+  basename: Georgia_9113c6_georgia_official_ufo_842948
+  title: Official Records | What Really Happened in Georgia's UFO Cases?
+  permalink: /official-records/
+  short_title: Official Records
+  heading_title: What Do Georgia's Official UFO Files Prove?
+has_inline_related_reports_panel: true
+prev_link:
+  basename: Georgia_9113c6_georgia_official_ufo_842948_albany_radar_case_aa3726
+  title: Albany Radar | Official Records
+  permalink: /albany-radar/
+  short_title: Albany Radar
+  heading_title: Did Albany Radar Track a Real Object?
+header:
+  og_image: /assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-1-social.jpg
+  preview_image: /assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-1.webp
+image: /assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The Robins Air Force Base sighting of 26 November 1957 occupies an unusual place in [Georgia]({{ 'what-really-happened-in-georgias-ufo/' | relative_url }})’s UFO history because it involved multiple witnesses at one of the US Air Force’s most important aviation installations, yet the surviving documentation is remarkably sparse. According to Project Blue Book records, eight people at Robins Air Force Base near Warner Robins reported observing a silver, cigar-shaped object at about 10:07 a.m. The witnesses included three control-tower operators, a weather observer and four additional observers. The object was reportedly visible for around eight minutes before suddenly disappearing from sight. Despite the military setting and the number of observers, the surviving public record contains little technical data beyond this basic description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-1-dark.svg" | relative_url }}" alt="Robins Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+For researchers interested in Georgia’s military-linked UFO reports, the case is noteworthy not because it provides strong evidence of an extraordinary craft, but because it illustrates a recurring problem in historical UFO investigations: a sighting can involve trained observers and still leave too little evidence to support a firm conclusion.
+
+## What Did Eight Witnesses See Over Robins?
+
+On the morning of 26 November 1957, personnel at Robins Air Force Base reported observing what was described as a silver, cigar-shaped object. The witness group was unusually diverse for a single military-base report. It included control-tower staff responsible for monitoring air traffic and at least one weather observer accustomed to watching atmospheric conditions. According to the surviving Project Blue Book summary, the object remained visible for approximately eight minutes before it abruptly vanished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+
+
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/what-really-happened-in-georgias-ufo/' | relative_url }}"><span class="article-branch-link-short">What Really Happened in Georgia&#x27;s UFO Cases?</span></a></li>
+<li><a href="{{ '/carter-sighting/' | relative_url }}"><span class="article-branch-link-short">Carter Sighting</span><span class="article-branch-link-heading">What Did Jimmy Carter See Near Leary?</span></a></li>
+<li><a href="{{ '/date-dispute/' | relative_url }}"><span class="article-branch-link-short">Date Dispute</span><span class="article-branch-link-heading">Why Carter&#x27;s Wrong Date Changed the Case</span></a></li>
+<li><a href="{{ '/official-records/' | relative_url }}"><span class="article-branch-link-short">Official Records</span><span class="article-branch-link-heading">What Do Georgia&#x27;s Official UFO Files Prove?</span></a></li>
+<li><a href="{{ '/albany-radar/' | relative_url }}"><span class="article-branch-link-short">Albany Radar</span><span class="article-branch-link-heading">Did Albany Radar Track a Real Object?</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+The timing is significant. A sighting lasting several minutes generally gives observers more opportunity to assess shape, colour and movement than a fleeting glimpse. The description of a metallic or silver appearance also differs from many contemporary reports that involved lights seen at night. This was a daytime observation, which in theory should have allowed better visual judgement.
+
+Yet the surviving summaries do not preserve many of the details that investigators would most want today. Publicly available records do not provide a precise estimated altitude, speed, angular size, direction of travel or range. Nor do they preserve lengthy witness statements explaining exactly how the object appeared to move before disappearing. As a result, modern readers encounter a paradox: the witness count is relatively strong, but the surviving evidential detail is weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+## What the Official Record Confirms and Omits
+
+The strongest facts in the case are surprisingly few. The official Blue Book catalogue confirms:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* The date: 26 November 1957.
+* The location: Robins Air Force Base, Georgia.
+* The approximate time: 10:07 a.m.
+* Eight witnesses.
+* A silver, cigar-shaped object.
+* A reported observation lasting about eight minutes.
+* An apparent sudden disappearance from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+</div>
+
+Beyond that, the record becomes much less informative.
+
+No publicly available summary indicates that radar tracked the object. No photographs are known to have survived with the case. There is no publicly released evidence of instrument readings, aircraft interception attempts or independent sensor confirmation. The absence of such material is important because Robins was not an isolated rural location; it was a major Air Force installation where additional data might have been expected if the object had posed an operational concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+This does not mean that the witnesses were mistaken. It means only that the surviving documentary trail is insufficient to determine what they saw. Project Blue Book files frequently varied in quality. Some cases contain extensive interviews and supporting records, while others survive only as brief summaries. The Robins incident falls closer to the latter category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span>
+
+The lack of technical evidence also makes it difficult to evaluate one of the most striking elements of the report: the object's sudden disappearance. A distant object moving behind haze, cloud layers or atmospheric distortions can appear to vanish abruptly. Without information on viewing angles and weather conditions, investigators cannot determine whether the disappearance reflected unusual behaviour or merely a limitation of observation.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 14:40">14:40</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
+
+## Why the Military Setting Matters
+
+Robins Air Force Base adds both credibility and caution to the case.
+
+On one hand, military personnel often receive more attention in UFO discussions because their duties require them to observe aircraft, weather conditions and airspace activity. Control-tower operators and weather observers are generally more familiar with the appearance of conventional aerial objects than the average civilian witness.
+
+On the other hand, military bases are also among the most complicated environments in which to identify unusual aerial observations. Aircraft may be operating under conditions unfamiliar to some observers. High-altitude flights, test activities, weather balloons, atmospheric phenomena and unusual viewing angles can all create misleading impressions.
+
+Robins in the 1950s was a major logistics, maintenance and aviation centre within the Air Force system. The skies above central Georgia regularly contained military traffic. That reality cuts against simplistic interpretations. A military witness may be trained, but a military airfield is also a place where unusual-looking conventional objects are most likely to be encountered. This tension is one reason the case remains interesting but inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+
+## Aircraft, Balloons and Other Plausible Explanations
+
+Because the surviving evidence is limited, any explanation remains speculative. Several conventional possibilities deserve consideration.
+
+
+
+<img src="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-2-dark.svg" | relative_url }}" alt="Robins Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+### Aircraft Viewed Under Unusual Conditions
+
+A distant aircraft reflecting sunlight can sometimes appear as a bright silver shape with little visible detail. Under certain lighting conditions, wings become difficult to distinguish, creating the impression of a cylindrical or cigar-like object. If the aircraft then altered course, entered haze or turned away from the observer, it could appear to disappear suddenly.
+
+The weakness of this explanation is that several observers watched the object for minutes. One might expect experienced airfield personnel to recognise a conventional aircraft. However, distance estimation in the sky is notoriously difficult, even for trained observers.
+
+### High-Altitude Balloons
+
+Weather balloons and research balloons were common during the 1950s. Seen at a distance, a balloon can appear metallic and elongated depending on viewing angle and illumination. Balloons can also seem stationary for long periods and then become difficult to see as lighting changes.
+
+The presence of a weather observer among the witnesses may make some researchers sceptical of a balloon explanation. Nevertheless, without the original witness interviews, it is impossible to know whether investigators compared the sighting against balloon launches or atmospheric data from that morning.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdTVsr4O4HA" title="The True Story Behind US Government Investigations Into UFOs | Project Blue Book" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 58:24">58:24</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer">The True Story Behind US Government Investigations Into UFOs | Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 10.9K &middot; Uploaded: January 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdTVsr4O4HA">Open on YouTube</a></p></div></div></div>
+
+### Atmospheric and Optical Effects
+
+Daylight observations are not immune to visual misperception. Haze, temperature layers and changing sunlight can alter the apparent shape and visibility of distant objects. A bright object viewed through varying atmospheric conditions may appear solid, metallic and sharply defined before fading or vanishing unexpectedly.
+
+This possibility is less dramatic than an unknown craft but remains consistent with the limited information available.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3IvE8CTwlZY" title="Project Blue Book Revealed: Inside the Air Force&#x27;s Secret UFO Files" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3IvE8CTwlZY" target="_blank" rel="noopener noreferrer">Project Blue Book Revealed: Inside the Air Force&#x27;s Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: The Knowledge Incubator</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3IvE8CTwlZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3IvE8CTwlZY">Open on YouTube</a></p></div></div></div>
+
+## How Strong Is the Case Today?
+
+The Robins Air Force Base sighting is best classified as an unresolved but weakly documented military UFO report.
+
+Its strengths are clear:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Multiple witnesses.
+* A military installation setting.
+* Daylight observation.
+* A reported duration of several minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+</div>
+
+Its weaknesses are equally significant:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* No known radar confirmation.
+* No known photographs.
+* No preserved technical measurements.
+* Limited publicly available witness testimony.
+* Insufficient information to test competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book unknown case files complete list</span><span class="citation-popover-snippet">Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</span></span></span>
+
+</div>
+
+For that reason, the case has not become one of the major benchmark incidents in American UFO history. Instead, it serves as a useful example within Georgia’s official UFO record. It demonstrates how an apparently credible sighting can remain permanently unresolved, not because the object was proven extraordinary, but because the evidence preserved by investigators was too limited to establish what the witnesses actually observed.
+
+Within the broader history of military bases and Georgia’s official UFO records, the Robins incident remains a reminder that “unidentified” is often a description of the evidence rather than a conclusion about the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-3-dark.svg" | relative_url }}" alt="Robins Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_georgia_official_ufo_842948_robins_1957_sighting_670a2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Eight Witnesses See Over Robins?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+<p class="fr-book-desc">Directly relevant to military-base UFO reporting and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
+        
+<p class="fr-book-desc">Emphasizes testimony from trained observers such as pilots and officials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+<p class="fr-book-desc">Explains how multiple-witness cases are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+        
+<p class="fr-book-desc">Offers a comparable military-installation UFO case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/115896230342?_skw=UFO+poster&amp;hash=item1afbf421c6%3Ag%3AinMAAOSwR2Vk5fsl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/3f686c5f20119197f478.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/115896230342?_skw=UFO+poster&amp;hash=item1afbf421c6%3Ag%3AinMAAOSwR2Vk5fsl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: captivart (99.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/115896230342?_skw=UFO+poster&amp;hash=item1afbf421c6%3Ag%3AinMAAOSwR2Vk5fsl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/356866140328?_skw=UFO+poster&amp;hash=item5316e128a8%3Ag%3A2EIAAOSwixBoGhnm&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaSQUIBLwV%2Be%2BqV%2B%2F46cmYFEhHV6Y45KFVw5GAgf2PDlVhZzvHiBiJgLTDCe3suP9ZCh6qDxmyKz%2F0noch87Xy4FIqtsq1QeQU29r1kB4W15nZUSkJflUHHan4fRhxHw9iwblefO4WuloqDy4uAlE6a2r%2BK70j8hGcK3C%2Fcs0B3t03PLxtBaE%2B%2BRyMOQASok3YyEot3Sc4fZG1HoiciHfnBtXYDKL5RhFsmlU99NdVpllGFoK6B0ATdD5S7skN4psUClhSpbo5Gpw61fi4t6vYD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/356866140328?_skw=UFO+poster&amp;hash=item5316e128a8%3Ag%3A2EIAAOSwixBoGhnm&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaSQUIBLwV%2Be%2BqV%2B%2F46cmYFEhHV6Y45KFVw5GAgf2PDlVhZzvHiBiJgLTDCe3suP9ZCh6qDxmyKz%2F0noch87Xy4FIqtsq1QeQU29r1kB4W15nZUSkJflUHHan4fRhxHw9iwblefO4WuloqDy4uAlE6a2r%2BK70j8hGcK3C%2Fcs0B3t03PLxtBaE%2B%2BRyMOQASok3YyEot3Sc4fZG1HoiciHfnBtXYDKL5RhFsmlU99NdVpllGFoK6B0ATdD5S7skN4psUClhSpbo5Gpw61fi4t6vYD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 11.99 | Free shipping</span><span>New</span><span>Seller: canvas monkey (99.8% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/356866140328?_skw=UFO+poster&amp;hash=item5316e128a8%3Ag%3A2EIAAOSwixBoGhnm&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaSQUIBLwV%2Be%2BqV%2B%2F46cmYFEhHV6Y45KFVw5GAgf2PDlVhZzvHiBiJgLTDCe3suP9ZCh6qDxmyKz%2F0noch87Xy4FIqtsq1QeQU29r1kB4W15nZUSkJflUHHan4fRhxHw9iwblefO4WuloqDy4uAlE6a2r%2BK70j8hGcK3C%2Fcs0B3t03PLxtBaE%2B%2BRyMOQASok3YyEot3Sc4fZG1HoiciHfnBtXYDKL5RhFsmlU99NdVpllGFoK6B0ATdD5S7skN4psUClhSpbo5Gpw61fi4t6vYD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/278007650437?_skw=UFO+poster&amp;hash=item40ba8c1885%3Ag%3AQikAAeSwQdhqDsZy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/278007650437?_skw=UFO+poster&amp;hash=item40ba8c1885%3Ag%3AQikAAeSwQdhqDsZy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 16.95 | Free shipping</span><span>New</span><span>Seller: metal-plaques-uk (99.5% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/278007650437?_skw=UFO+poster&amp;hash=item40ba8c1885%3Ag%3AQikAAeSwQdhqDsZy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/365987573706?_skw=UFO+poster&amp;hash=item55368f2fca%3Ag%3A8WUAAeSwMFNpFyL3&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGam%2BG4%2BOygJWOVPYdc%2F3VCeWBsXX0uGayVGV9IVVujVvay8f%2Bo7pUdcLzsJtrKcLLqxJGZ8polg9Gqk%2Fk8rrINxyBN6OXhg7TBQic2prQ459oDy%2BEwyn0RkeqELTqClhDY21w4BDa20poIfB%2Ftj6O049a%2F%2B94AGHJtX2gCET1vlY2T4rgLJeeooqTfKZ6cjcgHAdhqq5CYyPtniOiMTzdDMB0rHtjhiIElQtF%2FLnLGEeWxrG5fEc%2FeSlg7YcN2TEuS7QX0UykfOMd7m1j2wXF5d&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/365987573706?_skw=UFO+poster&amp;hash=item55368f2fca%3Ag%3A8WUAAeSwMFNpFyL3&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGam%2BG4%2BOygJWOVPYdc%2F3VCeWBsXX0uGayVGV9IVVujVvay8f%2Bo7pUdcLzsJtrKcLLqxJGZ8polg9Gqk%2Fk8rrINxyBN6OXhg7TBQic2prQ459oDy%2BEwyn0RkeqELTqClhDY21w4BDa20poIfB%2Ftj6O049a%2F%2B94AGHJtX2gCET1vlY2T4rgLJeeooqTfKZ6cjcgHAdhqq5CYyPtniOiMTzdDMB0rHtjhiIElQtF%2FLnLGEeWxrG5fEc%2FeSlg7YcN2TEuS7QX0UykfOMd7m1j2wXF5d&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.50 | Shipping GBP 5.15</span><span>New</span><span>Seller: robar 499043 (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/365987573706?_skw=UFO+poster&amp;hash=item55368f2fca%3Ag%3A8WUAAeSwMFNpFyL3&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGam%2BG4%2BOygJWOVPYdc%2F3VCeWBsXX0uGayVGV9IVVujVvay8f%2Bo7pUdcLzsJtrKcLLqxJGZ8polg9Gqk%2Fk8rrINxyBN6OXhg7TBQic2prQ459oDy%2BEwyn0RkeqELTqClhDY21w4BDa20poIfB%2Ftj6O049a%2F%2B94AGHJtX2gCET1vlY2T4rgLJeeooqTfKZ6cjcgHAdhqq5CYyPtniOiMTzdDMB0rHtjhiIElQtF%2FLnLGEeWxrG5fEc%2FeSlg7YcN2TEuS7QX0UykfOMd7m1j2wXF5d&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robins-sighting-what-did-eight-witnesses-see-over-robins-georgia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: archives.gov  
+   Title: National Archives Project BLUE BOOK  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</p></details>
+
+2.<a id="endnote-2"></a>
+   Source: af.mil  
+   Title: unidentified flying objects and air force project blue book  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+
+3.<a id="endnote-3"></a>
+   Source: history.com  
+   Title: u s air force closes the book on ufos 45 years ago  
+   Link:<a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Projects Sign and Grudge had only averaged around 170 UFO reports each year, but 1952 brought an...Read more...</p></details>
+
+4.<a id="endnote-4"></a>
+   Source: prologue.blogs.archives.gov  
+   Title: saucers over washington the history of project blue book  
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+
+5.<a id="endnote-5"></a>
+   Source: theblackvault.com  
+   Title: project blue book unknown case files complete list  
+   Link:<a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov. 26, 1957; Robins AFB, Georgia. 10:07 a.m. Witnesses: three control tower operators, one weather observer and fourRead more...</p></details>
+
+6.<a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+
+7.<a id="endnote-7"></a>
+   Source: vault.fbi.gov  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/view</a>  
+
+### Additional References
+
+8.<a id="endnote-8"></a>
+   Source: cia.gov  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+
+9.<a id="endnote-9"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/Luft46.SG/posts/2560628590960116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Luft46.SG/posts/2560628590960116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lancaster crews spot strange object in skyThe British crews in their Lancaster bombers told high command, they observed a very strange ob...</p></details>
+
+10.<a id="endnote-10"></a>
+   Source: Wikipedia  
+   Title: 1952 Washington, D.C. UFO incident  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington, D.C. UFO incidentFrom July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Wa...</p></details>
+
+11.<a id="endnote-11"></a>
+   Source: reddit.com  
+   Title: 1959 photograph project blue book  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1nq6iix/1959_photograph_project_blue_book/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nq6iix/1959_photograph_project_blue_book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1959 Photograph – Project Blue Book: r/UFOsThoughts on Project blue book, undeniable alien proof? r/aliens. • 4y ago...Read more...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: youtube.com  
+   Title: The True Story Behind US Government Investigations Into UFOs | Project Blue Book  
+   Link:<a href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdTVsr4O4HA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Secretly Investigated UFOs | Project Blue Book...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: 10 Cases From Project Blue Book: The CIA's Hunt For UFOs  
+   Link:<a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story Behind US Government Investigations Into UFOs | Project Blue Book...</p></details>
+
+14.<a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: Project Blue Book Revealed: Inside the Air Force's Secret UFO Files  
+   Link:<a href="https://www.youtube.com/watch?v=3IvE8CTwlZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3IvE8CTwlZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
+
+15.<a id="endnote-15"></a>
+   Source: gutenberg.org  
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+
+16.<a id="endnote-16"></a>
+   Source: sacred-texts.com  
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo19.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo19.htm</a>  
+
+17.<a id="endnote-17"></a>
+   Source: upload.wikimedia.org  
+   Title: Project Blue Book, BBA PBSR4 300  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/d/dc/Project_Blue_Book%2C_BBA-PBSR4-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/d/dc/Project_Blue_Book%2C_BBA-PBSR4-300.pdf</a>  
