@@ -67,13 +67,13 @@ description: Connecticut’s UFO history is not dominated by one universally fam
 hero_summary: 'Connecticut’s UFO history is not dominated by one universally famous incident. Its importance lies instead in repeated waves of reports: mystery airships in 1909–10, Cold War cases investigated by the US Air Force, hundreds of large-light sightings along the New York border in the 1980s, and the drone alarm of December 2024.'
 layout: default
 permalink: /what-really-happened-in-connecticuts-ufo/
-nav_short_title: What Really Happened in Connecticut's UFO Cases?
-title: What Really Happened in Connecticut's UFO Cases?
-title_full: What Really Happened in Connecticut's UFO Cases?
-display_title_short: What Really Happened in Connecticut's UFO Cases?
-display_title: What Really Happened in Connecticut's UFO Cases?
-heading_title: What Really Happened in Connecticut's UFO Cases?
-page_heading_title: What Really Happened in Connecticut's UFO Cases?
+nav_short_title: "UFO Reports and Evidence from Connecticut"
+title: "UFO Reports and Evidence from Connecticut"
+title_full: "UFO Reports and Evidence from Connecticut"
+display_title_short: "UFO Reports and Evidence from Connecticut"
+display_title: "UFO Reports and Evidence from Connecticut"
+heading_title: "UFO Reports and Evidence from Connecticut"
+page_heading_title: "UFO Reports and Evidence from Connecticut"
 source_count: 111
 infographic_count: 3
 page_website_name: Connecticut

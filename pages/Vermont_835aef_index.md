@@ -1,6 +1,6 @@
 ---
-title: What Really Happened in Vermont's UFO Cases? Sub-Topic Index
-title_full: What Really Happened in Vermont's UFO Cases? Sub-Topic Index
+title: "Vermont's UFO Case Record Sub-Topic Index"
+title_full: "Vermont's UFO Case Record Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

@@ -67,13 +67,13 @@ description: Georgia has a long UFO history, but not one dominated by a single p
 hero_summary: Georgia has a long UFO history, but not one dominated by a single persuasive “crash” or military encounter. Its best-known case is Jimmy Carter’s 1969 sighting near Leary; its most important wider episode is the wave of reports that crossed Middle Georgia in 1973; and its clearest lesson in scepticism is the notorious 1953 Mableton “space creature” hoax.
 layout: default
 permalink: /what-really-happened-in-georgias-ufo/
-nav_short_title: What Really Happened in Georgia's UFO Cases?
-title: What Really Happened in Georgia's UFO Cases?
-title_full: What Really Happened in Georgia's UFO Cases?
-display_title_short: What Really Happened in Georgia's UFO Cases?
-display_title: What Really Happened in Georgia's UFO Cases?
-heading_title: What Really Happened in Georgia's UFO Cases?
-page_heading_title: What Really Happened in Georgia's UFO Cases?
+nav_short_title: "Georgia's UFO Case Record"
+title: "Georgia's UFO Case Record"
+title_full: "Georgia's UFO Case Record"
+display_title_short: "Georgia's UFO Case Record"
+display_title: "Georgia's UFO Case Record"
+heading_title: "Georgia's UFO Case Record"
+page_heading_title: "Georgia's UFO Case Record"
 source_count: 179
 infographic_count: 3
 page_website_name: Georgia

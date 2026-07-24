@@ -380,7 +380,7 @@ If such records survive and can be located, they could reveal whether Blue Book 
 
 <img src="{{ "/assets/images/Indiana_5d00be_kokomo_hynek_archive_643838_kokomo_blue_book_sta_fd814b-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_kokomo_hynek_archive_643838_kokomo_blue_book_sta_fd814b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_kokomo_hynek_archive_643838_kokomo_blue_book_sta_fd814b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The Most Defensible Conclusion
+## The strongest conclusion supported by Blue Book Trail
 
 For readers following the Kokomo sightings and the Hynek archive trail, the evidence supports a restrained conclusion. Project Blue Book unquestionably touched the Kokomo story: a July 1966 entry exists in the Blue Book record system, and Hynek's papers contain a dedicated Kokomo file from the same year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/8724453/kokomo-indiana-blank-page-6-us-project-blue-book-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">kokomo indiana blank page 6 us project blue book ufo investigations</span><span class="citation-popover-snippet">Page 6: US, Project Blue Book, 1947-196926 Feb 2007 — Date: Jul 1966; Month Season Number: 07; Location: Kokomo, Indiana; Inciden...</span></span></span>
 

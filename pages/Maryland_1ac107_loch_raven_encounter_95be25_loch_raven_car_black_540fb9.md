@@ -349,7 +349,7 @@ No such evidence survives in the public record. As a result, the blackout remain
 
 <img src="{{ "/assets/images/Maryland_1ac107_loch_raven_encounter_95be25_loch_raven_car_black_540fb9-Illustration-3-dark.svg" | relative_url }}" alt="Car Blackout illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_encounter_95be25_loch_raven_car_black_540fb9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_encounter_95be25_loch_raven_car_black_540fb9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The Most Defensible Assessment
+## What the record supports about Car Blackout
 
 Could the Loch Raven object have disabled the car? The available evidence does not allow a confident answer.
 

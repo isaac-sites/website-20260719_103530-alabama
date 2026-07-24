@@ -67,13 +67,13 @@ description: 'Indiana’s UFO history is best understood not as a single decisiv
 hero_summary: 'Indiana’s UFO history is best understood not as a single decisive mystery, but as a series of very different episodes: an unusually close daylight report near Indianapolis in 1948, scattered cases preserved in Project Blue Book and private archives, a concentrated wave of reports around Muncie in October 1973, and a much larger modern stream of public...'
 layout: default
 permalink: /what-really-happened-in-indianas-ufo/
-nav_short_title: What Really Happened in Indiana's UFO Cases?
-title: What Really Happened in Indiana's UFO Cases?
-title_full: What Really Happened in Indiana's UFO Cases?
-display_title_short: What Really Happened in Indiana's UFO Cases?
-display_title: What Really Happened in Indiana's UFO Cases?
-heading_title: What Really Happened in Indiana's UFO Cases?
-page_heading_title: What Really Happened in Indiana's UFO Cases?
+nav_short_title: "UFO Reports and Evidence from Indiana"
+title: "UFO Reports and Evidence from Indiana"
+title_full: "UFO Reports and Evidence from Indiana"
+display_title_short: "UFO Reports and Evidence from Indiana"
+display_title: "UFO Reports and Evidence from Indiana"
+heading_title: "UFO Reports and Evidence from Indiana"
+page_heading_title: "UFO Reports and Evidence from Indiana"
 source_count: 106
 infographic_count: 3
 page_website_name: Indiana

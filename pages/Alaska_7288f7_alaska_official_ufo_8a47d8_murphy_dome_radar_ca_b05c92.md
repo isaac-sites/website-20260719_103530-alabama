@@ -22,13 +22,13 @@ permalink: /murphy-dome/
 sidebar_expanded_urls:
 - /what-really-happened-in-alaskas-skies/
 - /official-files/
-nav_short_title: Murphy Dome
-title: What Really Happened on Murphy Dome Radar?
-title_full: What Really Happened on Murphy Dome Radar? | Official Files
-display_title_short: Murphy Dome
-display_title: Murphy Dome
-heading_title: What Really Happened on Murphy Dome Radar?
-page_heading_title: What Really Happened on Murphy Dome Radar?
+nav_short_title: "The Murphy Dome Radar Incident"
+title: "The Murphy Dome Radar Incident"
+title_full: "The Murphy Dome Radar Incident"
+display_title_short: "The Murphy Dome Radar Incident"
+display_title: "The Murphy Dome Radar Incident"
+heading_title: "The Murphy Dome Radar Incident"
+page_heading_title: "The Murphy Dome Radar Incident"
 source_count: 33
 infographic_count: 3
 site_visual_identity: signal-cobalt

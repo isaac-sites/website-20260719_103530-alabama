@@ -365,7 +365,7 @@ This did not fully settle the matter. Some witnesses remained convinced that the
 
 <img src="{{ "/assets/images/Colorado_d28817_military_aviation_re_d61f55_eastern_colorado_mys_8861fc-Illustration-3-dark.svg" | relative_url }}" alt="Mystery Drones illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_military_aviation_re_d61f55_eastern_colorado_mys_8861fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_military_aviation_re_d61f55_eastern_colorado_mys_8861fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
+## What would settle the questions around Mystery Drones
 
 The eastern Colorado drone episode occupies an unusual position between a solved case and a classic unsolved mystery.
 

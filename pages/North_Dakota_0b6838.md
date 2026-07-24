@@ -67,13 +67,13 @@ description: North Dakota holds an unusually important place in American UFO his
 hero_summary: North Dakota holds an unusually important place in American UFO history.
 layout: default
 permalink: /what-really-happened-in-north-dakotas/
-nav_short_title: What Really Happened in North Dakota's UFO Cases?
-title: What Really Happened in North Dakota's UFO Cases?
-title_full: What Really Happened in North Dakota's UFO Cases?
-display_title_short: What Really Happened in North Dakota's UFO Cases?
-display_title: What Really Happened in North Dakota's UFO Cases?
-heading_title: What Really Happened in North Dakota's UFO Cases?
-page_heading_title: What Really Happened in North Dakota's UFO Cases?
+nav_short_title: "North Dakota's UFO Case Record"
+title: "North Dakota's UFO Case Record"
+title_full: "North Dakota's UFO Case Record"
+display_title_short: "North Dakota's UFO Case Record"
+display_title: "North Dakota's UFO Case Record"
+heading_title: "North Dakota's UFO Case Record"
+page_heading_title: "North Dakota's UFO Case Record"
 source_count: 117
 infographic_count: 3
 page_website_name: North Dakota

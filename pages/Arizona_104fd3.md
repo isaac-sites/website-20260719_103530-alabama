@@ -67,13 +67,13 @@ description: 'Arizona’s UFO history is dominated by one extraordinary night: t
 hero_summary: 'Arizona’s UFO history is dominated by one extraordinary night: the Phoenix Lights of 13 March 1997. Thousands of people across the state reported unusual formations or rows of lights, producing one of America’s best-known mass sightings.'
 layout: default
 permalink: /what-really-happened-in-arizonas-ufo/
-nav_short_title: What Really Happened in Arizona's UFO Skies?
-title: What Really Happened in Arizona's UFO Skies?
-title_full: What Really Happened in Arizona's UFO Skies?
-display_title_short: What Really Happened in Arizona's UFO Skies?
-display_title: What Really Happened in Arizona's UFO Skies?
-heading_title: What Really Happened in Arizona's UFO Skies?
-page_heading_title: What Really Happened in Arizona's UFO Skies?
+nav_short_title: "UFO Reports and Evidence from Arizona"
+title: "UFO Reports and Evidence from Arizona"
+title_full: "UFO Reports and Evidence from Arizona"
+display_title_short: "UFO Reports and Evidence from Arizona"
+display_title: "UFO Reports and Evidence from Arizona"
+heading_title: "UFO Reports and Evidence from Arizona"
+page_heading_title: "UFO Reports and Evidence from Arizona"
 source_count: 175
 infographic_count: 3
 page_website_name: Arizona

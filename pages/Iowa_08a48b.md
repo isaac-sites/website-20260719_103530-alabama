@@ -67,13 +67,13 @@ description: Iowa’s UFO history is less famous than that of New Mexico or Neva
 hero_summary: Iowa’s UFO history is less famous than that of New Mexico or Nevada, but it contains a revealing mixture of mass-reporting waves, official Air Force files, airport enquiries, local investigators and one unusually well-documented physical-trace case. The strongest conclusion is not that Iowa has produced proof of extraterrestrial visitors.
 layout: default
 permalink: /what-really-happened-in-iowas-ufo-cases/
-nav_short_title: What Really Happened in Iowa's UFO Cases?
-title: What Really Happened in Iowa's UFO Cases?
-title_full: What Really Happened in Iowa's UFO Cases?
-display_title_short: What Really Happened in Iowa's UFO Cases?
-display_title: What Really Happened in Iowa's UFO Cases?
-heading_title: What Really Happened in Iowa's UFO Cases?
-page_heading_title: What Really Happened in Iowa's UFO Cases?
+nav_short_title: "Iowa's UFO Case Record"
+title: "Iowa's UFO Case Record"
+title_full: "Iowa's UFO Case Record"
+display_title_short: "Iowa's UFO Case Record"
+display_title: "Iowa's UFO Case Record"
+heading_title: "Iowa's UFO Case Record"
+page_heading_title: "Iowa's UFO Case Record"
 source_count: 113
 infographic_count: 3
 page_website_name: Iowa

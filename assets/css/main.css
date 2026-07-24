@@ -14733,17 +14733,19 @@ a.fr-book-fit:focus-visible {
   body.page-article .article-body > p:has(> img[src$=".svg" i]:only-child),
   body.page-article .page-media-action-shell-direct:has(> img[src$=".svg" i]),
   body.page-article .page-media-action-shell-direct:has(> a > img[src$=".svg" i]) {
-    overflow-x: auto;
-    overscroll-behavior-inline: contain;
-    scrollbar-width: thin;
+    overflow-x: visible;
   }
 
   body.page-article .article-body > figure:has(img[src$=".svg" i]) img,
   body.page-article .article-body > p:has(> img[src$=".svg" i]:only-child) > img,
   body.page-article .page-media-action-shell-direct:has(> img[src$=".svg" i]) > img,
   body.page-article .page-media-action-shell-direct:has(> a > img[src$=".svg" i]) > a > img {
-    min-width: min(42rem, 170vw);
-    max-width: none;
+    width: auto;
+    min-width: 0;
+    max-width: 100%;
+    max-height: min(68vh, 32rem);
+    height: auto;
+    object-fit: contain;
   }
 
   .fr-book-card {

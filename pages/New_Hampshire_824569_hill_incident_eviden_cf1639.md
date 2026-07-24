@@ -24,13 +24,13 @@ layout: default
 permalink: /hill-incident/
 sidebar_expanded_urls:
 - /why-new-hampshire-became-a-ufo-landmark/
-nav_short_title: Hill Incident
-title: What Really Happened to Betty and Barney Hill?
-title_full: What Really Happened to Betty and Barney Hill? | New Hampshire UFOs
-display_title_short: Hill Incident
-display_title: Hill Incident
-heading_title: What Really Happened to Betty and Barney Hill?
-page_heading_title: What Really Happened to Betty and Barney Hill?
+nav_short_title: "Betty and Barney Hill: The Case Record"
+title: "Betty and Barney Hill: The Case Record"
+title_full: "Betty and Barney Hill: The Case Record"
+display_title_short: "Betty and Barney Hill: The Case Record"
+display_title: "Betty and Barney Hill: The Case Record"
+heading_title: "Betty and Barney Hill: The Case Record"
+page_heading_title: "Betty and Barney Hill: The Case Record"
 source_count: 115
 infographic_count: 3
 site_visual_identity: signal-cobalt

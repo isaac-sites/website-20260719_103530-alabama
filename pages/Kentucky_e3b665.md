@@ -67,13 +67,13 @@ description: Kentucky’s UFO history is dominated by two cases that became nati
 hero_summary: Kentucky’s UFO history is dominated by two cases that became nationally important for very different reasons. In January 1948, Kentucky Air National Guard pilot Captain Thomas Mantell died after climbing after an unidentified object near Fort Knox, turning an aerial mystery into an aviation tragedy.
 layout: default
 permalink: /what-really-happened-in-kentuckys-ufo/
-nav_short_title: What Really Happened in Kentucky's UFO Cases?
-title: What Really Happened in Kentucky's UFO Cases?
-title_full: What Really Happened in Kentucky's UFO Cases?
-display_title_short: What Really Happened in Kentucky's UFO Cases?
-display_title: What Really Happened in Kentucky's UFO Cases?
-heading_title: What Really Happened in Kentucky's UFO Cases?
-page_heading_title: What Really Happened in Kentucky's UFO Cases?
+nav_short_title: "UFO Reports and Evidence from Kentucky"
+title: "UFO Reports and Evidence from Kentucky"
+title_full: "UFO Reports and Evidence from Kentucky"
+display_title_short: "UFO Reports and Evidence from Kentucky"
+display_title: "UFO Reports and Evidence from Kentucky"
+heading_title: "UFO Reports and Evidence from Kentucky"
+page_heading_title: "UFO Reports and Evidence from Kentucky"
 source_count: 100
 infographic_count: 3
 page_website_name: Kentucky

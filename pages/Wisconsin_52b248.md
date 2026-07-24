@@ -67,13 +67,13 @@ description: Wisconsin’s UFO history is not built around one conclusive event.
 hero_summary: Wisconsin’s UFO history is not built around one conclusive event. It is a layered record of nineteenth-century “mystery airships”, Cold War reports investigated by the US Air Force, unusual pilot and civilian testimony, and a celebrated 1970s sighting wave around Elmwood.
 layout: default
 permalink: /what-really-happened-in-wisconsins-ufo/
-nav_short_title: What Really Happened in Wisconsin's UFO Cases?
-title: What Really Happened in Wisconsin's UFO Cases?
-title_full: What Really Happened in Wisconsin's UFO Cases?
-display_title_short: What Really Happened in Wisconsin's UFO Cases?
-display_title: What Really Happened in Wisconsin's UFO Cases?
-heading_title: What Really Happened in Wisconsin's UFO Cases?
-page_heading_title: What Really Happened in Wisconsin's UFO Cases?
+nav_short_title: "Notable UFO Cases Across Wisconsin"
+title: "Notable UFO Cases Across Wisconsin"
+title_full: "Notable UFO Cases Across Wisconsin"
+display_title_short: "Notable UFO Cases Across Wisconsin"
+display_title: "Notable UFO Cases Across Wisconsin"
+heading_title: "Notable UFO Cases Across Wisconsin"
+page_heading_title: "Notable UFO Cases Across Wisconsin"
 source_count: 139
 infographic_count: 3
 page_website_name: Wisconsin

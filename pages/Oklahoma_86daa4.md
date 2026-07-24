@@ -67,13 +67,13 @@ description: Oklahoma’s UFO history is dominated not by a single alleged crash
 hero_summary: Oklahoma’s UFO history is dominated not by a single alleged crash or close encounter, but by a remarkable wave of reports in the summer of 1965.
 layout: default
 permalink: /what-really-happened-in-oklahomas-ufo/
-nav_short_title: What Really Happened in Oklahoma's UFO Skies?
-title: What Really Happened in Oklahoma's UFO Skies?
-title_full: What Really Happened in Oklahoma's UFO Skies?
-display_title_short: What Really Happened in Oklahoma's UFO Skies?
-display_title: What Really Happened in Oklahoma's UFO Skies?
-heading_title: What Really Happened in Oklahoma's UFO Skies?
-page_heading_title: What Really Happened in Oklahoma's UFO Skies?
+nav_short_title: "Oklahoma's UFO Case Record"
+title: "Oklahoma's UFO Case Record"
+title_full: "Oklahoma's UFO Case Record"
+display_title_short: "Oklahoma's UFO Case Record"
+display_title: "Oklahoma's UFO Case Record"
+heading_title: "Oklahoma's UFO Case Record"
+page_heading_title: "Oklahoma's UFO Case Record"
 source_count: 129
 infographic_count: 3
 page_website_name: Oklahoma

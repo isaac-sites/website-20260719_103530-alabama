@@ -22,13 +22,13 @@ permalink: /veterinary-evidence/
 sidebar_expanded_urls:
 - /what-colorados-ufo-history-really/
 - /snippy/
-nav_short_title: Veterinary Evidence
-title: What Really Happened to Snippy's Body?
-title_full: What Really Happened to Snippy's Body?
-display_title_short: Veterinary Evidence
-display_title: Veterinary Evidence
-heading_title: What Really Happened to Snippy's Body?
-page_heading_title: What Really Happened to Snippy's Body?
+nav_short_title: "Snippy's Body: The Case Record"
+title: "Snippy's Body: The Case Record"
+title_full: "Snippy's Body: The Case Record"
+display_title_short: "Snippy's Body: The Case Record"
+display_title: "Snippy's Body: The Case Record"
+heading_title: "Snippy's Body: The Case Record"
+page_heading_title: "Snippy's Body: The Case Record"
 source_count: 23
 infographic_count: 3
 site_visual_identity: signal-cobalt

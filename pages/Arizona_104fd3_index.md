@@ -1,6 +1,6 @@
 ---
-title: What Really Happened in Arizona's UFO Skies? Sub-Topic Index
-title_full: What Really Happened in Arizona's UFO Skies? Sub-Topic Index
+title: "UFO Reports and Evidence from Arizona Sub-Topic Index"
+title_full: "UFO Reports and Evidence from Arizona Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

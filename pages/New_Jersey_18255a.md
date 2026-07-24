@@ -67,13 +67,13 @@ description: New Jersey’s UFO history is best understood not as a sequence of 
 hero_summary: New Jersey’s UFO history is best understood not as a sequence of confirmed alien encounters, but as a series of unusually revealing episodes in which strange lights, radar returns, photographs and mass reports collided with military secrecy, busy airspace, public anxiety and imperfect evidence.
 layout: default
 permalink: /what-really-happened-in-new-jerseys/
-nav_short_title: What Really Happened in New Jersey's Skies?
-title: What Really Happened in New Jersey's Skies?
-title_full: What Really Happened in New Jersey's Skies?
-display_title_short: What Really Happened in New Jersey's Skies?
-display_title: What Really Happened in New Jersey's Skies?
-heading_title: What Really Happened in New Jersey's Skies?
-page_heading_title: What Really Happened in New Jersey's Skies?
+nav_short_title: "Notable UFO Cases Across New Jersey"
+title: "Notable UFO Cases Across New Jersey"
+title_full: "Notable UFO Cases Across New Jersey"
+display_title_short: "Notable UFO Cases Across New Jersey"
+display_title: "Notable UFO Cases Across New Jersey"
+heading_title: "Notable UFO Cases Across New Jersey"
+page_heading_title: "Notable UFO Cases Across New Jersey"
 source_count: 133
 infographic_count: 3
 page_website_name: New Jersey

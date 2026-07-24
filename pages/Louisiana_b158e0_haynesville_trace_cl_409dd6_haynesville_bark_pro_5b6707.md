@@ -374,7 +374,7 @@ The surviving record does not allow these possibilities to be separated with con
 
 <img src="{{ "/assets/images/Louisiana_b158e0_haynesville_trace_cl_409dd6_haynesville_bark_pro_5b6707-Illustration-3-dark.svg" | relative_url }}" alt="Bark Provenance illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_trace_cl_409dd6_haynesville_bark_pro_5b6707-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_trace_cl_409dd6_haynesville_bark_pro_5b6707-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The Most Defensible Conclusion
+## Reading the evidence around Bark Provenance conservatively
 
 The bark samples remain one of the most intriguing aspects of the Haynesville case, but they do not provide conclusive physical proof of the reported phenomenon.
 

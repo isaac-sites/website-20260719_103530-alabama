@@ -67,13 +67,13 @@ description: Idaho holds a small but distinctive place in American UFO history.
 hero_summary: Idaho holds a small but distinctive place in American UFO history. Its importance rests less on a single supposedly extraordinary encounter than on its role in the first great “flying saucer” wave of 1947.
 layout: default
 permalink: /what-really-happened-in-idahos-ufo/
-nav_short_title: What Really Happened in Idaho's UFO History?
-title: What Really Happened in Idaho's UFO History?
-title_full: What Really Happened in Idaho's UFO History?
-display_title_short: What Really Happened in Idaho's UFO History?
-display_title: What Really Happened in Idaho's UFO History?
-heading_title: What Really Happened in Idaho's UFO History?
-page_heading_title: What Really Happened in Idaho's UFO History?
+nav_short_title: "The Idaho's UFO History Case"
+title: "The Idaho's UFO History Case"
+title_full: "The Idaho's UFO History Case"
+display_title_short: "The Idaho's UFO History Case"
+display_title: "The Idaho's UFO History Case"
+heading_title: "The Idaho's UFO History Case"
+page_heading_title: "The Idaho's UFO History Case"
 source_count: 111
 infographic_count: 3
 page_website_name: Idaho

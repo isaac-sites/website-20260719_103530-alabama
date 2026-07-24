@@ -24,13 +24,13 @@ layout: default
 permalink: /kecksburg/
 sidebar_expanded_urls:
 - /which-pennsylvania-ufo-stories-still/
-nav_short_title: Kecksburg
-title: What Really Happened at Kecksburg?
-title_full: What Really Happened at Kecksburg? | Pennsylvania
-display_title_short: Kecksburg
-display_title: Kecksburg
-heading_title: What Really Happened at Kecksburg?
-page_heading_title: What Really Happened at Kecksburg?
+nav_short_title: "Kecksburg: The Evidence"
+title: "Kecksburg: The Evidence"
+title_full: "Kecksburg: The Evidence"
+display_title_short: "Kecksburg: The Evidence"
+display_title: "Kecksburg: The Evidence"
+heading_title: "Kecksburg: The Evidence"
+page_heading_title: "Kecksburg: The Evidence"
 source_count: 65
 infographic_count: 3
 site_visual_identity: signal-cobalt

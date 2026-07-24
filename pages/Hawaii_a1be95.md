@@ -67,13 +67,13 @@ description: Hawaii has a genuine UFO history, but not one built around a single
 hero_summary: Hawaii has a genuine UFO history, but not one built around a single, well-documented “landmark” encounter. Its record is instead a scattered mixture of Cold War military reports, pilot and radar claims over the central Pacific, civilian sightings from the islands, and modern videos later linked to rockets, satellites, balloons or other ordinary objects.
 layout: default
 permalink: /what-really-happened-in-hawaiis-ufo/
-nav_short_title: What Really Happened in Hawaii's UFO Skies?
-title: What Really Happened in Hawaii's UFO Skies?
-title_full: What Really Happened in Hawaii's UFO Skies?
-display_title_short: What Really Happened in Hawaii's UFO Skies?
-display_title: What Really Happened in Hawaii's UFO Skies?
-heading_title: What Really Happened in Hawaii's UFO Skies?
-page_heading_title: What Really Happened in Hawaii's UFO Skies?
+nav_short_title: "Hawaii's UFO Case Record"
+title: "Hawaii's UFO Case Record"
+title_full: "Hawaii's UFO Case Record"
+display_title_short: "Hawaii's UFO Case Record"
+display_title: "Hawaii's UFO Case Record"
+heading_title: "Hawaii's UFO Case Record"
+page_heading_title: "Hawaii's UFO Case Record"
 source_count: 83
 infographic_count: 3
 page_website_name: Hawaii

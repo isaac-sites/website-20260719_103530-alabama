@@ -371,7 +371,7 @@ These are not fatal objections individually, but together they explain why the e
 
 <img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c_mariana_aircraft_ref_12134c-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c_mariana_aircraft_ref_12134c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c_mariana_aircraft_ref_12134c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Remains Unresolved
+## What would settle the questions around Aircraft Theory
 
 The aircraft-reflection theory survives because it is grounded in a real and documented aviation presence over Great Falls. Unlike many speculative explanations, it starts with known aircraft that were actually operating in the area. At the same time, the theory remains incomplete because investigators never demonstrated beyond reasonable doubt that those aircraft produced the exact images seen on Mariana's film.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mariana UFO film</span><span class="citation-popover-snippet">Mariana UFO film</span></span></span>
 

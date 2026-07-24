@@ -402,7 +402,7 @@ If “mass sighting” means many witnesses independently observed and documente
 
 That does not prove the witnesses were mistaken. It simply means the surviving evidence cannot bridge the gap between individual memories and a verified county-wide flight path.
 
-## The Most Defensible Conclusion
+## Reading the evidence around Mass Sighting conservatively
 
 The Berkshire witnesses may have been responding to a common event, and some similarities between their accounts make that possibility difficult to dismiss outright. Yet the available evidence does not allow investigators to demonstrate that everyone saw one craft travelling across southern Berkshire County. [Skeptical Inquirer](https://skepticalinquirer.org/2024/10/the-berkshire-ufo-abduction-incident/)
 

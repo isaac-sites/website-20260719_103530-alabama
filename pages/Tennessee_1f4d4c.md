@@ -67,13 +67,13 @@ description: Tennessee’s UFO history is less a catalogue of spectacular proof 
 hero_summary: Tennessee’s UFO history is less a catalogue of spectacular proof than a record of recurring uncertainty. Its strongest material comes from Cold War files concerning Oak Ridge, where unidentified objects near a major atomic installation prompted military, intelligence and security attention.
 layout: default
 permalink: /what-really-happened-in-tennessees-ufo/
-nav_short_title: What Really Happened in Tennessee's UFO Cases?
-title: What Really Happened in Tennessee's UFO Cases?
-title_full: What Really Happened in Tennessee's UFO Cases?
-display_title_short: What Really Happened in Tennessee's UFO Cases?
-display_title: What Really Happened in Tennessee's UFO Cases?
-heading_title: What Really Happened in Tennessee's UFO Cases?
-page_heading_title: What Really Happened in Tennessee's UFO Cases?
+nav_short_title: "Notable UFO Cases Across Tennessee"
+title: "Notable UFO Cases Across Tennessee"
+title_full: "Notable UFO Cases Across Tennessee"
+display_title_short: "Notable UFO Cases Across Tennessee"
+display_title: "Notable UFO Cases Across Tennessee"
+heading_title: "Notable UFO Cases Across Tennessee"
+page_heading_title: "Notable UFO Cases Across Tennessee"
 source_count: 121
 infographic_count: 3
 page_website_name: Tennessee

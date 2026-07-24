@@ -67,13 +67,13 @@ description: 'Maryland’s UFO history is best understood through three overlapp
 hero_summary: 'Maryland’s UFO history is best understood through three overlapping stories: a small number of memorable close encounters, the state’s place inside the Washington military and aviation corridor, and a much larger body of ordinary lights that were reported without enough evidence to identify them confidently.'
 layout: default
 permalink: /what-really-happened-in-marylands-ufo/
-nav_short_title: What Really Happened in Maryland's UFO Skies?
-title: What Really Happened in Maryland's UFO Skies?
-title_full: What Really Happened in Maryland's UFO Skies?
-display_title_short: What Really Happened in Maryland's UFO Skies?
-display_title: What Really Happened in Maryland's UFO Skies?
-heading_title: What Really Happened in Maryland's UFO Skies?
-page_heading_title: What Really Happened in Maryland's UFO Skies?
+nav_short_title: "UFO Reports and Evidence from Maryland"
+title: "UFO Reports and Evidence from Maryland"
+title_full: "UFO Reports and Evidence from Maryland"
+display_title_short: "UFO Reports and Evidence from Maryland"
+display_title: "UFO Reports and Evidence from Maryland"
+heading_title: "UFO Reports and Evidence from Maryland"
+page_heading_title: "UFO Reports and Evidence from Maryland"
 source_count: 148
 infographic_count: 3
 page_website_name: Maryland

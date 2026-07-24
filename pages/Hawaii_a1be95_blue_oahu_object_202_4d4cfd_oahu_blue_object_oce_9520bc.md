@@ -376,7 +376,7 @@ None of those forms of evidence became publicly available after the incident. Th
 
 <img src="{{ "/assets/images/Hawaii_a1be95_blue_oahu_object_202_4d4cfd_oahu_blue_object_oce_9520bc-Illustration-3-dark.svg" | relative_url }}" alt="Ocean Descent illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_blue_oahu_object_202_4d4cfd_oahu_blue_object_oce_9520bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_blue_oahu_object_202_4d4cfd_oahu_blue_object_oce_9520bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The Most Defensible Conclusion
+## The strongest conclusion supported by Ocean Descent
 
 The evidence supports a limited conclusion: witnesses on Oahu believed the blue object descended into the Pacific, and the available videos are consistent with a perceived descent toward the ocean. What the evidence does not support is a definitive statement that the object struck the water.
 

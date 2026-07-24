@@ -67,13 +67,13 @@ description: California has one of the richest and most varied UFO histories in 
 hero_summary: California has one of the richest and most varied UFO histories in the United States, but not because it offers clear proof of extraterrestrial visitors. Its importance comes from the unusual concentration of military test ranges, naval training areas, aerospace industries, major cities, clear desert skies and people willing to report what they see.
 layout: default
 permalink: /what-really-happened-in-californias-ufo/
-nav_short_title: What Really Happened in California's UFO Skies?
-title: What Really Happened in California's UFO Skies?
-title_full: What Really Happened in California's UFO Skies?
-display_title_short: What Really Happened in California's UFO Skies?
-display_title: What Really Happened in California's UFO Skies?
-heading_title: What Really Happened in California's UFO Skies?
-page_heading_title: What Really Happened in California's UFO Skies?
+nav_short_title: "Notable UFO Cases Across California"
+title: "Notable UFO Cases Across California"
+title_full: "Notable UFO Cases Across California"
+display_title_short: "Notable UFO Cases Across California"
+display_title: "Notable UFO Cases Across California"
+heading_title: "Notable UFO Cases Across California"
+page_heading_title: "Notable UFO Cases Across California"
 source_count: 111
 infographic_count: 3
 page_website_name: California

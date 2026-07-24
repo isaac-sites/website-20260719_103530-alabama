@@ -22,13 +22,13 @@ permalink: /anthony-hill/
 sidebar_expanded_urls:
 - /what-really-happened-in-tennessees-ufo/
 - /1973-wave-8238fc/
-nav_short_title: Anthony Hill
-title: What Really Happened at Anthony Hill?
-title_full: What Really Happened at Anthony Hill? | 1973 Wave
-display_title_short: Anthony Hill
-display_title: Anthony Hill
-heading_title: What Really Happened at Anthony Hill?
-page_heading_title: What Really Happened at Anthony Hill?
+nav_short_title: "Anthony Hill: The Evidence"
+title: "Anthony Hill: The Evidence"
+title_full: "Anthony Hill: The Evidence"
+display_title_short: "Anthony Hill: The Evidence"
+display_title: "Anthony Hill: The Evidence"
+heading_title: "Anthony Hill: The Evidence"
+page_heading_title: "Anthony Hill: The Evidence"
 source_count: 41
 infographic_count: 3
 site_visual_identity: signal-cobalt

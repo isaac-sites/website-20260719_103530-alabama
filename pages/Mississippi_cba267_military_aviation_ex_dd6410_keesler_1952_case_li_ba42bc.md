@@ -22,13 +22,13 @@ permalink: /keesler-1952/
 sidebar_expanded_urls:
 - /what-really-happened-in-mississippis-ufo/
 - /military-links/
-nav_short_title: Keesler 1952
-title: What Really Happened Over Keesler in 1952?
-title_full: What Really Happened Over Keesler in 1952? | Military Links
-display_title_short: Keesler 1952
-display_title: Keesler 1952
-heading_title: What Really Happened Over Keesler in 1952?
-page_heading_title: What Really Happened Over Keesler in 1952?
+nav_short_title: "The Keesler in 1952 Sighting Record"
+title: "The Keesler in 1952 Sighting Record"
+title_full: "The Keesler in 1952 Sighting Record"
+display_title_short: "The Keesler in 1952 Sighting Record"
+display_title: "The Keesler in 1952 Sighting Record"
+heading_title: "The Keesler in 1952 Sighting Record"
+page_heading_title: "The Keesler in 1952 Sighting Record"
 source_count: 32
 infographic_count: 3
 site_visual_identity: signal-cobalt

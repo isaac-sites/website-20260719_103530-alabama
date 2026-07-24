@@ -1,6 +1,6 @@
 ---
-title: What Really Happened in Hawaii's UFO Skies? Sub-Topic Index
-title_full: What Really Happened in Hawaii's UFO Skies? Sub-Topic Index
+title: "Hawaii's UFO Case Record Sub-Topic Index"
+title_full: "Hawaii's UFO Case Record Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

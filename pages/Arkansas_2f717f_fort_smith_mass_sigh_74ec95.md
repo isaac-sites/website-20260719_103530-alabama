@@ -411,7 +411,7 @@ At the same time, the documents prevent the event from being dismissed as a whol
 
 <img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_mass_sigh_74ec95-Illustration-3-dark.svg" | relative_url }}" alt="Fort Smith illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_mass_sigh_74ec95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_mass_sigh_74ec95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The fairest assessment
+## Where the record leaves Fort Smith
 
 Fort Smith’s mass sighting is best classified as a **real but weakly resolved multi-witness light display**. The event is historically significant because of its scale, public broadcasting and Project Blue Book investigation. It is not a strong case for an exotic craft because the observations were dominated by distant coloured lights, the witnesses were not systematically interviewed, radar did not confirm a target and conventional aircraft activity was a live possibility.
 

@@ -437,7 +437,7 @@ Later investigation did not, however, strengthen the technical case to the same 
 
 Project Blue Book’s broad astronomical explanation was weak when applied to the alleged radar component. Stars and planets could explain some visual lights but not ordinary primary-radar echoes. Even so, showing that Blue Book offered an inadequate explanation does not establish that the targets were exotic vehicles. It leaves a narrower but still unresolved question: what produced the reported returns, and were those returns actually connected with what witnesses saw?
 
-## The fairest assessment
+## What the evidence supports about Tinker Radar
 
 The Tinker Air Force Base radar claims deserve a place in Oklahoma’s UFO history because they show how quickly a mass of visual reports could involve police communications, military facilities, journalists and federal investigators. The contemporary record supports the claim that radar contacts were reported and discussed. It also records official hesitation, contradictory radar statements and at least one conventional identification during the same wave.
 

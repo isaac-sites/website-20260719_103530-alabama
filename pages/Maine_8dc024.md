@@ -67,13 +67,13 @@ description: Maine’s UFO history is dominated by two very different stories.
 hero_summary: Maine’s UFO history is dominated by two very different stories. The strongest documentary case is the series of unidentified aerial incursions around Loring Air Force Base in October 1975, where security personnel, radar operators and military command centres treated an unknown aircraft near a nuclear weapons area as a genuine defence problem.
 layout: default
 permalink: /what-really-happened-in-maines-ufo-cases/
-nav_short_title: What Really Happened in Maine's UFO Cases?
-title: What Really Happened in Maine's UFO Cases?
-title_full: What Really Happened in Maine's UFO Cases?
-display_title_short: What Really Happened in Maine's UFO Cases?
-display_title: What Really Happened in Maine's UFO Cases?
-heading_title: What Really Happened in Maine's UFO Cases?
-page_heading_title: What Really Happened in Maine's UFO Cases?
+nav_short_title: "Notable UFO Cases Across Maine"
+title: "Notable UFO Cases Across Maine"
+title_full: "Notable UFO Cases Across Maine"
+display_title_short: "Notable UFO Cases Across Maine"
+display_title: "Notable UFO Cases Across Maine"
+heading_title: "Notable UFO Cases Across Maine"
+page_heading_title: "Notable UFO Cases Across Maine"
 source_count: 113
 infographic_count: 3
 page_website_name: Maine

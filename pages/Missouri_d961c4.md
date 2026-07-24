@@ -67,13 +67,13 @@ description: 'Missouri’s UFO history is dominated by one unusually well-docume
 hero_summary: 'Missouri’s UFO history is dominated by one unusually well-documented episode: the wave of strange-light reports around Piedmont and Wayne County in 1973.'
 layout: default
 permalink: /what-really-happened-in-missouris-ufo/
-nav_short_title: What Really Happened in Missouri's UFO History?
-title: What Really Happened in Missouri's UFO History?
-title_full: What Really Happened in Missouri's UFO History?
-display_title_short: What Really Happened in Missouri's UFO History?
-display_title: What Really Happened in Missouri's UFO History?
-heading_title: What Really Happened in Missouri's UFO History?
-page_heading_title: What Really Happened in Missouri's UFO History?
+nav_short_title: "The Missouri's UFO History Case"
+title: "The Missouri's UFO History Case"
+title_full: "The Missouri's UFO History Case"
+display_title_short: "The Missouri's UFO History Case"
+display_title: "The Missouri's UFO History Case"
+heading_title: "The Missouri's UFO History Case"
+page_heading_title: "The Missouri's UFO History Case"
 source_count: 117
 infographic_count: 3
 page_website_name: Missouri

@@ -67,13 +67,13 @@ description: South Dakota’s UFO history is notable less for one famous “land
 hero_summary: South Dakota’s UFO history is notable less for one famous “landing” than for a concentrated run of Cold War reports involving military personnel, radar operators, interceptor aircraft, airline crews and civilian observers.
 layout: default
 permalink: /what-really-happened-in-south-dakotas/
-nav_short_title: What Really Happened in South Dakota's UFO Years?
-title: What Really Happened in South Dakota's UFO Years?
-title_full: What Really Happened in South Dakota's UFO Years?
-display_title_short: What Really Happened in South Dakota's UFO Years?
-display_title: What Really Happened in South Dakota's UFO Years?
-heading_title: What Really Happened in South Dakota's UFO Years?
-page_heading_title: What Really Happened in South Dakota's UFO Years?
+nav_short_title: "The South Dakota's UFO Years Case"
+title: "The South Dakota's UFO Years Case"
+title_full: "The South Dakota's UFO Years Case"
+display_title_short: "The South Dakota's UFO Years Case"
+display_title: "The South Dakota's UFO Years Case"
+heading_title: "The South Dakota's UFO Years Case"
+page_heading_title: "The South Dakota's UFO Years Case"
 source_count: 74
 infographic_count: 3
 page_website_name: South Dakota

@@ -67,13 +67,13 @@ description: 'West Virginia’s UFO history is dominated by two episodes: the 19
 hero_summary: 'West Virginia’s UFO history is dominated by two episodes: the 1952 Flatwoods encounter and the wave of strange reports around Point Pleasant in 1966–67. Both began with sincere, frightened witnesses and became enduring parts of American folklore. Neither, however, provides strong physical evidence of an extraterrestrial visit.'
 layout: default
 permalink: /what-really-happened-in-west-virginias/
-nav_short_title: What Really Happened in West Virginia's UFO Cases?
-title: What Really Happened in West Virginia's UFO Cases?
-title_full: What Really Happened in West Virginia's UFO Cases?
-display_title_short: What Really Happened in West Virginia's UFO Cases?
-display_title: What Really Happened in West Virginia's UFO Cases?
-heading_title: What Really Happened in West Virginia's UFO Cases?
-page_heading_title: What Really Happened in West Virginia's UFO Cases?
+nav_short_title: "UFO Reports and Evidence from West Virginia"
+title: "UFO Reports and Evidence from West Virginia"
+title_full: "UFO Reports and Evidence from West Virginia"
+display_title_short: "UFO Reports and Evidence from West Virginia"
+display_title: "UFO Reports and Evidence from West Virginia"
+heading_title: "UFO Reports and Evidence from West Virginia"
+page_heading_title: "UFO Reports and Evidence from West Virginia"
 source_count: 127
 infographic_count: 3
 page_website_name: West Virginia

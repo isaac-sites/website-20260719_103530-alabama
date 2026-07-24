@@ -67,13 +67,13 @@ description: Minnesota’s UFO history is not built around a single statewide �
 hero_summary: Minnesota’s UFO history is not built around a single statewide “invasion” or a body of evidence proving extraterrestrial visits. It is a patchwork of military reports, pilot observations, rural encounters, newspaper-driven sighting waves and thousands of later public submissions.
 layout: default
 permalink: /what-really-happened-in-minnesotas-ufo/
-nav_short_title: What Really Happened in Minnesota's UFO Cases?
-title: What Really Happened in Minnesota's UFO Cases?
-title_full: What Really Happened in Minnesota's UFO Cases?
-display_title_short: What Really Happened in Minnesota's UFO Cases?
-display_title: What Really Happened in Minnesota's UFO Cases?
-heading_title: What Really Happened in Minnesota's UFO Cases?
-page_heading_title: What Really Happened in Minnesota's UFO Cases?
+nav_short_title: "Notable UFO Cases Across Minnesota"
+title: "Notable UFO Cases Across Minnesota"
+title_full: "Notable UFO Cases Across Minnesota"
+display_title_short: "Notable UFO Cases Across Minnesota"
+display_title: "Notable UFO Cases Across Minnesota"
+heading_title: "Notable UFO Cases Across Minnesota"
+page_heading_title: "Notable UFO Cases Across Minnesota"
 source_count: 106
 infographic_count: 3
 page_website_name: Minnesota

@@ -67,13 +67,13 @@ description: Kansas has no single UFO case supported by decisive radar data, cle
 hero_summary: Kansas has no single UFO case supported by decisive radar data, clear imagery or independently verified material evidence.
 layout: default
 permalink: /what-really-happened-in-kansas-ufo/
-nav_short_title: What Really Happened in Kansas UFO History?
-title: What Really Happened in Kansas UFO History?
-title_full: What Really Happened in Kansas UFO History?
-display_title_short: What Really Happened in Kansas UFO History?
-display_title: What Really Happened in Kansas UFO History?
-heading_title: What Really Happened in Kansas UFO History?
-page_heading_title: What Really Happened in Kansas UFO History?
+nav_short_title: "The Kansas UFO History Case"
+title: "The Kansas UFO History Case"
+title_full: "The Kansas UFO History Case"
+display_title_short: "The Kansas UFO History Case"
+display_title: "The Kansas UFO History Case"
+heading_title: "The Kansas UFO History Case"
+page_heading_title: "The Kansas UFO History Case"
 source_count: 109
 infographic_count: 3
 page_website_name: Kansas

@@ -67,13 +67,13 @@ description: 'New York’s UFO history is best understood not as one continuous 
 hero_summary: 'New York’s UFO history is best understood not as one continuous mystery, but as a series of very different problems: Cold War-era reports examined by the US Air Force, a striking rural landing claim in western New York, the mass sightings that swept the Hudson Valley in the 1980s, and newer incidents involving drones, crowded air corridors and incomplete...'
 layout: default
 permalink: /what-really-happened-in-new-yorks-ufo/
-nav_short_title: What Really Happened in New York's UFO Cases?
-title: What Really Happened in New York's UFO Cases?
-title_full: What Really Happened in New York's UFO Cases?
-display_title_short: What Really Happened in New York's UFO Cases?
-display_title: What Really Happened in New York's UFO Cases?
-heading_title: What Really Happened in New York's UFO Cases?
-page_heading_title: What Really Happened in New York's UFO Cases?
+nav_short_title: "Notable UFO Cases Across New York"
+title: "Notable UFO Cases Across New York"
+title_full: "Notable UFO Cases Across New York"
+display_title_short: "Notable UFO Cases Across New York"
+display_title: "Notable UFO Cases Across New York"
+heading_title: "Notable UFO Cases Across New York"
+page_heading_title: "Notable UFO Cases Across New York"
 source_count: 170
 infographic_count: 3
 page_website_name: New York

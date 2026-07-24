@@ -67,13 +67,13 @@ description: Nebraska has no single UFO incident supported by decisive physical 
 hero_summary: Nebraska has no single UFO incident supported by decisive physical evidence, but it has a unusually revealing history of aerial mysteries.
 layout: default
 permalink: /what-really-happened-in-nebraskas-ufo/
-nav_short_title: What Really Happened in Nebraska's UFO History?
-title: What Really Happened in Nebraska's UFO History?
-title_full: What Really Happened in Nebraska's UFO History?
-display_title_short: What Really Happened in Nebraska's UFO History?
-display_title: What Really Happened in Nebraska's UFO History?
-heading_title: What Really Happened in Nebraska's UFO History?
-page_heading_title: What Really Happened in Nebraska's UFO History?
+nav_short_title: "The Nebraska's UFO History Case"
+title: "The Nebraska's UFO History Case"
+title_full: "The Nebraska's UFO History Case"
+display_title_short: "The Nebraska's UFO History Case"
+display_title: "The Nebraska's UFO History Case"
+heading_title: "The Nebraska's UFO History Case"
+page_heading_title: "The Nebraska's UFO History Case"
 source_count: 118
 infographic_count: 3
 page_website_name: Nebraska

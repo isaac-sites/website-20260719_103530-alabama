@@ -22,13 +22,13 @@ permalink: /the-wynnewood-radar-case/
 sidebar_expanded_urls:
 - /what-really-happened-in-oklahomas-ufo/
 - /tinker-radar/
-nav_short_title: The Wynnewood Radar Case
-title: What Really Happened in the Wynnewood Radar Case?
-title_full: What Really Happened in the Wynnewood Radar Case? | Tinker Radar
-display_title_short: The Wynnewood Radar Case
-display_title: The Wynnewood Radar Case
-heading_title: What Really Happened in the Wynnewood Radar Case?
-page_heading_title: What Really Happened in the Wynnewood Radar Case?
+nav_short_title: "The the Wynnewood Radar Case Case"
+title: "The the Wynnewood Radar Case Case"
+title_full: "The the Wynnewood Radar Case Case"
+display_title_short: "The the Wynnewood Radar Case Case"
+display_title: "The the Wynnewood Radar Case Case"
+heading_title: "The the Wynnewood Radar Case Case"
+page_heading_title: "The the Wynnewood Radar Case Case"
 source_count: 18
 infographic_count: 3
 site_visual_identity: signal-cobalt

@@ -67,13 +67,13 @@ description: North Carolina’s UFO history is not built around one decisive “
 hero_summary: North Carolina’s UFO history is not built around one decisive “Roswell”-style incident. It is a layered record of mountain lights, Cold War-era reports, police sightings, military-airspace confusion and thousands of modern witness submissions.
 layout: default
 permalink: /what-really-happened-in-north-carolinas/
-nav_short_title: What Really Happened in North Carolina's Skies?
-title: What Really Happened in North Carolina's Skies?
-title_full: What Really Happened in North Carolina's Skies?
-display_title_short: What Really Happened in North Carolina's Skies?
-display_title: What Really Happened in North Carolina's Skies?
-heading_title: What Really Happened in North Carolina's Skies?
-page_heading_title: What Really Happened in North Carolina's Skies?
+nav_short_title: "UFO Reports and Evidence from North Carolina"
+title: "UFO Reports and Evidence from North Carolina"
+title_full: "UFO Reports and Evidence from North Carolina"
+display_title_short: "UFO Reports and Evidence from North Carolina"
+display_title: "UFO Reports and Evidence from North Carolina"
+heading_title: "UFO Reports and Evidence from North Carolina"
+page_heading_title: "UFO Reports and Evidence from North Carolina"
 source_count: 130
 infographic_count: 3
 page_website_name: North Carolina

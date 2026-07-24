@@ -366,7 +366,7 @@ Minot occurred during Blue Book’s final period, when the Air Force was prepari
 
 <img src="{{ "/assets/images/North_Dakota_0b6838_minot_1968_ufo_case_f00bc3-Illustration-2-dark.svg" | relative_url }}" alt="Minot 1968 illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_1968_ufo_case_f00bc3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_1968_ufo_case_f00bc3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
+## What would settle the questions around Minot 1968
 
 The strongest interpretation is not that every Minot claim must be accepted, but that no single conventional explanation has been shown to account for the full record. An astronomical object may explain some prolonged ground observations. The B-52 and its landing lights may explain portions of the N-7 sequence. A terrestrial light could explain the pilots’ later visual sighting. Radar artefacts or propagation effects remain possible. The difficulty is demonstrating that this combination matches the reported directions, timings and radar behaviour without leaving important contradictions.
 

@@ -401,7 +401,7 @@ Yet this fragmented explanation has its own weakness: it requires several coinci
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJiTkKFoxuI" title="Exploring Texas’ Weird Folklore: Myths and Legends of the United States" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 56:57">56:57</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJiTkKFoxuI" target="_blank" rel="noopener noreferrer">Exploring Texas’ Weird Folklore: Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 585.0K &middot; Uploaded: March 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJiTkKFoxuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJiTkKFoxuI">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
+## The evidence gaps around Levelland
 
 Levelland survives because neither side possesses decisive evidence. The strongest features are the concentration of reports, their arrival at the police station during the night rather than years later, the involvement of several apparently independent motorists and the repeated claim that vehicles recovered when the light departed.
 

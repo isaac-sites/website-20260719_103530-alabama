@@ -67,13 +67,13 @@ description: Virginia’s UFO history is best understood not as one continuous m
 hero_summary: Virginia’s UFO history is best understood not as one continuous mystery, but as a series of very different episodes shaped by the state’s geography.
 layout: default
 permalink: /what-really-happened-in-virginias-ufo/
-nav_short_title: What Really Happened in Virginia's UFO Cases?
-title: What Really Happened in Virginia's UFO Cases?
-title_full: What Really Happened in Virginia's UFO Cases?
-display_title_short: What Really Happened in Virginia's UFO Cases?
-display_title: What Really Happened in Virginia's UFO Cases?
-heading_title: What Really Happened in Virginia's UFO Cases?
-page_heading_title: What Really Happened in Virginia's UFO Cases?
+nav_short_title: "UFO Reports and Evidence from Virginia"
+title: "UFO Reports and Evidence from Virginia"
+title_full: "UFO Reports and Evidence from Virginia"
+display_title_short: "UFO Reports and Evidence from Virginia"
+display_title: "UFO Reports and Evidence from Virginia"
+heading_title: "UFO Reports and Evidence from Virginia"
+page_heading_title: "UFO Reports and Evidence from Virginia"
 source_count: 117
 infographic_count: 3
 page_website_name: Virginia

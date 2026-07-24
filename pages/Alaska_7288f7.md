@@ -67,13 +67,13 @@ description: Alaska’s UFO history is best understood not as a catalogue of pro
 hero_summary: Alaska’s UFO history is best understood not as a catalogue of proven extraterrestrial visits, but as a series of difficult observations made in one of the world’s most demanding aviation environments.
 layout: default
 permalink: /what-really-happened-in-alaskas-skies/
-nav_short_title: What Really Happened in Alaska's Skies?
-title: What Really Happened in Alaska's Skies?
-title_full: What Really Happened in Alaska's Skies?
-display_title_short: What Really Happened in Alaska's Skies?
-display_title: What Really Happened in Alaska's Skies?
-heading_title: What Really Happened in Alaska's Skies?
-page_heading_title: What Really Happened in Alaska's Skies?
+nav_short_title: "Notable UFO Cases Across Alaska"
+title: "Notable UFO Cases Across Alaska"
+title_full: "Notable UFO Cases Across Alaska"
+display_title_short: "Notable UFO Cases Across Alaska"
+display_title: "Notable UFO Cases Across Alaska"
+heading_title: "Notable UFO Cases Across Alaska"
+page_heading_title: "Notable UFO Cases Across Alaska"
 source_count: 90
 infographic_count: 3
 page_website_name: Alaska

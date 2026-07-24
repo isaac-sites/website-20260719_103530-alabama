@@ -1,6 +1,6 @@
 ---
-title: What Really Happened in Maine's UFO Cases? Sub-Topic Index
-title_full: What Really Happened in Maine's UFO Cases? Sub-Topic Index
+title: "Notable UFO Cases Across Maine Sub-Topic Index"
+title_full: "Notable UFO Cases Across Maine Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

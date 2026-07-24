@@ -67,13 +67,13 @@ description: 'Vermont has no single UFO incident supported by decisive physical 
 hero_summary: 'Vermont has no single UFO incident supported by decisive physical evidence, but it has a distinctive state history built around three kinds of case: Cold War reports preserved in US Air Force files, sightings involving credible public officials, and later abduction narratives reconstructed long after the alleged event.'
 layout: default
 permalink: /what-really-happened-in-vermonts-ufo/
-nav_short_title: What Really Happened in Vermont's UFO Cases?
-title: What Really Happened in Vermont's UFO Cases?
-title_full: What Really Happened in Vermont's UFO Cases?
-display_title_short: What Really Happened in Vermont's UFO Cases?
-display_title: What Really Happened in Vermont's UFO Cases?
-heading_title: What Really Happened in Vermont's UFO Cases?
-page_heading_title: What Really Happened in Vermont's UFO Cases?
+nav_short_title: "Vermont's UFO Case Record"
+title: "Vermont's UFO Case Record"
+title_full: "Vermont's UFO Case Record"
+display_title_short: "Vermont's UFO Case Record"
+display_title: "Vermont's UFO Case Record"
+heading_title: "Vermont's UFO Case Record"
+page_heading_title: "Vermont's UFO Case Record"
 source_count: 155
 infographic_count: 3
 page_website_name: Vermont

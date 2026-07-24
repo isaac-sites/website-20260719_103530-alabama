@@ -67,13 +67,13 @@ description: 'Alabama’s UFO history is best understood not as a single mystery
 hero_summary: 'Alabama’s UFO history is best understood not as a single mystery but as a sequence of very different cases: a close airborne encounter reported by commercial pilots near Montgomery in 1948, waves of community sightings such as the 1989 Fyffe episode, and stranger stories—including the Falkville “Metal Man”—whose evidential foundations are much weaker.'
 layout: default
 permalink: /what-really-happened-in-alabamas-ufo/
-nav_short_title: What Really Happened in Alabama's UFO Cases?
-title: What Really Happened in Alabama's UFO Cases?
-title_full: What Really Happened in Alabama's UFO Cases?
-display_title_short: What Really Happened in Alabama's UFO Cases?
-display_title: What Really Happened in Alabama's UFO Cases?
-heading_title: What Really Happened in Alabama's UFO Cases?
-page_heading_title: What Really Happened in Alabama's UFO Cases?
+nav_short_title: "Notable UFO Cases Across Alabama"
+title: "Notable UFO Cases Across Alabama"
+title_full: "Notable UFO Cases Across Alabama"
+display_title_short: "Notable UFO Cases Across Alabama"
+display_title: "Notable UFO Cases Across Alabama"
+heading_title: "Notable UFO Cases Across Alabama"
+page_heading_title: "Notable UFO Cases Across Alabama"
 source_count: 115
 infographic_count: 3
 page_website_name: Alabama

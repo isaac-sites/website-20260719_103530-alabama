@@ -1,6 +1,6 @@
 ---
-title: What Really Happened in Indiana's UFO Cases? Sub-Topic Index
-title_full: What Really Happened in Indiana's UFO Cases? Sub-Topic Index
+title: "UFO Reports and Evidence from Indiana Sub-Topic Index"
+title_full: "UFO Reports and Evidence from Indiana Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

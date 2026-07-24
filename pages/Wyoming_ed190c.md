@@ -67,13 +67,13 @@ description: Wyoming has a long but comparatively thinly documented UFO history.
 hero_summary: Wyoming has a long but comparatively thinly documented UFO history.
 layout: default
 permalink: /what-really-happened-in-wyomings-ufo/
-nav_short_title: What Really Happened in Wyoming's UFO History?
-title: What Really Happened in Wyoming's UFO History?
-title_full: What Really Happened in Wyoming's UFO History?
-display_title_short: What Really Happened in Wyoming's UFO History?
-display_title: What Really Happened in Wyoming's UFO History?
-heading_title: What Really Happened in Wyoming's UFO History?
-page_heading_title: What Really Happened in Wyoming's UFO History?
+nav_short_title: "The Wyoming's UFO History Case"
+title: "The Wyoming's UFO History Case"
+title_full: "The Wyoming's UFO History Case"
+display_title_short: "The Wyoming's UFO History Case"
+display_title: "The Wyoming's UFO History Case"
+heading_title: "The Wyoming's UFO History Case"
+page_heading_title: "The Wyoming's UFO History Case"
 source_count: 85
 infographic_count: 3
 page_website_name: Wyoming

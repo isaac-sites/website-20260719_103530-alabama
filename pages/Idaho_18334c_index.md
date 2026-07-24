@@ -1,6 +1,6 @@
 ---
-title: What Really Happened in Idaho's UFO History? Sub-Topic Index
-title_full: What Really Happened in Idaho's UFO History? Sub-Topic Index
+title: "The Idaho's UFO History Case Sub-Topic Index"
+title_full: "The Idaho's UFO History Case Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

@@ -363,7 +363,7 @@ That does not mean every question about the encounter has been answered. AARO it
 
 <img src="{{ "/assets/images/Florida_30c2d0_eglin_balloon_resolu_71b04c_eglin_radar_failure_67619f-Illustration-3-dark.svg" | relative_url }}" alt="Radar Failure illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_eglin_balloon_resolu_71b04c_eglin_radar_failure_67619f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_eglin_balloon_resolu_71b04c_eglin_radar_failure_67619f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The Most Defensible Conclusion
+## The strongest conclusion supported by Radar Failure
 
 Based on the publicly available evidence, there is no confirmed indication that the object caused the radar failure.
 

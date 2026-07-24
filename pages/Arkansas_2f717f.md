@@ -67,13 +67,13 @@ description: Arkansas has a genuine place in American UFO history, but not becau
 hero_summary: Arkansas has a genuine place in American UFO history, but not because it possesses a single, well-documented “smoking gun”.
 layout: default
 permalink: /what-really-happened-in-arkansas-ufo/
-nav_short_title: What Really Happened in Arkansas UFO History?
-title: What Really Happened in Arkansas UFO History?
-title_full: What Really Happened in Arkansas UFO History?
-display_title_short: What Really Happened in Arkansas UFO History?
-display_title: What Really Happened in Arkansas UFO History?
-heading_title: What Really Happened in Arkansas UFO History?
-page_heading_title: What Really Happened in Arkansas UFO History?
+nav_short_title: "The Arkansas UFO History Case"
+title: "The Arkansas UFO History Case"
+title_full: "The Arkansas UFO History Case"
+display_title_short: "The Arkansas UFO History Case"
+display_title: "The Arkansas UFO History Case"
+heading_title: "The Arkansas UFO History Case"
+page_heading_title: "The Arkansas UFO History Case"
 source_count: 88
 infographic_count: 3
 page_website_name: Arkansas
