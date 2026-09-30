@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /arizona-104fd3-phoenix-lights-legen/
 description: Focused pages that expand on Legend Making.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Arizona_104fd3_phoenix_lights_legen_5a3a8c
 parent_title: Legend Making | What Really Happened in Arizona's UFO Skies?

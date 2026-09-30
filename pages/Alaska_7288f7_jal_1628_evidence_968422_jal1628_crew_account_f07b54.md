@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 21:06:01'
+last_modified_at: '2026-07-15 21:06:01'
 parent_title: Did Radar Confirm the JAL 1628 Sighting? | Alaska UFOs
 parent_permalink: /jal-1628/
 parent_nav_short_title: JAL 1628

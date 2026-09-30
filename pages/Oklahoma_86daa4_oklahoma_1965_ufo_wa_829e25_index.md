@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-oklahoma-1965-ufo-wa/
 description: Focused pages that expand on 1965 Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oklahoma_86daa4_oklahoma_1965_ufo_wa_829e25
 parent_title: 1965 Wave | What Really Happened in Oklahoma's UFO...

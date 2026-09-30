@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /maryland-1ac107-washington-1952-ufo/
 description: Focused pages that expand on 1952 Flap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Maryland_1ac107_washington_1952_ufo_0e6d2e
 parent_title: 1952 Flap | What Really Happened in Maryland's UFO...

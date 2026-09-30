@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 21:49:12'
+last_modified_at: '2026-07-16 21:49:12'
 parent_title: When Strange Lights Had Ordinary Explanations | Which Massachusetts UFO Stories Still Hold...
 parent_permalink: /photos-and-lights/
 parent_nav_short_title: Photos and Lights

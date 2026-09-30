@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:59'
+last_modified_at: '2026-07-19 08:11:59'
 parent_title: What Did Blue Book Find in Wyoming? | Wyoming UFOs
 parent_permalink: /blue-book-6fddaf/
 parent_nav_short_title: Blue Book

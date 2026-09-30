@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-route-12-tracer-fire/
 description: Focused pages that expand on Route 12.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vermont_835aef_route_12_tracer_fire_1ae19e
 parent_title: Route 12 | What Really Happened in Vermont's UFO Cases?

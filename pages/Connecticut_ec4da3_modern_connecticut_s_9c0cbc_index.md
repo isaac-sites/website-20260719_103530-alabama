@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-modern-connecticut/
 description: Focused pages that expand on Modern Sightings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Connecticut_ec4da3_modern_connecticut_s_9c0cbc
 parent_title: Modern Sightings | What Really Happened in Connecticut's UFO...

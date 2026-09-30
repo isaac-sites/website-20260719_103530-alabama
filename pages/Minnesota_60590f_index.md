@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-index/
 description: Focused pages that expand on What Really Happened in Minnesota's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Minnesota_60590f
 parent_title: What Really Happened in Minnesota's UFO...

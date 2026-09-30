@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /arizona-104fd3-phoenix-lights-evide/
 description: Focused pages that expand on Phoenix Lights.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Arizona_104fd3_phoenix_lights_evide_c82f3b
 parent_title: Phoenix Lights | What Really Happened in Arizona's UFO Skies?

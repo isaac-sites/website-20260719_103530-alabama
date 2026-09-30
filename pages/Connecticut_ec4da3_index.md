@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-index/
 description: Focused pages that expand on What Really Happened in Connecticut's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Connecticut_ec4da3
 parent_title: What Really Happened in Connecticut's UFO...

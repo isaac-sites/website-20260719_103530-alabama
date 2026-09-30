@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /maine-8dc024-maine-sighting-patte/
 description: Focused pages that expand on Sightings Pattern.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Maine_8dc024_maine_sighting_patte_9a3d95
 parent_title: Sightings Pattern | What Really Happened in Maine's UFO Cases?

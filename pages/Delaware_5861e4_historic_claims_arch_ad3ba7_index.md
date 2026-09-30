@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-historic-claims-arch/
 description: Focused pages that expand on Historic Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Delaware_5861e4_historic_claims_arch_ad3ba7
 parent_title: Historic Claims | What Really Lies Behind Delaware's UFO...

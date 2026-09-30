@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alaska-7288f7-nenana-radar-case-d742cd/
 description: Focused pages that expand on Nenana Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alaska_7288f7_nenana_radar_case_d742cd
 parent_title: Nenana Radar | What Really Happened in Alaska's Skies?

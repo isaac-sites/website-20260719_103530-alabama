@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kentucky-e3b665-kelly-hopkinsville-e/
 description: Focused pages that expand on Kelly Encounter.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kentucky_e3b665_kelly_hopkinsville_e_3e53b2
 parent_title: Kelly Encounter | What Really Happened in Kentucky's UFO...

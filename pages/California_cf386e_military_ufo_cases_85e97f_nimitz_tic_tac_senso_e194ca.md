@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 02:24:17'
+last_modified_at: '2026-07-16 02:24:17'
 parent_title: Which California Military UFO Cases Hold Up? | What Really Happened in California's UFO...
 parent_permalink: /military-cases/
 parent_nav_short_title: Military Cases

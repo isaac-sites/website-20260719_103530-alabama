@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-mexico-45551f-military-secrecy-inv/
 description: Focused pages that expand on Military Links.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Mexico_45551f_military_secrecy_inv_57a08f
 parent_title: Military Links | Why New Mexico Became America's UFO...

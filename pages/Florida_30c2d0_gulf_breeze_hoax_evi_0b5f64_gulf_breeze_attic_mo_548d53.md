@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 05:20:39'
+last_modified_at: '2026-07-16 05:20:39'
 parent_title: Did the Gulf Breeze UFO Photos Collapse? | Which Florida UFO Cases Still Defy...
 parent_permalink: /gulf-breeze/
 parent_nav_short_title: Gulf Breeze

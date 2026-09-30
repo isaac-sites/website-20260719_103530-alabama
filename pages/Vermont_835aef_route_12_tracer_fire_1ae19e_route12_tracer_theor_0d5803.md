@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:10:58'
+last_modified_at: '2026-07-19 08:10:58'
 parent_title: Were Vermont's Route 12 Lights Tracer Fire? | What Really Happened in Vermont's UFO Cases?
 parent_permalink: /route-12/
 parent_nav_short_title: Route 12

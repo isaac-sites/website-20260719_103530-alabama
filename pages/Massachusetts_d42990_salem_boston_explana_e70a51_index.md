@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-salem-boston/
 description: Focused pages that expand on Photos and Lights.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Massachusetts_d42990_salem_boston_explana_e70a51
 parent_title: Photos and Lights | Which Massachusetts UFO Stories Still Hold...

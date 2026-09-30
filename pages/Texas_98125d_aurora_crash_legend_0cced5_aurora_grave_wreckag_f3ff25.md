@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:57:49'
+last_modified_at: '2026-07-18 19:57:49'
 parent_title: Did a UFO Really Crash in Aurora? | Which Texas UFO Cases Still Resist...
 parent_permalink: /aurora/
 parent_nav_short_title: Aurora

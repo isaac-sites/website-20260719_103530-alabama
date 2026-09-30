@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-index/
 description: Focused pages that expand on Which Pennsylvania UFO Stories Still Hold....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pennsylvania_dff756
 parent_title: Which Pennsylvania UFO Stories Still Hold...

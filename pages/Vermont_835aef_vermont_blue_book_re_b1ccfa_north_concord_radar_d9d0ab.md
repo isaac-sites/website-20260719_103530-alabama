@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:10:53'
+last_modified_at: '2026-07-19 08:10:53'
 parent_title: What Do Vermont's Blue Book Files Prove? | Vermont UFOs
 parent_permalink: /blue-book-614925/
 parent_nav_short_title: Blue Book

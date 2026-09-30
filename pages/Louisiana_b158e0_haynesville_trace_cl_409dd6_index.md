@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-haynesville-trace-cl/
 description: Focused pages that expand on Haynesville.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Louisiana_b158e0_haynesville_trace_cl_409dd6
 parent_title: Haynesville | Which Louisiana UFO Cases Still Resist...

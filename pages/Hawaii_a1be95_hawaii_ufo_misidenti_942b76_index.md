@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-hawaii-ufo-misidenti/
 description: Focused pages that expand on Why Sightings Happen.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hawaii_a1be95_hawaii_ufo_misidenti_942b76
 parent_title: Why Sightings Happen | What Really Happened in Hawaii's UFO Skies?

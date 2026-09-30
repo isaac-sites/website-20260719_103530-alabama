@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:55:08'
+last_modified_at: '2026-07-18 17:55:08'
 parent_title: Was There Really a UFO Crash Near Cape Girardeau? | Missouri UFOs
 parent_permalink: /cape-girardeau/
 parent_nav_short_title: Cape Girardeau

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-index/
 description: Focused pages that expand on Which Oregon UFO Cases Still Resist....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oregon_07719a
 parent_title: Which Oregon UFO Cases Still Resist...

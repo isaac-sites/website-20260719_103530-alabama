@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /colorado-d28817-snippy-horse-legend/
 description: Focused pages that expand on Snippy.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Colorado_d28817_snippy_horse_legend_b91cab
 parent_title: Snippy | What Colorado's UFO History Really Reveals

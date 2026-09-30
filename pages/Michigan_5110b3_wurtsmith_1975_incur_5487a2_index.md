@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-wurtsmith-1975-incur/
 description: Focused pages that expand on Wurtsmith.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Michigan_5110b3_wurtsmith_1975_incur_5487a2
 parent_title: Wurtsmith | Why Michigan Became a UFO Battleground

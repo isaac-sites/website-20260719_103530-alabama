@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 10:59:16'
+last_modified_at: '2026-07-16 10:59:16'
 parent_title: Why Did the 1948 Indianapolis Case Stay Unsolved? | What Really Happened in Indiana's UFO Cases?
 parent_permalink: /1948-sighting/
 parent_nav_short_title: 1948 Sighting

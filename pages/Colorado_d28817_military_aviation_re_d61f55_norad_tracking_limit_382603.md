@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 03:16:38'
+last_modified_at: '2026-07-16 03:16:38'
 parent_title: What Colorado's Military Skies Can Really Tell US | What Colorado's UFO History Really Reveals
 parent_permalink: /military-skies-15607e/
 parent_nav_short_title: Military Skies

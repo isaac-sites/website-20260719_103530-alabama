@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-indianapolis-1948-si/
 description: Focused pages that expand on 1948 Sighting.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Indiana_5d00be_indianapolis_1948_si_0385ac
 parent_title: 1948 Sighting | What Really Happened in Indiana's UFO Cases?

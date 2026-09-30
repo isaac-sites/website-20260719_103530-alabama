@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-military-missile/
 description: Focused pages that expand on Military Pattern.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Dakota_0b6838_military_missile_sig_b8ec7f
 parent_title: Military Pattern | What Really Happened in North Dakota's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-dakota-ad4a41-ellsworth-radar/
 description: Focused pages that expand on Ellsworth Chase.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Dakota_ad4a41_ellsworth_radar_chas_b117d1
 parent_title: Ellsworth Chase | What Really Happened in South Dakota's UFO...

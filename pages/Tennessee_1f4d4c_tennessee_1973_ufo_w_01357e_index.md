@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-tennessee-1973-ufo-w/
 description: Focused pages that expand on 1973 Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tennessee_1f4d4c_tennessee_1973_ufo_w_01357e
 parent_title: 1973 Wave | What Really Happened in Tennessee's UFO...

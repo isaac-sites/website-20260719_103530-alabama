@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-trudel-woonsocket/
 description: Focused pages that expand on Trudel Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rhode_Island_b30a18_trudel_woonsocket_ph_0eda31
 parent_title: Trudel Case | What Really Defines Rhode Island's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /texas-98125d-levelland-vehicle-fa/
 description: Focused pages that expand on Levelland.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Texas_98125d_levelland_vehicle_fa_a6f09b
 parent_title: Levelland | Which Texas UFO Cases Still Resist...

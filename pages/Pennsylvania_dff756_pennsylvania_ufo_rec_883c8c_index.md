@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-pennsylvania-ufo/
 description: Focused pages that expand on Official Records.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pennsylvania_dff756_pennsylvania_ufo_rec_883c8c
 parent_title: Official Records | Which Pennsylvania UFO Stories Still Hold...

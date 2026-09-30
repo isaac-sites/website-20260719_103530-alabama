@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-blue-book-minnesota/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Minnesota_60590f_blue_book_minnesota_487901
 parent_title: Blue Book | What Really Happened in Minnesota's UFO...

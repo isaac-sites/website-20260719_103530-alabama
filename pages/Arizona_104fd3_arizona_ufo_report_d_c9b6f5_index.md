@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /arizona-104fd3-arizona-ufo-report-d/
 description: Focused pages that expand on Report Data.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Arizona_104fd3_arizona_ufo_report_d_c9b6f5
 parent_title: Report Data | What Really Happened in Arizona's UFO Skies?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-ohare-airport-sighti/
 description: Focused pages that expand on O Hare.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Illinois_31b9d2_ohare_airport_sighti_66289a
 parent_title: O Hare | Why Illinois Became a UFO Hotspot

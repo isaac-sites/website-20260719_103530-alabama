@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:24'
+last_modified_at: '2026-07-19 08:11:24'
 parent_title: Why Washington's Military Skies Attract UFO Reports | Why Washington Became America's First UFO...
 parent_permalink: /military-links-fa11f7/
 parent_nav_short_title: Military Links

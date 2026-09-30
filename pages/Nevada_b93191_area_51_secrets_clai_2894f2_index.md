@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-area-51-secrets-clai/
 description: Focused pages that expand on Area 51.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nevada_b93191_area_51_secrets_clai_2894f2
 parent_title: Area 51 | Why Nevada Became America's UFO State

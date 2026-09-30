@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /texas-98125d-lubbock-lights-932b77-index/
 description: Focused pages that expand on Lubbock Lights.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Texas_98125d_lubbock_lights_932b77
 parent_title: Lubbock Lights | Which Texas UFO Cases Still Resist...

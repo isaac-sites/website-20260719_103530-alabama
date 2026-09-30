@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-washington-1947-ufo/
 description: Focused pages that expand on 1947 Flap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Washington_a27a66_washington_1947_ufo_662179
 parent_title: 1947 Flap | Why Washington Became America's First UFO...

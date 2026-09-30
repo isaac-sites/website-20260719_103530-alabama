@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:58:05'
+last_modified_at: '2026-07-18 17:58:05'
 parent_title: Why Did Oklahoma's Skies Erupt in 1965? | Oklahoma UFOs
 parent_permalink: /1965-wave/
 parent_nav_short_title: 1965 Wave

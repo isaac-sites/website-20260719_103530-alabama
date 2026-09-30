@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /maine-8dc024-loring-air-base-incu/
 description: Focused pages that expand on Loring Incursions.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Maine_8dc024_loring_air_base_incu_29dc0a
 parent_title: Loring Incursions | What Really Happened in Maine's UFO Cases?

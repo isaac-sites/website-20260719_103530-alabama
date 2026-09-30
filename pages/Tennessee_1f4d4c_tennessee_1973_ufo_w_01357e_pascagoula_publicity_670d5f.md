@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:57:36'
+last_modified_at: '2026-07-18 19:57:36'
 parent_title: What Drove Tennessee's Great UFO Wave? | What Really Happened in Tennessee's UFO...
 parent_permalink: /1973-wave-8238fc/
 parent_nav_short_title: 1973 Wave

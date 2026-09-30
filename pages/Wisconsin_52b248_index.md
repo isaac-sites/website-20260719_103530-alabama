@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-index/
 description: Focused pages that expand on What Really Happened in Wisconsin's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wisconsin_52b248
 parent_title: What Really Happened in Wisconsin's UFO...

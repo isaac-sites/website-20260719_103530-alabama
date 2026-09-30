@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 01:40:47'
+last_modified_at: '2026-07-16 01:40:47'
 parent_title: Was the Battle of Los Angeles a UFO? | What Really Happened in California's UFO...
 parent_permalink: /battle-of-la/
 parent_nav_short_title: Battle of LA

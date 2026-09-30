@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-hudson-valley-ufo-wa/
 description: Focused pages that expand on Hudson Valley.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_York_c7ef6c_hudson_valley_ufo_wa_46506d
 parent_title: Hudson Valley | What Really Happened in New York's UFO...

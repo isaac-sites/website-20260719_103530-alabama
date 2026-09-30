@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /colorado-d28817-san-luis-valley-sigh/
 description: Focused pages that expand on San Luis Valley.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Colorado_d28817_san_luis_valley_sigh_d8954c
 parent_title: San Luis Valley | What Colorado's UFO History Really Reveals

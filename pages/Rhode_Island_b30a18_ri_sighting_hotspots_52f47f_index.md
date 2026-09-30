@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-ri-sighting/
 description: Focused pages that expand on Sighting Patterns.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rhode_Island_b30a18_ri_sighting_hotspots_52f47f
 parent_title: Sighting Patterns | What Really Defines Rhode Island's UFO...

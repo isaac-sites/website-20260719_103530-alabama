@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-hypnosis-memory/
 description: Focused pages that expand on Memory Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Hampshire_824569_hypnosis_memory_clai_8ee0f0
 parent_title: Memory Claims | Why New Hampshire Became a UFO Landmark

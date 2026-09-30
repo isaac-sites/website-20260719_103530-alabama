@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-index/
 description: Focused pages that expand on What Really Happened in Nebraska's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nebraska_e9c60b
 parent_title: What Really Happened in Nebraska's UFO...

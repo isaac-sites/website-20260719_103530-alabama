@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-swamp-gas-explanatio/
 description: Focused pages that expand on Swamp Gas.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Michigan_5110b3_swamp_gas_explanatio_2abfdd
 parent_title: Swamp Gas | Why Michigan Became a UFO Battleground

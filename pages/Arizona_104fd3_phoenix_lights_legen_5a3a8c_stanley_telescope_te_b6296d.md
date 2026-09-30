@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 22:39:42'
+last_modified_at: '2026-07-15 22:39:42'
 parent_title: How the Phoenix Lights Became a UFO Legend | What Really Happened in Arizona's UFO Skies?
 parent_permalink: /legend-making/
 parent_nav_short_title: Legend Making

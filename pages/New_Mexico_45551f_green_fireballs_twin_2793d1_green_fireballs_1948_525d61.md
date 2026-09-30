@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:48'
+last_modified_at: '2026-07-18 17:56:48'
 parent_title: Why Did Green Fireballs Alarm New Mexico? | Why New Mexico Became America's UFO...
 parent_permalink: /green-fireballs-c1fdbc/
 parent_nav_short_title: Green Fireballs

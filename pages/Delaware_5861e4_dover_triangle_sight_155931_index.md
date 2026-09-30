@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-dover-triangle-sight/
 description: Focused pages that expand on Dover Triangles.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Delaware_5861e4_dover_triangle_sight_155931
 parent_title: Dover Triangles | What Really Lies Behind Delaware's UFO...

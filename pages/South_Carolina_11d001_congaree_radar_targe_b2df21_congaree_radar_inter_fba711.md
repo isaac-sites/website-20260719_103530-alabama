@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:59:19'
+last_modified_at: '2026-07-18 17:59:19'
 parent_title: Did Congaree Radar Track a Real High Speed Object? | South Carolina
 parent_permalink: /congaree-radar/
 parent_nav_short_title: Congaree Radar

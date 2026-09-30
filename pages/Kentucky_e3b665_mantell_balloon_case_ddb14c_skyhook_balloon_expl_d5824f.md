@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 16:06:59'
+last_modified_at: '2026-07-16 16:06:59'
 parent_title: What Was Captain Mantell Chasing Over Kentucky? | What Really Happened in Kentucky's UFO...
 parent_permalink: /mantell-incident/
 parent_nav_short_title: Mantell Incident

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-alexandria-1949-flap/
 description: Focused pages that expand on Alexandria 1949.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Louisiana_b158e0_alexandria_1949_flap_f2e68c
 parent_title: Alexandria 1949 | Which Louisiana UFO Cases Still Resist...

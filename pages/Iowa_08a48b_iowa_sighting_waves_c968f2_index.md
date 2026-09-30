@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /iowa-08a48b-iowa-sighting-waves-c968f2/
 description: Focused pages that expand on Sighting Waves.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Iowa_08a48b_iowa_sighting_waves_c968f2
 parent_title: Sighting Waves | What Really Happened in Iowa's UFO Cases?

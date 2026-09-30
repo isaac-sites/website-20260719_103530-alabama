@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-wright-patterson-blu/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ohio_d318c1_wright_patterson_blu_1facaf
 parent_title: Blue Book | Why Ohio Became a Centre of UFO History

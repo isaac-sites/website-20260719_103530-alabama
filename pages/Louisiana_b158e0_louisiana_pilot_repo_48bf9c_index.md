@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-louisiana-pilot-repo/
 description: Focused pages that expand on Pilot Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Louisiana_b158e0_louisiana_pilot_repo_48bf9c
 parent_title: Pilot Reports | Which Louisiana UFO Cases Still Resist...

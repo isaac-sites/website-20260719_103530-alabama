@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-chiles-whitted-meteo/
 description: Focused pages that expand on Chiles Whitted.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alabama_d1f92d_chiles_whitted_meteo_a6979d
 parent_title: Chiles Whitted | What Really Happened in Alabama's UFO Cases?
