@@ -8,6 +8,7 @@ permalink: /west-virginia-be1c72-index/
 description: Focused pages that expand on What Really Happened in West Virginia's
   UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: West_Virginia_be1c72
 parent_title: What Really Happened in West Virginia's UFO...

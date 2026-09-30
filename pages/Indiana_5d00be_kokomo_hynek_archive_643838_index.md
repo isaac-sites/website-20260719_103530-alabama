@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-kokomo-hynek-archive/
 description: Focused pages that expand on Kokomo Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Indiana_5d00be_kokomo_hynek_archive_643838
 parent_title: Kokomo Files | What Really Happened in Indiana's UFO Cases?

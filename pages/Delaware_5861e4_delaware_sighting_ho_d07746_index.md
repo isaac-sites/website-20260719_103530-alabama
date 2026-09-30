@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-delaware-sighting-ho/
 description: Focused pages that expand on Sighting Hotspots.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Delaware_5861e4_delaware_sighting_ho_d07746
 parent_title: Sighting Hotspots | What Really Lies Behind Delaware's UFO...

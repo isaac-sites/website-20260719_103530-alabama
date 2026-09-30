@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 07:29:04'
+last_modified_at: '2026-07-16 07:29:04'
 parent_title: What Hawaii's Cold War UFO Files Really Show | What Really Happened in Hawaii's UFO Skies?
 parent_permalink: /cold-war-files/
 parent_nav_short_title: Cold War Files

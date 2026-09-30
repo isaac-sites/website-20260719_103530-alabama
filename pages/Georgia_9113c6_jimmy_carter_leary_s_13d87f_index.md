@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /georgia-9113c6-jimmy-carter-leary-s/
 description: Focused pages that expand on Carter Sighting.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Georgia_9113c6_jimmy_carter_leary_s_13d87f
 parent_title: Carter Sighting | What Really Happened in Georgia's UFO Cases?

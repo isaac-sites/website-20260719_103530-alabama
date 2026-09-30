@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 03:16:40'
+last_modified_at: '2026-07-16 03:16:40'
 parent_title: What Connecticut's Blue Book Files Actually Prove | What Really Happened in Connecticut's UFO...
 parent_permalink: /blue-book-05dc53/
 parent_nav_short_title: Blue Book

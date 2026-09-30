@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-blue-oahu-object-202/
 description: Focused pages that expand on Blue Oahu Object.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hawaii_a1be95_blue_oahu_object_202_4d4cfd
 parent_title: Blue Oahu Object | What Really Happened in Hawaii's UFO Skies?

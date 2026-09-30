@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:57:18'
+last_modified_at: '2026-07-18 17:57:18'
 parent_title: Why Did Blue Book Leave Asheville Unresolved? | North Carolina UFOs
 parent_permalink: /asheville-1964/
 parent_nav_short_title: Asheville 1964

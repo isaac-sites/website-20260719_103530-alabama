@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kentucky-e3b665-mantell-balloon-case/
 description: Focused pages that expand on Mantell Incident.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kentucky_e3b665_mantell_balloon_case_ddb14c
 parent_title: Mantell Incident | What Really Happened in Kentucky's UFO...

@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 02:24:19'
+last_modified_at: '2026-07-16 02:24:19'
 parent_title: Did a UFO Kill Colorado's Famous Horse? | What Colorado's UFO History Really Reveals
 parent_permalink: /snippy/
 parent_nav_short_title: Snippy

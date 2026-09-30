@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-lumberton-ufo/
 description: Focused pages that expand on Lumberton Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Carolina_cd988f_lumberton_ufo_wave_72eb1c
 parent_title: Lumberton Wave | What Really Happened in North Carolina's...

@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:10:48'
+last_modified_at: '2026-07-19 08:10:48'
 parent_title: Why Are So Many UFOs Reported Over Utah? | Utah UFOs
 parent_permalink: /sighting-patterns-747644/
 parent_nav_short_title: Sighting Patterns

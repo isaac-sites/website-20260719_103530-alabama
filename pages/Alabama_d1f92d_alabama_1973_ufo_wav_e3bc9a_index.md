@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-alabama-1973-ufo-wav/
 description: Focused pages that expand on 1973 Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alabama_d1f92d_alabama_1973_ufo_wav_e3bc9a
 parent_title: 1973 Wave | What Really Happened in Alabama's UFO Cases?

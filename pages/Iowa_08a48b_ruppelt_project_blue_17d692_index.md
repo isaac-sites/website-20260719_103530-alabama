@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /iowa-08a48b-ruppelt-project-blue/
 description: Focused pages that expand on Ruppelt.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Iowa_08a48b_ruppelt_project_blue_17d692
 parent_title: Ruppelt | What Really Happened in Iowa's UFO Cases?

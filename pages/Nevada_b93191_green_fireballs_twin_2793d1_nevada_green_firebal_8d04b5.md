@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:00'
+last_modified_at: '2026-07-18 17:56:00'
 parent_title: Did Project Twinkle Explain the Green Fireballs? | Why Nevada Became America's UFO State
 parent_permalink: /green-fireballs/
 parent_nav_short_title: Green Fireballs

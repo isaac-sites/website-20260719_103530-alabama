@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-redmond-blue-book-ca/
 description: Focused pages that expand on Redmond Airport.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oregon_07719a_redmond_blue_book_ca_990312
 parent_title: Redmond Airport | Which Oregon UFO Cases Still Resist...

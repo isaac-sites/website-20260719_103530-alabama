@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-dakota-ad4a41-cold-war-ufo-wave/
 description: Focused pages that expand on Cold War Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Dakota_ad4a41_cold_war_ufo_wave_75ee2b
 parent_title: Cold War Wave | What Really Happened in South Dakota's UFO...

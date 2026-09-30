@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-jersey-18255a-fort-monmouth-radar/
 description: Focused pages that expand on Fort Monmouth.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Jersey_18255a_fort_monmouth_radar_3af57b
 parent_title: Fort Monmouth | What Really Happened in New Jersey's Skies?

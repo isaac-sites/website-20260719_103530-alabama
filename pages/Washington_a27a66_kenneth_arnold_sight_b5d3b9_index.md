@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-kenneth-arnold-sight/
 description: Focused pages that expand on Kenneth Arnold.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Washington_a27a66_kenneth_arnold_sight_b5d3b9
 parent_title: Kenneth Arnold | Why Washington Became America's First UFO...

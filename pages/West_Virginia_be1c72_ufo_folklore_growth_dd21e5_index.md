@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /west-virginia-be1c72-ufo-folklore/
 description: Focused pages that expand on Folklore.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: West_Virginia_be1c72_ufo_folklore_growth_dd21e5
 parent_title: Folklore | What Really Happened in West Virginia's UFO...

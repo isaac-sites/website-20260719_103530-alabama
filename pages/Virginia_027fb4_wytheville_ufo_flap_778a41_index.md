@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /virginia-027fb4-wytheville-ufo-flap/
 description: Focused pages that expand on Wytheville Flap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Virginia_027fb4_wytheville_ufo_flap_778a41
 parent_title: Wytheville Flap | What Really Happened in Virginia's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-north-concord-hill-c/
 description: Focused pages that expand on North Concord.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vermont_835aef_north_concord_hill_c_b2482f
 parent_title: North Concord | What Really Happened in Vermont's UFO Cases?

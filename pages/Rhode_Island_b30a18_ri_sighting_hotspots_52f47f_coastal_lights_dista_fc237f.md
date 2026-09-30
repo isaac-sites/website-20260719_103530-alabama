@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:58:59'
+last_modified_at: '2026-07-18 17:58:59'
 parent_title: Where Do Rhode Island UFO Reports Cluster?
 parent_permalink: /sighting-patterns/
 parent_nav_short_title: Sighting Patterns

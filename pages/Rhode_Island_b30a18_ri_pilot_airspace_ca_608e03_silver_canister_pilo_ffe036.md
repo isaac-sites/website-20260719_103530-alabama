@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:59:03'
+last_modified_at: '2026-07-18 17:59:03'
 parent_title: What Are Pilots Seeing Over Rhode Island? | Rhode Island UFOs
 parent_permalink: /aviation-cases/
 parent_nav_short_title: Aviation Cases

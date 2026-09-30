@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-abduction-memory-arc/
 description: Focused pages that expand on Memory Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wyoming_ed190c_abduction_memory_arc_2e68ce
 parent_title: Memory Claims | What Really Happened in Wyoming's UFO...

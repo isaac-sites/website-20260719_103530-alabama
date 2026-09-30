@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 21:06:02'
+last_modified_at: '2026-07-15 21:06:02'
 parent_title: Alaska UFOs
 parent_permalink: /what-really-happened-in-alaskas-skies/
 parent_nav_short_title: Alaska UFOs

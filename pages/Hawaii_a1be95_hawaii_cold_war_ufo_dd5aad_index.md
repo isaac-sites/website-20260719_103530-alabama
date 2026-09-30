@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-hawaii-cold-war-ufo/
 description: Focused pages that expand on Cold War Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hawaii_a1be95_hawaii_cold_war_ufo_dd5aad
 parent_title: Cold War Files | What Really Happened in Hawaii's UFO Skies?

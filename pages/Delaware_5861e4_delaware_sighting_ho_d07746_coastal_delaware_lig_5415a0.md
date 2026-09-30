@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 04:19:37'
+last_modified_at: '2026-07-16 04:19:37'
 parent_title: Where Do Delaware UFO Reports Cluster? | What Really Lies Behind Delaware's UFO...
 parent_permalink: /sighting-hotspots/
 parent_nav_short_title: Sighting Hotspots

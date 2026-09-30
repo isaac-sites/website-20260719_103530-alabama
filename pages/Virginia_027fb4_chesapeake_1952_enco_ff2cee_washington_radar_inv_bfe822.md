@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:10'
+last_modified_at: '2026-07-19 08:11:10'
 parent_title: Did Pilots and Radar Track the Same Objects? | What Really Happened in Virginia's UFO...
 parent_permalink: /in-july-1952-virginia/
 parent_nav_short_title: In July 1952, Virginia

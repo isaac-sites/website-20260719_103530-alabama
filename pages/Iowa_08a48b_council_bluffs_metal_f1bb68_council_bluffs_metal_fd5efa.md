@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 13:50:41'
+last_modified_at: '2026-07-16 13:50:41'
 parent_title: Was the Council Bluffs Debris Ever Truly Unexplained? | What Really Happened in Iowa's UFO Cases?
 parent_permalink: /council-bluffs/
 parent_nav_short_title: Council Bluffs

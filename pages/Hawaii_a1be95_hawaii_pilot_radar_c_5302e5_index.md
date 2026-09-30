@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-hawaii-pilot-radar-c/
 description: Focused pages that expand on Pilots and Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hawaii_a1be95_hawaii_pilot_radar_c_5302e5
 parent_title: Pilots and Radar | What Really Happened in Hawaii's UFO Skies?

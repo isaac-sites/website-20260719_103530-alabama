@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-gorman-dogfight/
 description: Focused pages that expand on Gorman Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Dakota_0b6838_gorman_dogfight_expl_f9e195
 parent_title: Gorman Case | What Really Happened in North Dakota's UFO...

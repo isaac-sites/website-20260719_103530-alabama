@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-duluth-cold-war-flap/
 description: Focused pages that expand on Duluth Flap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Minnesota_60590f_duluth_cold_war_flap_836da5
 parent_title: Duluth Flap | What Really Happened in Minnesota's UFO...

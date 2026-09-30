@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-delphos-landing-ring/
 description: Focused pages that expand on Delphos.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kansas_48303f_delphos_landing_ring_5a6c81
 parent_title: Delphos | What Really Happened in Kansas UFO History?

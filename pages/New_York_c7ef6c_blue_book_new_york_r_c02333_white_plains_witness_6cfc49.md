@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:57:04'
+last_modified_at: '2026-07-18 17:57:04'
 parent_title: What Do Blue Book Files Say About New York? | What Really Happened in New York's UFO...
 parent_permalink: /blue-book-e73725/
 parent_nav_short_title: Blue Book

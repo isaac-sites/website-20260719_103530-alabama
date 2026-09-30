@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-ford-blue-book-trust/
 description: Focused pages that expand on Ford and Blue.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Michigan_5110b3_ford_blue_book_trust_9b6540
 parent_title: Ford and Blue | Why Michigan Became a UFO Battleground

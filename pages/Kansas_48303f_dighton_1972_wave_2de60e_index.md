@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-dighton-1972-wave-2de60e/
 description: Focused pages that expand on Dighton Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kansas_48303f_dighton_1972_wave_2de60e
 parent_title: Dighton Wave | What Really Happened in Kansas UFO History?

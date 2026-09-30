@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:45'
+last_modified_at: '2026-07-18 17:56:45'
 parent_title: What Did Lonnie Zamora See at Socorro? | Why New Mexico Became America's UFO...
 parent_permalink: /socorro/
 parent_nav_short_title: Socorro

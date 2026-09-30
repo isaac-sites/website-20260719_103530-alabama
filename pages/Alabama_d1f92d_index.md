@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-index/
 description: Focused pages that expand on What Really Happened in Alabama's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alabama_d1f92d
 parent_title: What Really Happened in Alabama's UFO Cases?

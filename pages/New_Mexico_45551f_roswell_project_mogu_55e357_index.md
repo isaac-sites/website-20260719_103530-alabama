@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-mexico-45551f-roswell-project-mogu/
 description: Focused pages that expand on Roswell.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Mexico_45551f_roswell_project_mogu_55e357
 parent_title: Roswell | Why New Mexico Became America's UFO...

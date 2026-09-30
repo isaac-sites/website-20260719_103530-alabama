@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-civilian-investigato/
 description: Focused pages that expand on Investigators.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nebraska_e9c60b_civilian_investigato_a4069a
 parent_title: Investigators | What Really Happened in Nebraska's UFO...

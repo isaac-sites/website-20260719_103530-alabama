@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-military-aviation-uf/
 description: Focused pages that expand on Military Links.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Washington_a27a66_military_aviation_uf_e8ea54
 parent_title: Military Links | Why Washington Became America's First UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /arkansas-2f717f-arkansas-1897-airshi/
 description: Focused pages that expand on 1897 Airships.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Arkansas_2f717f_arkansas_1897_airshi_058b64
 parent_title: 1897 Airships | What Really Happened in Arkansas UFO...

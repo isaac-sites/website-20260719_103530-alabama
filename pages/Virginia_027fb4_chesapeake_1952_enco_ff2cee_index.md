@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /virginia-027fb4-chesapeake-1952-enco/
 description: Focused pages that expand on In July 1952, Virginia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Virginia_027fb4_chesapeake_1952_enco_ff2cee
 parent_title: In July 1952, Virginia | What Really Happened in Virginia's UFO...

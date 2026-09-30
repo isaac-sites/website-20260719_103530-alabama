@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 20:24:42'
+last_modified_at: '2026-07-15 20:24:42'
 parent_title: What Do Alabama's Official UFO Files Prove? | What Really Happened in Alabama's UFO Cases?
 parent_permalink: /official-files-d96d59/
 parent_nav_short_title: Official Files

@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 21:06:03'
+last_modified_at: '2026-07-15 21:06:03'
 parent_title: What Did Radar Detect Near Nenana? | What Really Happened in Alaska's Skies?
 parent_permalink: /nenana-radar/
 parent_nav_short_title: Nenana Radar

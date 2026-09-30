@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:59:42'
+last_modified_at: '2026-07-18 17:59:42'
 parent_title: Why Did South Dakota Report So Many UFOs? | South Dakota UFOs
 parent_permalink: /cold-war-wave/
 parent_nav_short_title: Cold War Wave

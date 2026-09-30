@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 05:20:36'
+last_modified_at: '2026-07-16 05:20:36'
 parent_title: Can Delaware's Oldest UFO Stories Be Verified?
 parent_permalink: /historic-claims/
 parent_nav_short_title: Historic Claims

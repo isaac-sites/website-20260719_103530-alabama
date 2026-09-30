@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-index/
 description: Focused pages that expand on What Really Happened in Mississippi's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mississippi_cba267
 parent_title: What Really Happened in Mississippi's UFO...

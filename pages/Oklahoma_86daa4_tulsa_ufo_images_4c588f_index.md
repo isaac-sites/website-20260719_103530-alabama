@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-tulsa-ufo-images/
 description: Focused pages that expand on Tulsa Images.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oklahoma_86daa4_tulsa_ufo_images_4c588f
 parent_title: Tulsa Images | What Really Happened in Oklahoma's UFO...

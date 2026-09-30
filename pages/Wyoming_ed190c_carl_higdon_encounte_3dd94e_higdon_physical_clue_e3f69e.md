@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:12:00'
+last_modified_at: '2026-07-19 08:12:00'
 parent_title: Did Carl Higdon Encounter Something Extraordinary? | What Really Happened in Wyoming's UFO...
 parent_permalink: /higdon-case/
 parent_nav_short_title: Higdon Case

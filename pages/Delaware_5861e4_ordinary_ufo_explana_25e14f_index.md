@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-ordinary-ufo-explana/
 description: Focused pages that expand on Likely Explanations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Delaware_5861e4_ordinary_ufo_explana_25e14f
 parent_title: Likely Explanations | What Really Lies Behind Delaware's UFO...

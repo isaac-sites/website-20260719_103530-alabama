@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 16:07:01'
+last_modified_at: '2026-07-16 16:07:01'
 parent_title: Were the Hopkinsville Goblins Owls in the Dark? | What Really Happened in Kentucky's UFO...
 parent_permalink: /kelly-encounter/
 parent_nav_short_title: Kelly Encounter

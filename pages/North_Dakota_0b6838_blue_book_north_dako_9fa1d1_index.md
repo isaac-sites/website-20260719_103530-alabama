@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-blue-book-north/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Dakota_0b6838_blue_book_north_dako_9fa1d1
 parent_title: Blue Book | What Really Happened in North Dakota's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-military-aviation/
 description: Focused pages that expand on Military Links.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mississippi_cba267_military_aviation_ex_dd6410
 parent_title: Military Links | What Really Happened in Mississippi's UFO...

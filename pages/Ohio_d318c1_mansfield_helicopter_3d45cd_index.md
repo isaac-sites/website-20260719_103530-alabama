@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-mansfield-helicopter/
 description: Focused pages that expand on Helicopter Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ohio_d318c1_mansfield_helicopter_3d45cd
 parent_title: Helicopter Case | Why Ohio Became a Centre of UFO History

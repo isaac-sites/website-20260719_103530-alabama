@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-carolina-11d001-congaree-radar/
 description: Focused pages that expand on Congaree Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Carolina_11d001_congaree_radar_targe_b2df21
 parent_title: Congaree Radar | South Carolina

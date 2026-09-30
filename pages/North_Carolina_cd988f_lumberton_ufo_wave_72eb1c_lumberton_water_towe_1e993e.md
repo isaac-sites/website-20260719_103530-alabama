@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:57:20'
+last_modified_at: '2026-07-18 17:57:20'
 parent_title: What Did Lumberton Witnesses See in 1975? | North Carolina UFOs
 parent_permalink: /lumberton-wave/
 parent_nav_short_title: Lumberton Wave

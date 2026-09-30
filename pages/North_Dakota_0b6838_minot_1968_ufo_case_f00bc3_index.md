@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-minot-1968-ufo/
 description: Focused pages that expand on Minot 1968.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Dakota_0b6838_minot_1968_ufo_case_f00bc3
 parent_title: Minot 1968 | What Really Happened in North Dakota's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /utah-2ff606-blue-book-utah-421362-index/
 description: Focused pages that expand on Blue Book Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Utah_2ff606_blue_book_utah_421362
 parent_title: Blue Book Files | What Really Stands Out in Utah's UFO...

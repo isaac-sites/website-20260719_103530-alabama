@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-louisiana-blue-book/
 description: Focused pages that expand on Blue Book Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Louisiana_b158e0_louisiana_blue_book_5848db
 parent_title: Blue Book Files | Which Louisiana UFO Cases Still Resist...

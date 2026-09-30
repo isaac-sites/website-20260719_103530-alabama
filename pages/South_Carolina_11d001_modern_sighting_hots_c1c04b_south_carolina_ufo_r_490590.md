@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:59:24'
+last_modified_at: '2026-07-18 17:59:24'
 parent_title: Why Do South Carolina UFO Reports Cluster Here? | South Carolina UFOs
 parent_permalink: /modern-reports-d772ce/
 parent_nav_short_title: Modern Reports

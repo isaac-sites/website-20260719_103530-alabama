@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /florida-30c2d0-eglin-balloon-resolu/
 description: Focused pages that expand on Eglin Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Florida_30c2d0_eglin_balloon_resolu_71b04c
 parent_title: Eglin Case | Which Florida UFO Cases Still Defy...

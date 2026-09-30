@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /iowa-08a48b-des-moines-airport-l/
 description: Focused pages that expand on Des Moines.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Iowa_08a48b_des_moines_airport_l_404721
 parent_title: Des Moines | What Really Happened in Iowa's UFO Cases?

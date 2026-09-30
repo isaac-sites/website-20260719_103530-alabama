@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:37'
+last_modified_at: '2026-07-19 08:11:37'
 parent_title: What Did Point Pleasant Witnesses Actually See? | What Really Happened in West Virginia's UFO...
 parent_permalink: /mothman/
 parent_nav_short_title: Mothman

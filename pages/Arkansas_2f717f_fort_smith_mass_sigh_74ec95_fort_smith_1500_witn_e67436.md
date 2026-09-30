@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 23:29:10'
+last_modified_at: '2026-07-15 23:29:10'
 parent_title: Did 1,500 People See a UFO Over Fort Smith? | What Really Happened in Arkansas UFO...
 parent_permalink: /fort-smith/
 parent_nav_short_title: Fort Smith

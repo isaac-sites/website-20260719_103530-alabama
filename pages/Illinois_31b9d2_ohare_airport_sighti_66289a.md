@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 10:04:07'
+last_modified_at: '2026-07-16 10:04:07'
 parent_title: Illinois UFOs
 parent_permalink: /why-illinois-became-a-ufo-hotspot/
 parent_nav_short_title: Illinois UFOs
