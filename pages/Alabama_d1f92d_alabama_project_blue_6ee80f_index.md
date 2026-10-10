@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-alabama-project-blue/
 description: Focused pages that expand on Official Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alabama_d1f92d_alabama_project_blue_6ee80f
 parent_title: Official Files | What Really Happened in Alabama's UFO Cases?

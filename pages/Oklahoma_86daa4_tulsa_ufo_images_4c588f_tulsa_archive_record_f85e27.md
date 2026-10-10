@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:58:10'
+last_modified_at: '2026-07-18 17:58:10'
 parent_title: What Do the Tulsa UFO Images Prove? | What Really Happened in Oklahoma's UFO...
 parent_permalink: /tulsa-images/
 parent_nav_short_title: Tulsa Images

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-hynek-illinois-ufo-a/
 description: Focused pages that expand on Hynek and Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Illinois_31b9d2_hynek_illinois_ufo_a_2502b9
 parent_title: Hynek and Archives | Why Illinois Became a UFO Hotspot

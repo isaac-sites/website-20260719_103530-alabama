@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 19:57:44'
+last_modified_at: '2026-07-18 19:57:44'
 parent_title: What Were the Lubbock Lights? | Which Texas UFO Cases Still Resist...
 parent_permalink: /lubbock-lights/
 parent_nav_short_title: Lubbock Lights

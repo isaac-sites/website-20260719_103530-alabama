@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-mississippi-1973/
 description: Focused pages that expand on 1973 Flap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mississippi_cba267_mississippi_1973_ufo_c0e5de
 parent_title: 1973 Flap | What Really Happened in Mississippi's UFO...

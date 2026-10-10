@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:54:50'
+last_modified_at: '2026-07-18 17:54:50'
 parent_title: Why Did UFO Reports Surge in 1973? | What Really Happened in Mississippi's UFO...
 parent_permalink: /1973-flap/
 parent_nav_short_title: 1973 Flap

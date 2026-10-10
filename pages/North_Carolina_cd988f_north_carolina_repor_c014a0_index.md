@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-north-carolina/
 description: Focused pages that expand on Why So Many.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Carolina_cd988f_north_carolina_repor_c014a0
 parent_title: Why So Many | What Really Happened in North Carolina's...

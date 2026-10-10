@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:04'
+last_modified_at: '2026-07-19 08:11:04'
 parent_title: How a Famous UFO Photograph Was Explained | What Really Happened in Virginia's UFO...
 parent_permalink: /fort-belvoir/
 parent_nav_short_title: Fort Belvoir

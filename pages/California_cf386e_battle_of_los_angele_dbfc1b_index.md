@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-battle-of-los-angele/
 description: Focused pages that expand on Battle of LA.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: California_cf386e_battle_of_los_angele_dbfc1b
 parent_title: Battle of LA | What Really Happened in California's UFO...

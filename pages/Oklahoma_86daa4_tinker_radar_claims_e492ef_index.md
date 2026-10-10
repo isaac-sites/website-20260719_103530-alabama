@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-tinker-radar-claims/
 description: Focused pages that expand on Tinker Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oklahoma_86daa4_tinker_radar_claims_e492ef
 parent_title: Tinker Radar | What Really Happened in Oklahoma's UFO...

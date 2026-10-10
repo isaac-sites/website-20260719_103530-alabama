@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /florida-30c2d0-gimbal-competing-exp/
 description: Focused pages that expand on Gimbal.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Florida_30c2d0_gimbal_competing_exp_8a2eb7
 parent_title: Gimbal | Which Florida UFO Cases Still Defy...

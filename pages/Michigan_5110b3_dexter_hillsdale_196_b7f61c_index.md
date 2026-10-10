@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-dexter-hillsdale-196/
 description: Focused pages that expand on 1966 Sightings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Michigan_5110b3_dexter_hillsdale_196_b7f61c
 parent_title: 1966 Sightings | Why Michigan Became a UFO Battleground

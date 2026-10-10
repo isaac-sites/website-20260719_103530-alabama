@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /west-virginia-be1c72-flatwoods-monster/
 description: Focused pages that expand on Flatwoods.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: West_Virginia_be1c72_flatwoods_monster_ca_986f8b
 parent_title: Flatwoods | What Really Happened in West Virginia's UFO...

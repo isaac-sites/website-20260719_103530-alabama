@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-blue-book-wyoming-ca/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wyoming_ed190c_blue_book_wyoming_ca_e5cfbf
 parent_title: Blue Book | What Really Happened in Wyoming's UFO...

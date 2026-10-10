@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-1897-airship-wave/
 description: Focused pages that expand on Airship Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nebraska_e9c60b_1897_airship_wave_9b9c6e
 parent_title: Airship Wave | What Really Happened in Nebraska's UFO...

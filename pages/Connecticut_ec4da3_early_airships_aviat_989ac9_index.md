@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-early-airships/
 description: Focused pages that expand on Airships.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Connecticut_ec4da3_early_airships_aviat_989ac9
 parent_title: Airships | What Really Happened in Connecticut's UFO...

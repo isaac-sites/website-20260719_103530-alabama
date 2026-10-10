@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 06:09:09'
+last_modified_at: '2026-07-16 06:09:09'
 parent_title: What Did Jimmy Carter See Near Leary? | What Really Happened in Georgia's UFO Cases?
 parent_permalink: /carter-sighting/
 parent_nav_short_title: Carter Sighting

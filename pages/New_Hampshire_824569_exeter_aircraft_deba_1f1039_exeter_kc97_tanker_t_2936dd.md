@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:12'
+last_modified_at: '2026-07-18 17:56:12'
 parent_title: Was the Exeter UFO a Military Aircraft? | New Hampshire
 parent_permalink: /exeter/
 parent_nav_short_title: Exeter

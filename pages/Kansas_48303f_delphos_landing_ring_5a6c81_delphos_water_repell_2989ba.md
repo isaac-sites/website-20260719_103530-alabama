@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 14:55:44'
+last_modified_at: '2026-07-16 14:55:44'
 parent_title: Did the Delphos Ring Prove a Landing? | What Really Happened in Kansas UFO History?
 parent_permalink: /delphos/
 parent_nav_short_title: Delphos

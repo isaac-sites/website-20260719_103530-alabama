@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-cheyenne-military-si/
 description: Focused pages that expand on Military Skies.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wyoming_ed190c_cheyenne_military_si_fb1aa8
 parent_title: Military Skies | What Really Happened in Wyoming's UFO...

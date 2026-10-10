@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-elmwood-ufo-wave/
 description: Focused pages that expand on Elmwood Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wisconsin_52b248_elmwood_ufo_wave_0b7773
 parent_title: Elmwood Wave | What Really Happened in Wisconsin's UFO...

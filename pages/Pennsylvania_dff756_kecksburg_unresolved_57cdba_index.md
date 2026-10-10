@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-kecksburg/
 description: Focused pages that expand on Kecksburg.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pennsylvania_dff756_kecksburg_unresolved_57cdba
 parent_title: Kecksburg | Which Pennsylvania UFO Stories Still Hold...

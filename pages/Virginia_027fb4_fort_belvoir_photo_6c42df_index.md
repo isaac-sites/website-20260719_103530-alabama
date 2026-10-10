@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /virginia-027fb4-fort-belvoir-photo/
 description: Focused pages that expand on Fort Belvoir.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Virginia_027fb4_fort_belvoir_photo_6c42df
 parent_title: Fort Belvoir | What Really Happened in Virginia's UFO...

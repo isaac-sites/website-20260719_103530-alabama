@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-carbondale-ufo/
 description: Focused pages that expand on Carbondale.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pennsylvania_dff756_carbondale_ufo_prank_41f355
 parent_title: Carbondale | Which Pennsylvania UFO Stories Still Hold...

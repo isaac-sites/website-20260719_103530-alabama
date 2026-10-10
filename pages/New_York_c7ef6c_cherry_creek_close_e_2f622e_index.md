@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-cherry-creek-close-e/
 description: Focused pages that expand on Cherry Creek.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_York_c7ef6c_cherry_creek_close_e_2f622e
 parent_title: Cherry Creek | What Really Happened in New York's UFO...

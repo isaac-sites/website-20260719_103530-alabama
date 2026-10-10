@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-carolina-11d001-modern-sighting/
 description: Focused pages that expand on Modern Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Carolina_11d001_modern_sighting_hots_c1c04b
 parent_title: Modern Reports | South Carolina

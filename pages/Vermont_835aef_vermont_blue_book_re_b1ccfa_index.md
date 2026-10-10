@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-vermont-blue-book-re/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vermont_835aef_vermont_blue_book_re_b1ccfa
 parent_title: Blue Book | What Really Happened in Vermont's UFO Cases?

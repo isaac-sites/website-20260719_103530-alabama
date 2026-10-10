@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:37'
+last_modified_at: '2026-07-19 08:11:37'
 parent_title: Wisconsin UFOs
 parent_permalink: /what-really-happened-in-wisconsins-ufo/
 parent_nav_short_title: Wisconsin UFOs

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-carolina-11d001-index/
 description: Focused pages that expand on South Carolina.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Carolina_11d001
 parent_title: South Carolina

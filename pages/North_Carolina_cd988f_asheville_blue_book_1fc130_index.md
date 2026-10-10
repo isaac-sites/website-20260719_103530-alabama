@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-asheville-blue/
 description: Focused pages that expand on Asheville 1964.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Carolina_cd988f_asheville_blue_book_1fc130
 parent_title: Asheville 1964 | What Really Happened in North Carolina's...

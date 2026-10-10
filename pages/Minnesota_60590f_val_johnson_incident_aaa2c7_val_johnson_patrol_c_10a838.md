@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:54:26'
+last_modified_at: '2026-07-18 17:54:26'
 parent_title: What Damaged Val Johnson's Patrol Car? | What Really Happened in Minnesota's UFO...
 parent_permalink: /val-johnson/
 parent_nav_short_title: Val Johnson

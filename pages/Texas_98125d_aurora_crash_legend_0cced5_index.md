@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /texas-98125d-aurora-crash-legend/
 description: Focused pages that expand on Aurora.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Texas_98125d_aurora_crash_legend_0cced5
 parent_title: Aurora | Which Texas UFO Cases Still Resist...

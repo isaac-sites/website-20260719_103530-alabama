@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-connecticut-blue/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Connecticut_ec4da3_connecticut_blue_boo_360c55
 parent_title: Blue Book | What Really Happened in Connecticut's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /maine-8dc024-presque-isle-early-r/
 description: Focused pages that expand on Presque Isle.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Maine_8dc024_presque_isle_early_r_336693
 parent_title: Presque Isle | What Really Happened in Maine's UFO Cases?

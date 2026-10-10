@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-oak-ridge-ufo-files/
 description: Focused pages that expand on Oak Ridge.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tennessee_1f4d4c_oak_ridge_ufo_files_a181e4
 parent_title: Oak Ridge | What Really Happened in Tennessee's UFO...

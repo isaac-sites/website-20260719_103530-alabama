@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 16:07:05'
+last_modified_at: '2026-07-16 16:07:05'
 parent_title: Why Kentucky's UFO Stories Refused to Fade | What Really Happened in Kentucky's UFO...
 parent_permalink: /legend-making-e0e5c0/
 parent_nav_short_title: Legend Making

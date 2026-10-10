@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 23:29:12'
+last_modified_at: '2026-07-15 23:29:12'
 parent_title: What Counts as Good Evidence in Arkansas UFO Cases? | What Really Happened in Arkansas UFO...
 parent_permalink: /evidence-test/
 parent_nav_short_title: Evidence Test

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-tinley-park-lights/
 description: Focused pages that expand on Tinley Park.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Illinois_31b9d2_tinley_park_lights_f3eb40
 parent_title: Tinley Park | Why Illinois Became a UFO Hotspot

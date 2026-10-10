@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 07:29:01'
+last_modified_at: '2026-07-16 07:29:01'
 parent_title: How the Mableton Martian Hoax Fooled Georgia | What Really Happened in Georgia's UFO Cases?
 parent_permalink: /mableton-hoax/
 parent_nav_short_title: Mableton Hoax

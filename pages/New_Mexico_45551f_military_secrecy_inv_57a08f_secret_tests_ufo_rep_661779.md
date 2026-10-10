@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:53'
+last_modified_at: '2026-07-18 17:56:53'
 parent_title: How Military Secrecy Shaped New Mexico UFO Lore | Why New Mexico Became America's UFO...
 parent_permalink: /military-links-f6a511/
 parent_nav_short_title: Military Links

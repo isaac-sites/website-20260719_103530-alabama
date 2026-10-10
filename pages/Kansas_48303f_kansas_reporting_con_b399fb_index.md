@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-kansas-reporting-con/
 description: Focused pages that expand on Why Kansas.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kansas_48303f_kansas_reporting_con_b399fb
 parent_title: Why Kansas | What Really Happened in Kansas UFO History?

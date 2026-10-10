@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-project-blue-book-wi/
 description: Focused pages that expand on Blue Book Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wisconsin_52b248_project_blue_book_wi_2fc081
 parent_title: Blue Book Files | What Really Happened in Wisconsin's UFO...

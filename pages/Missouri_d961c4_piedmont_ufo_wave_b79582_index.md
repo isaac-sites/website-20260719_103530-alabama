@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /missouri-d961c4-piedmont-ufo-wave/
 description: Focused pages that expand on Piedmont Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Missouri_d961c4_piedmont_ufo_wave_b79582
 parent_title: Piedmont Wave | What Really Happened in Missouri's UFO...

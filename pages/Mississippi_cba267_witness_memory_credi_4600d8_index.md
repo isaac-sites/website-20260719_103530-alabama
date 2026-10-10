@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-witness-memory/
 description: Focused pages that expand on Witnesses.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mississippi_cba267_witness_memory_credi_4600d8
 parent_title: Witnesses | What Really Happened in Mississippi's UFO...

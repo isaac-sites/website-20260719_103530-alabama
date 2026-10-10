@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-berkshire-ufo/
 description: Focused pages that expand on Berkshire Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Massachusetts_d42990_berkshire_ufo_reasse_183505
 parent_title: Berkshire Case | Which Massachusetts UFO Stories Still Hold...

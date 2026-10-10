@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-blue-book-indiana/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Indiana_5d00be_blue_book_indiana_85b577
 parent_title: Blue Book | What Really Happened in Indiana's UFO Cases?

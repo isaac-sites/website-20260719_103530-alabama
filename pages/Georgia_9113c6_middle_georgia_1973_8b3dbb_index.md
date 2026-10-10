@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /georgia-9113c6-middle-georgia-1973/
 description: Focused pages that expand on 1973 Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Georgia_9113c6_middle_georgia_1973_8b3dbb
 parent_title: 1973 Wave | What Really Happened in Georgia's UFO Cases?

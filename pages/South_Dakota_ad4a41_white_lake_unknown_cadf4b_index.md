@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-dakota-ad4a41-white-lake-unknown/
 description: Focused pages that expand on White Lake.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Dakota_ad4a41_white_lake_unknown_cadf4b
 parent_title: White Lake | What Really Happened in South Dakota's UFO...

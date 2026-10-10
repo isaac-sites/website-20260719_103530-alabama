@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /colorado-d28817-index/
 description: Focused pages that expand on What Colorado's UFO History Really Reveals.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Colorado_d28817
 parent_title: What Colorado's UFO History Really Reveals

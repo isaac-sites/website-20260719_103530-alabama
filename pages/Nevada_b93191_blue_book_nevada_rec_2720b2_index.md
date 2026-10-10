@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-blue-book-nevada-rec/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nevada_b93191_blue_book_nevada_rec_2720b2
 parent_title: Blue Book | Why Nevada Became America's UFO State

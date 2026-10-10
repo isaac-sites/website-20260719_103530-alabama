@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /georgia-9113c6-index/
 description: Focused pages that expand on What Really Happened in Georgia's UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Georgia_9113c6
 parent_title: What Really Happened in Georgia's UFO Cases?

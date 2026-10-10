@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /west-virginia-be1c72-bird/
 description: Focused pages that expand on Birds.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: West_Virginia_be1c72_bird_misidentificati_99c69e
 parent_title: Birds | What Really Happened in West Virginia's UFO...

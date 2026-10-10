@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 16:07:03'
+last_modified_at: '2026-07-16 16:07:03'
 parent_title: How Kentucky's Military Turned Sightings Into Case Files | Kentucky UFOs
 parent_permalink: /official-records-aced17/
 parent_nav_short_title: Official Records

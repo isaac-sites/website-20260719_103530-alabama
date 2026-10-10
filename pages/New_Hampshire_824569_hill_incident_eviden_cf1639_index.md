@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-hill-incident/
 description: Focused pages that expand on Hill Incident.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Hampshire_824569_hill_incident_eviden_cf1639
 parent_title: Hill Incident | Why New Hampshire Became a UFO Landmark

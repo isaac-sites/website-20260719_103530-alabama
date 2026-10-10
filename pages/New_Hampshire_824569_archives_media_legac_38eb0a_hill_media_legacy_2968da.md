@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:19'
+last_modified_at: '2026-07-18 17:56:19'
 parent_title: How Two Sightings Became Statewide UFO History | New Hampshire UFOs
 parent_permalink: /ufo-legacy/
 parent_nav_short_title: UFO Legacy

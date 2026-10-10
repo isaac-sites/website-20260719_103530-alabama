@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-buff-ledge-abduction/
 description: Focused pages that expand on Buff Ledge.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vermont_835aef_buff_ledge_abduction_25ba3a
 parent_title: Buff Ledge | What Really Happened in Vermont's UFO Cases?

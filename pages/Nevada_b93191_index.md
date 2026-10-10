@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-index/
 description: Focused pages that expand on Why Nevada Became America's UFO State.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nevada_b93191
 parent_title: Why Nevada Became America's UFO State

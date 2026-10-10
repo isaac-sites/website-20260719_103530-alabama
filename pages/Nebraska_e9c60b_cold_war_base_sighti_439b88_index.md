@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-cold-war-base-sighti/
 description: Focused pages that expand on Cold War Cases.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nebraska_e9c60b_cold_war_base_sighti_439b88
 parent_title: Cold War Cases | What Really Happened in Nebraska's UFO...

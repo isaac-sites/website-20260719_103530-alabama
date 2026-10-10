@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-oregon-saucer-histor/
 description: Focused pages that expand on Saucer History.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oregon_07719a_oregon_saucer_histor_10ed4b
 parent_title: Saucer History | Which Oregon UFO Cases Still Resist...

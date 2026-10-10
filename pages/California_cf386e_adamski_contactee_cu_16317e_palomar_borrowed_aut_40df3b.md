@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 01:40:50'
+last_modified_at: '2026-07-16 01:40:50'
 parent_title: How Adamski Sold California's Alien Dream | California UFOs
 parent_permalink: /adamski/
 parent_nav_short_title: Adamski

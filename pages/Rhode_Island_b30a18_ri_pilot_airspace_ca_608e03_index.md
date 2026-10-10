@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-ri-pilot-airspace/
 description: Focused pages that expand on Aviation Cases.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rhode_Island_b30a18_ri_pilot_airspace_ca_608e03
 parent_title: Aviation Cases | What Really Defines Rhode Island's UFO...

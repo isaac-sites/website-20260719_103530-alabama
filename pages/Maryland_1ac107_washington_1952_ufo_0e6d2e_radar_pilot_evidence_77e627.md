@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 20:31:26'
+last_modified_at: '2026-07-16 20:31:26'
 parent_title: Did Radar Track UFOs Over Washington in 1952? | What Really Happened in Maryland's UFO...
 parent_permalink: /1952-flap/
 parent_nav_short_title: 1952 Flap

@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:47'
+last_modified_at: '2026-07-19 08:11:47'
 parent_title: What Did Project Blue Book Find in Wisconsin?
 parent_permalink: /blue-book-files-8dd441/
 parent_nav_short_title: Blue Book Files

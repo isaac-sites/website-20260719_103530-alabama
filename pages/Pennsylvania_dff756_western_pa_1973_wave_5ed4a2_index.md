@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-western-pa-1973/
 description: Focused pages that expand on 1973 Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pennsylvania_dff756_western_pa_1973_wave_5ed4a2
 parent_title: 1973 Wave | Which Pennsylvania UFO Stories Still Hold...

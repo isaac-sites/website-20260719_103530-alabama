@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-westchester/
 description: Focused pages that expand on Boomerang Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Connecticut_ec4da3_westchester_boomeran_311cbc
 parent_title: Boomerang Wave | What Really Happened in Connecticut's UFO...

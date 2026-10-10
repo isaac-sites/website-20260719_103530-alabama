@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 21:49:08'
+last_modified_at: '2026-07-16 21:49:08'
 parent_title: What Did Project Blue Book Find in Massachusetts?
 parent_permalink: /blue-book-ba6b5a/
 parent_nav_short_title: Blue Book

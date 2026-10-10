@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-cape-cod-radar/
 description: Focused pages that expand on Cape Cod.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Massachusetts_d42990_cape_cod_radar_cases_e4529c
 parent_title: Cape Cod | Which Massachusetts UFO Stories Still Hold...

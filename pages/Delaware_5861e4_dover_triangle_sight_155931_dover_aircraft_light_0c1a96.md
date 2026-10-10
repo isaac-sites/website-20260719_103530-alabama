@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 04:19:35'
+last_modified_at: '2026-07-16 04:19:35'
 parent_title: What Were the Triangles Seen Near Dover? | Delaware UFOs
 parent_permalink: /dover-triangles/
 parent_nav_short_title: Dover Triangles

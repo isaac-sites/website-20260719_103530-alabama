@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-index/
 description: Focused pages that expand on Why Washington Became America's First UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Washington_a27a66
 parent_title: Why Washington Became America's First UFO...

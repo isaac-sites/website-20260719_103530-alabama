@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-mcminnville-photo-di/
 description: Focused pages that expand on Mc Minnville.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oregon_07719a_mcminnville_photo_di_577539
 parent_title: Mc Minnville | Which Oregon UFO Cases Still Resist...

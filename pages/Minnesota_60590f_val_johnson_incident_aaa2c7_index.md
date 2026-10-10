@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-val-johnson-incident/
 description: Focused pages that expand on Val Johnson.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Minnesota_60590f_val_johnson_incident_aaa2c7
 parent_title: Val Johnson | What Really Happened in Minnesota's UFO...

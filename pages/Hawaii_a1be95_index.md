@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-index/
 description: Focused pages that expand on What Really Happened in Hawaii's UFO Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hawaii_a1be95
 parent_title: What Really Happened in Hawaii's UFO Skies?

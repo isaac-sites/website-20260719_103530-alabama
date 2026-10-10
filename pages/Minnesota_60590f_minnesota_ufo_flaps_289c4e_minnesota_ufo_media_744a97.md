@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:54:38'
+last_modified_at: '2026-07-18 17:54:38'
 parent_title: How Did Minnesota's UFO Flaps Take Shape? | What Really Happened in Minnesota's UFO...
 parent_permalink: /sighting-flaps/
 parent_nav_short_title: Sighting Flaps

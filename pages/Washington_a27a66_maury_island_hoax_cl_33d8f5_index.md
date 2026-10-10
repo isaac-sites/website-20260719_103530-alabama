@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-maury-island-hoax-cl/
 description: Focused pages that expand on Maury Island.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Washington_a27a66_maury_island_hoax_cl_33d8f5
 parent_title: Maury Island | Why Washington Became America's First UFO...

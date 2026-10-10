@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-twin-falls-saucer-ho/
 description: Focused pages that expand on Twin Falls Hoax.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Idaho_18334c_twin_falls_saucer_ho_e1e432
 parent_title: Twin Falls Hoax | What Really Happened in Idaho's UFO History?

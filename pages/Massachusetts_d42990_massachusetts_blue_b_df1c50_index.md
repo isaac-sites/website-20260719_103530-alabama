@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-massachusetts/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Massachusetts_d42990_massachusetts_blue_b_df1c50
 parent_title: Blue Book | Which Massachusetts UFO Stories Still Hold...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-hayden-hewes-investi/
 description: Focused pages that expand on Hayden Hewes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oklahoma_86daa4_hayden_hewes_investi_6d1180
 parent_title: Hayden Hewes | What Really Happened in Oklahoma's UFO...

@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 22:39:43'
+last_modified_at: '2026-07-15 22:39:43'
 parent_title: What Do Arizona's UFO Reports Really Prove? | What Really Happened in Arizona's UFO Skies?
 parent_permalink: /report-data/
 parent_nav_short_title: Report Data

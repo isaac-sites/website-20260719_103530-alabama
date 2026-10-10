@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /arkansas-2f717f-fort-smith-mass-sigh/
 description: Focused pages that expand on Fort Smith.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Arkansas_2f717f_fort_smith_mass_sigh_74ec95
 parent_title: Fort Smith | What Really Happened in Arkansas UFO...

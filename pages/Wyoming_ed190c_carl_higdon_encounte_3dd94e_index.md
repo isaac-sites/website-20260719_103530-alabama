@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-carl-higdon-encounte/
 description: Focused pages that expand on Higdon Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wyoming_ed190c_carl_higdon_encounte_3dd94e
 parent_title: Higdon Case | What Really Happened in Wyoming's UFO...

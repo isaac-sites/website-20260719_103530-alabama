@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 04:19:32'
+last_modified_at: '2026-07-16 04:19:32'
 parent_title: Why Connecticut's Modern Sightings Remain So Hard to Verify | What Really Happened in Connecticut's UFO...
 parent_permalink: /modern-sightings/
 parent_nav_short_title: Modern Sightings

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-wisconsin-mystery-ai/
 description: Focused pages that expand on Mystery Airships.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wisconsin_52b248_wisconsin_mystery_ai_0fcada
 parent_title: Mystery Airships | What Really Happened in Wisconsin's UFO...

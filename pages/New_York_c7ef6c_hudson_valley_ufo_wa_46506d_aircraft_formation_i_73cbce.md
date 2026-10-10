@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:56:57'
+last_modified_at: '2026-07-18 17:56:57'
 parent_title: Did Aircraft Create the Hudson Valley UFO Wave? | What Really Happened in New York's UFO...
 parent_permalink: /hudson-valley/
 parent_nav_short_title: Hudson Valley

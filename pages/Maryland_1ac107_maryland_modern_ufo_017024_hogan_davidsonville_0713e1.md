@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 21:49:06'
+last_modified_at: '2026-07-16 21:49:06'
 parent_title: How Reliable Are Maryland's Modern UFO Reports? | Maryland UFOs
 parent_permalink: /modern-reports/
 parent_nav_short_title: Modern Reports

@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 10:04:10'
+last_modified_at: '2026-07-16 10:04:10'
 parent_title: How Illinois Changed the Study of UFOs | Why Illinois Became a UFO Hotspot
 parent_permalink: /hynek-and-archives/
 parent_nav_short_title: Hynek and Archives

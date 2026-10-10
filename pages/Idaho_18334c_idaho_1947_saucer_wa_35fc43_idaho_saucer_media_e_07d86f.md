@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 08:26:33'
+last_modified_at: '2026-07-16 08:26:33'
 parent_title: How Idaho Joined the First Saucer Craze | Idaho UFOs
 parent_permalink: /1947-wave/
 parent_nav_short_title: 1947 Wave

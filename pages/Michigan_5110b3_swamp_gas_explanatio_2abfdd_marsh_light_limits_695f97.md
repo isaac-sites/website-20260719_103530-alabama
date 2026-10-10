@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:54:12'
+last_modified_at: '2026-07-18 17:54:12'
 parent_title: Did Swamp Gas Really Explain Michigan's UFOs? | Why Michigan Became a UFO Battleground
 parent_permalink: /swamp-gas/
 parent_nav_short_title: Swamp Gas

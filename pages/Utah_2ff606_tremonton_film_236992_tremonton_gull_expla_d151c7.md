@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:10:44'
+last_modified_at: '2026-07-19 08:10:44'
 parent_title: Did the Tremonton Film Capture Birds or Something Stranger? | What Really Stands Out in Utah's UFO...
 parent_permalink: /tremonton-film/
 parent_nav_short_title: Tremonton Film

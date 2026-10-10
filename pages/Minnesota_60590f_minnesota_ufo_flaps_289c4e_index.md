@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-minnesota-ufo-flaps/
 description: Focused pages that expand on Sighting Flaps.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Minnesota_60590f_minnesota_ufo_flaps_289c4e
 parent_title: Sighting Flaps | What Really Happened in Minnesota's UFO...

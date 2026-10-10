@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:58:42'
+last_modified_at: '2026-07-18 17:58:42'
 parent_title: Why Did Western Pennsylvania See So Many UFOs? | Which Pennsylvania UFO Stories Still Hold...
 parent_permalink: /1973-wave-a9a70a/
 parent_nav_short_title: 1973 Wave

@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:54:34'
+last_modified_at: '2026-07-18 17:54:34'
 parent_title: Which Minnesota Cases Did Blue Book Leave Unexplained? | Minnesota UFOs
 parent_permalink: /blue-book-b61ee1/
 parent_nav_short_title: Blue Book

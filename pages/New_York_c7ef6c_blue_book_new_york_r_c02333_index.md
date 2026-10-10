@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-blue-book-new-york-r/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_York_c7ef6c_blue_book_new_york_r_c02333
 parent_title: Blue Book | What Really Happened in New York's UFO...

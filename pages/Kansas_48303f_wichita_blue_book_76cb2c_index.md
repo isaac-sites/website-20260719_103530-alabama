@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-wichita-blue-book-76cb2c/
 description: Focused pages that expand on Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kansas_48303f_wichita_blue_book_76cb2c
 parent_title: Blue Book | What Really Happened in Kansas UFO History?

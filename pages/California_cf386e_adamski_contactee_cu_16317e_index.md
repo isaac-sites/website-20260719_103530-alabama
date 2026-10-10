@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-adamski-contactee-cu/
 description: Focused pages that expand on Adamski.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: California_cf386e_adamski_contactee_cu_16317e
 parent_title: Adamski | What Really Happened in California's UFO...

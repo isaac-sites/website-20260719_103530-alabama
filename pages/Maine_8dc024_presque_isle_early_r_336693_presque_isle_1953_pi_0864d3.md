@@ -215,6 +215,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-16 18:22:41'
+last_modified_at: '2026-07-16 18:22:41'
 parent_title: What Do the Presque Isle Records Prove? | Maine UFOs
 parent_permalink: /presque-isle/
 parent_nav_short_title: Presque Isle

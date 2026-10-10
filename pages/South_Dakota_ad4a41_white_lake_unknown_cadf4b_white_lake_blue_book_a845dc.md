@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:59:34'
+last_modified_at: '2026-07-18 17:59:34'
 parent_title: Why Did the White Lake Sighting Stay Unidentified? | What Really Happened in South Dakota's UFO...
 parent_permalink: /white-lake/
 parent_nav_short_title: White Lake

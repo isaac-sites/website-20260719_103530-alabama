@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /iowa-08a48b-council-bluffs-metal/
 description: Focused pages that expand on Council Bluffs.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Iowa_08a48b_council_bluffs_metal_f1bb68
 parent_title: Council Bluffs | What Really Happened in Iowa's UFO Cases?

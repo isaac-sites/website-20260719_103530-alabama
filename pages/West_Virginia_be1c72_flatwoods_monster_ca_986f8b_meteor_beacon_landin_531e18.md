@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:35'
+last_modified_at: '2026-07-19 08:11:35'
 parent_title: Was the Flatwoods Monster Really an Alien? | West Virginia UFOs
 parent_permalink: /flatwoods/
 parent_nav_short_title: Flatwoods

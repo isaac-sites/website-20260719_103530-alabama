@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-idaho-1947-saucer-wa/
 description: Focused pages that expand on 1947 Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Idaho_18334c_idaho_1947_saucer_wa_35fc43
 parent_title: 1947 Wave | What Really Happened in Idaho's UFO History?

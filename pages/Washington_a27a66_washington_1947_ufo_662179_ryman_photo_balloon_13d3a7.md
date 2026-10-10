@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-19 08:11:16'
+last_modified_at: '2026-07-19 08:11:16'
 parent_title: How Washington's 1947 UFO Flap Took Off | Why Washington Became America's First UFO...
 parent_permalink: /1947-flap/
 parent_nav_short_title: 1947 Flap

@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:58:38'
+last_modified_at: '2026-07-18 17:58:38'
 parent_title: What Really Happened at Kecksburg? | Which Pennsylvania UFO Stories Still Hold...
 parent_permalink: /kecksburg/
 parent_nav_short_title: Kecksburg

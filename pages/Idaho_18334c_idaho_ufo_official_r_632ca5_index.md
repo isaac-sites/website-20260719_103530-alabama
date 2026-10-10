@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-idaho-ufo-official-r/
 description: Focused pages that expand on Official Records.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Idaho_18334c_idaho_ufo_official_r_632ca5
 parent_title: Official Records | What Really Happened in Idaho's UFO History?

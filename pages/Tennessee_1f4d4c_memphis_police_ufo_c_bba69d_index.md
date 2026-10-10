@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-memphis-police-ufo-c/
 description: Focused pages that expand on Memphis Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tennessee_1f4d4c_memphis_police_ufo_c_bba69d
 parent_title: Memphis Case | What Really Happened in Tennessee's UFO...

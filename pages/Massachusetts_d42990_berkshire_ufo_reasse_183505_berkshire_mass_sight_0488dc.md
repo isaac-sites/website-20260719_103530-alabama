@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-18 17:54:02'
+last_modified_at: '2026-07-18 17:54:02'
 parent_title: Why Is the Berkshire UFO Story So Disputed? | Which Massachusetts UFO Stories Still Hold...
 parent_permalink: /berkshire-case/
 parent_nav_short_title: Berkshire Case

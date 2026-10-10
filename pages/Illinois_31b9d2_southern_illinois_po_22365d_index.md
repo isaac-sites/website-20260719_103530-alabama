@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-southern-illinois-po/
 description: Focused pages that expand on Police Sightings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Illinois_31b9d2_southern_illinois_po_22365d
 parent_title: Police Sightings | Why Illinois Became a UFO Hotspot

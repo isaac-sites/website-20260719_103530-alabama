@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /montana-8d274f-malmstrom-missile-sh/
 description: Focused pages that expand on Malmstrom.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Montana_8d274f_malmstrom_missile_sh_9b4622
 parent_title: Malmstrom | Why Montana Became a UFO Landmark
