@@ -843,7 +843,7 @@ That is the lasting significance of New Hampshire’s UFO legacy. The state’s 
 2.<a id="endnote-2"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:<a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers</a>  
+   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH Library&quot;UFO Fever not Alien to Betty Hill,&quot; Portsmouth...</p></details>
 
 3.<a id="endnote-3"></a>

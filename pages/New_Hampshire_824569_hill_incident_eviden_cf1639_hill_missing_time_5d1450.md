@@ -778,7 +778,7 @@ For New Hampshire UFO history, that makes the missing-time claim important but n
 2.<a id="endnote-2"></a>
    Source: library.unh.edu  
    Title: The publicity she received from her abduction made her  
-   Link:<a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers</a>  
+   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireGuide to the Betty and Barney Hill Papers, 1961-2006 - UNH LibraryBetty Hill, through her experience...</p></details>
 
 3.<a id="endnote-3"></a>
