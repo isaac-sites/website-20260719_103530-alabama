@@ -1168,7 +1168,6 @@ That balanced conclusion is less dramatic than either belief or debunking, but i
 23.<a id="endnote-23"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 
 24.<a id="endnote-24"></a>
    Source: archives.unh.edu  

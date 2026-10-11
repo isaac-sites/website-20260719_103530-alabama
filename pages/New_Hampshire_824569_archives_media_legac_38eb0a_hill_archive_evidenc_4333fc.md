@@ -767,7 +767,6 @@ For the state's UFO legacy, the archive's greatest contribution is not that it p
 3.<a id="endnote-3"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryThe Betty and Barney Hill papers contain corres...</p></details>
 
 4.<a id="endnote-4"></a>
