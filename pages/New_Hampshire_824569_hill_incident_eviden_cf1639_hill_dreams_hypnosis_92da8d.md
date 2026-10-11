@@ -319,7 +319,7 @@ Under hypnosis, both Hills produced much more detailed narratives than those fou
 
 Although the two accounts shared broad similarities, they were not identical. Researchers have noted differences in the appearance of the beings, the sequence of events and aspects of the alleged examinations. Even so, the hypnosis sessions transformed the Hill story from an unusual UFO sighting with memory gaps into a detailed alien-abduction narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
-This transformation had lasting consequences. The Hill case became the template for many later abduction reports, helping establish themes that would recur throughout UFO culture for decades: missing time, medical procedures, non-human entities and recovered memories. Yet those themes were largely products of the dream and hypnosis phase rather than the original 1961 testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-snippet">University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryThrough many hypnosis sessions, both were able...</span></span></span>
+This transformation had lasting consequences. The Hill case became the template for many later abduction reports, helping establish themes that would recur throughout UFO culture for decades: missing time, medical procedures, non-human entities and recovered memories. Yet those themes were largely products of the dream and hypnosis phase rather than the original 1961 testimony.<span class="citation-link-wrap">[Library &#124; University of New Hampshire]<span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-snippet">University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryThrough many hypnosis sessions, both were able...</span></span></span>
 
 
 
@@ -752,7 +752,7 @@ Understanding that distinction helps explain why the case continues to attract b
 
 4.<a id="endnote-4"></a>
    Source: library.unh.edu  
-   Link:<a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers</a>  
+   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryThrough many hypnosis sessions, both were able...</p></details>
 
 5.<a id="endnote-5"></a>
