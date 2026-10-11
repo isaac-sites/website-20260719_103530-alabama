@@ -1,11 +1,11 @@
 ---
-title: Evidence Test Sub-Topic Index
-title_full: Evidence Test Sub-Topic Index
+title: "Tennessee Evidence Test Sub-Topic Index"
+title_full: "Tennessee Evidence Test Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-unresolved-vs-unexpl/
-description: Focused pages that expand on Evidence Test.
+description: "Focused pages that expand on Evidence Test - Tennessee."
 date: '2026'
 last_modified_at: '2026'
 layout: default

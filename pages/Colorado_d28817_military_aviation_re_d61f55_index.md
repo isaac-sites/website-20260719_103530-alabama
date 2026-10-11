@@ -1,11 +1,11 @@
 ---
-title: Military Skies Sub-Topic Index
-title_full: Military Skies Sub-Topic Index
+title: "Colorado Military Skies Sub-Topic Index"
+title_full: "Colorado Military Skies Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colorado-d28817-military-aviation-re/
-description: Focused pages that expand on Military Skies.
+description: "Focused pages that expand on Military Skies - Colorado."
 date: '2026'
 last_modified_at: '2026'
 layout: default

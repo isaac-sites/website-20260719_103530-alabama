@@ -1,11 +1,11 @@
 ---
-title: Modern Reports Sub-Topic Index
-title_full: Modern Reports Sub-Topic Index
+title: "South Carolina Modern Reports Sub-Topic Index"
+title_full: "South Carolina Modern Reports Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-carolina-11d001-modern-sighting/
-description: Focused pages that expand on Modern Reports.
+description: "Focused pages that expand on Modern Reports - South Carolina."
 date: '2026'
 last_modified_at: '2026'
 layout: default

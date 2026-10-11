@@ -1,11 +1,11 @@
 ---
-title: Military Links Sub-Topic Index
-title_full: Military Links Sub-Topic Index
+title: "New Mexico Military Links Sub-Topic Index"
+title_full: "New Mexico Military Links Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-mexico-45551f-military-secrecy-inv/
-description: Focused pages that expand on Military Links.
+description: "Focused pages that expand on Military Links - New Mexico."
 date: '2026'
 last_modified_at: '2026'
 layout: default

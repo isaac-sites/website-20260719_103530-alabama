@@ -1,11 +1,11 @@
 ---
-title: Blue Book Sub-Topic Index
-title_full: Blue Book Sub-Topic Index
+title: "Minnesota Blue Book Sub-Topic Index"
+title_full: "Minnesota Blue Book Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-blue-book-minnesota/
-description: Focused pages that expand on Blue Book.
+description: "Focused pages that expand on Blue Book - Minnesota."
 date: '2026'
 last_modified_at: '2026'
 layout: default

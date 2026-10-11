@@ -1,11 +1,11 @@
 ---
-title: Legend Making Sub-Topic Index
-title_full: Legend Making Sub-Topic Index
+title: "Kentucky Legend Making Sub-Topic Index"
+title_full: "Kentucky Legend Making Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kentucky-e3b665-kentucky-ufo-legend/
-description: Focused pages that expand on Legend Making.
+description: "Focused pages that expand on Legend Making - Kentucky."
 date: '2026'
 last_modified_at: '2026'
 layout: default
