@@ -1042,7 +1042,6 @@ The most defensible reading of Alabama’s record is therefore neither “nothin
 1.<a id="endnote-1"></a>
    Source: wyominghistoryday.org  
    Title: comments project sign case 144 chiles whitted case july 24 1948  
-   Link:https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/comments-project-sign-case-144-chiles-whitted-case-july  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>During this time he focused on various UFO sightings like Chiles-Whitted, which occurred near...Read more...</p></details>
 
 2.<a id="endnote-2"></a>

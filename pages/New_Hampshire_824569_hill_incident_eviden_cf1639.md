@@ -842,7 +842,6 @@ The Hill incident therefore remains unresolved only in a limited sense: the orig
 1.<a id="endnote-1"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryThe Betty and Barney Hill papers contain corres...</p></details>
 
 2.<a id="endnote-2"></a>

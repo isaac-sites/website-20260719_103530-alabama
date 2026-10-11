@@ -807,7 +807,6 @@ For that reason, the Falkville photographs occupy an unusual place in Alabama's 
 
 9.<a id="endnote-9"></a>
    Source: chestercountyindependent.com  
-   Link:https://chestercountyindependent.com/stories/ramblins-from-the-hills-hollers-tin-foil-alien-photos-and-story-had-staying-power%2C3177  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramblins&#x27; from the Hills &amp; Hollers: Tin Foil Alien photos...16 Aug 2019 — Jeff Greenhaw was the photographer and sole person to encounte...</p></details>
 
 10.<a id="endnote-10"></a>

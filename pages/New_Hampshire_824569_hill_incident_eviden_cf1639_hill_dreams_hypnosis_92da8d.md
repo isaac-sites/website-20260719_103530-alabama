@@ -752,7 +752,6 @@ Understanding that distinction helps explain why the case continues to attract b
 
 4.<a id="endnote-4"></a>
    Source: library.unh.edu  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireBetty and Barney Hill Papers, 1961-2006 - UNH LibraryThrough many hypnosis sessions, both were able...</p></details>
 
 5.<a id="endnote-5"></a>
