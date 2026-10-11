@@ -3,7 +3,7 @@ layout: default
 title: Isaac Koi
 permalink: /
 home: true
-last_modified_at: 2026-09-27
+last_modified_at: '2026-09-27'
 homepage_audience_mode: production
 homepage_copy_policy: polished
 output_language: English
