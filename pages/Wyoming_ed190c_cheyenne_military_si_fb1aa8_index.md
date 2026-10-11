@@ -1,11 +1,11 @@
 ---
-title: Military Skies Sub-Topic Index
-title_full: Military Skies Sub-Topic Index
+title: "Wyoming Military Skies Sub-Topic Index"
+title_full: "Wyoming Military Skies Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-cheyenne-military-si/
-description: Focused pages that expand on Military Skies.
+description: "Focused pages that expand on Military Skies - Wyoming."
 date: '2026'
 last_modified_at: '2026'
 layout: default

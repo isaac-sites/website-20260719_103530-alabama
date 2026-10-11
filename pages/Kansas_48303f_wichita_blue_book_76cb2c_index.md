@@ -1,11 +1,11 @@
 ---
-title: Blue Book Sub-Topic Index
-title_full: Blue Book Sub-Topic Index
+title: "Kansas Blue Book Sub-Topic Index"
+title_full: "Kansas Blue Book Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-wichita-blue-book-76cb2c/
-description: Focused pages that expand on Blue Book.
+description: "Focused pages that expand on Blue Book - Kansas."
 date: '2026'
 last_modified_at: '2026'
 layout: default

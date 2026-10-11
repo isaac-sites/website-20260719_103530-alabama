@@ -1,11 +1,11 @@
 ---
-title: Blue Book Files Sub-Topic Index
-title_full: Blue Book Files Sub-Topic Index
+title: "Wisconsin Blue Book Files Sub-Topic Index"
+title_full: "Wisconsin Blue Book Files Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-project-blue-book-wi/
-description: Focused pages that expand on Blue Book Files.
+description: "Focused pages that expand on Blue Book Files - Wisconsin."
 date: '2026'
 last_modified_at: '2026'
 layout: default

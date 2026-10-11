@@ -1,11 +1,11 @@
 ---
-title: Blue Book Sub-Topic Index
-title_full: Blue Book Sub-Topic Index
+title: "Connecticut Blue Book Sub-Topic Index"
+title_full: "Connecticut Blue Book Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-connecticut-blue/
-description: Focused pages that expand on Blue Book.
+description: "Focused pages that expand on Blue Book - Connecticut."
 date: '2026'
 last_modified_at: '2026'
 layout: default

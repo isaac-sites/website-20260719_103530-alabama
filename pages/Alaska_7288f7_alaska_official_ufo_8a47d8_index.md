@@ -1,11 +1,11 @@
 ---
-title: Official Files Sub-Topic Index
-title_full: Official Files Sub-Topic Index
+title: "Alaska Official Files Sub-Topic Index"
+title_full: "Alaska Official Files Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alaska-7288f7-alaska-official-ufo/
-description: Focused pages that expand on Official Files.
+description: "Focused pages that expand on Official Files - Alaska."
 date: '2026'
 last_modified_at: '2026'
 layout: default

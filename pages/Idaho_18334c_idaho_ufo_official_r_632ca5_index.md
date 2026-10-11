@@ -1,11 +1,11 @@
 ---
-title: Official Records Sub-Topic Index
-title_full: Official Records Sub-Topic Index
+title: "Idaho Official Records Sub-Topic Index"
+title_full: "Idaho Official Records Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-idaho-ufo-official-r/
-description: Focused pages that expand on Official Records.
+description: "Focused pages that expand on Official Records - Idaho."
 date: '2026'
 last_modified_at: '2026'
 layout: default

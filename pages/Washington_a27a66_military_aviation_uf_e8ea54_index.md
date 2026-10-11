@@ -1,11 +1,11 @@
 ---
-title: Military Links Sub-Topic Index
-title_full: Military Links Sub-Topic Index
+title: "Washington Military Links Sub-Topic Index"
+title_full: "Washington Military Links Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-military-aviation-uf/
-description: Focused pages that expand on Military Links.
+description: "Focused pages that expand on Military Links - Washington."
 date: '2026'
 last_modified_at: '2026'
 layout: default

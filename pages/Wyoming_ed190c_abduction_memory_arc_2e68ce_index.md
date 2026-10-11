@@ -1,11 +1,11 @@
 ---
-title: Memory Claims Sub-Topic Index
-title_full: Memory Claims Sub-Topic Index
+title: "Wyoming Memory Claims Sub-Topic Index"
+title_full: "Wyoming Memory Claims Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-abduction-memory-arc/
-description: Focused pages that expand on Memory Claims.
+description: "Focused pages that expand on Memory Claims - Wyoming."
 date: '2026'
 last_modified_at: '2026'
 layout: default

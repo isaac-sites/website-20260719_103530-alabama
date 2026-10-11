@@ -1,11 +1,11 @@
 ---
-title: Likely Explanations Sub-Topic Index
-title_full: Likely Explanations Sub-Topic Index
+title: "Missouri Likely Explanations Sub-Topic Index"
+title_full: "Missouri Likely Explanations Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /missouri-d961c4-missouri-ufo-explana/
-description: Focused pages that expand on Likely Explanations.
+description: "Focused pages that expand on Likely Explanations - Missouri."
 date: '2026'
 last_modified_at: '2026'
 layout: default

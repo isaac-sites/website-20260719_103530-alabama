@@ -1,11 +1,11 @@
 ---
-title: Green Fireballs Sub-Topic Index
-title_full: Green Fireballs Sub-Topic Index
+title: "Nevada Green Fireballs Sub-Topic Index"
+title_full: "Nevada Green Fireballs Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-green-fireballs-twin/
-description: Focused pages that expand on Green Fireballs.
+description: "Focused pages that expand on Green Fireballs - Nevada."
 date: '2026'
 last_modified_at: '2026'
 layout: default

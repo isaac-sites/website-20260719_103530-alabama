@@ -1,11 +1,11 @@
 ---
-title: Military Skies Sub-Topic Index
-title_full: Military Skies Sub-Topic Index
+title: "South Carolina Military Skies Sub-Topic Index"
+title_full: "South Carolina Military Skies Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-carolina-11d001-military/
-description: Focused pages that expand on Military Skies.
+description: "Focused pages that expand on Military Skies - South Carolina."
 date: '2026'
 last_modified_at: '2026'
 layout: default

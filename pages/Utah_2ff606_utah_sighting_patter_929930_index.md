@@ -1,11 +1,11 @@
 ---
-title: Sighting Patterns Sub-Topic Index
-title_full: Sighting Patterns Sub-Topic Index
+title: "Utah Sighting Patterns Sub-Topic Index"
+title_full: "Utah Sighting Patterns Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /utah-2ff606-utah-sighting-patter/
-description: Focused pages that expand on Sighting Patterns.
+description: "Focused pages that expand on Sighting Patterns - Utah."
 date: '2026'
 last_modified_at: '2026'
 layout: default

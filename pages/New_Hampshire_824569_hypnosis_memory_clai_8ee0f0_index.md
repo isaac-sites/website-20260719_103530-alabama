@@ -1,11 +1,11 @@
 ---
-title: Memory Claims Sub-Topic Index
-title_full: Memory Claims Sub-Topic Index
+title: "New Hampshire Memory Claims Sub-Topic Index"
+title_full: "New Hampshire Memory Claims Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-hypnosis-memory/
-description: Focused pages that expand on Memory Claims.
+description: "Focused pages that expand on Memory Claims - New Hampshire."
 date: '2026'
 last_modified_at: '2026'
 layout: default

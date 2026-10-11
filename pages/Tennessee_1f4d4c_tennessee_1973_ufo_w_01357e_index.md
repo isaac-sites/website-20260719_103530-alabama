@@ -1,11 +1,11 @@
 ---
-title: 1973 Wave Sub-Topic Index
-title_full: 1973 Wave Sub-Topic Index
+title: "Tennessee 1973 Wave Sub-Topic Index"
+title_full: "Tennessee 1973 Wave Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-tennessee-1973-ufo-w/
-description: Focused pages that expand on 1973 Wave.
+description: "Focused pages that expand on 1973 Wave - Tennessee."
 date: '2026'
 last_modified_at: '2026'
 layout: default
